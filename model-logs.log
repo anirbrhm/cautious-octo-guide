@@ -1,0 +1,2960 @@
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=3, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/3
+0m 18s Epoch=1 Batch: 3/19 D_c:-0.1495 | D_w:0.3445 | G:-1.2038
+0m 32s Epoch=1 Batch: 6/19 D_c:-4.1752 | D_w:4.9331 | G:-3.0227
+0m 45s Epoch=1 Batch: 9/19 D_c:-3.3425 | D_w:5.0534 | G:-7.2708
+0m 59s Epoch=1 Batch: 12/19 D_c:-4.5440 | D_w:5.0172 | G:-6.5071
+1m 13s Epoch=1 Batch: 15/19 D_c:-5.0106 | D_w:8.9544 | G:-5.2003
+1m 26s Epoch=1 Batch: 18/19 D_c:-4.9853 | D_w:5.8895 | G:-4.3771
+1m 31s D_cost_train:-3.6084 | D_wass_train:5.1297 | D_cost_valid:-5.0949 | D_wass_valid:6.9813 | G_cost:2.6336
+1m 31s Epoch: 2/3
+1m 44s Epoch=2 Batch: 3/19 D_c:-6.8309 | D_w:7.8053 | G:-2.9555
+1m 58s Epoch=2 Batch: 6/19 D_c:-8.1098 | D_w:9.8443 | G:-2.0068
+2m 11s Epoch=2 Batch: 9/19 D_c:-5.3149 | D_w:8.8494 | G:-1.4442
+2m 25s Epoch=2 Batch: 12/19 D_c:-3.2223 | D_w:4.0224 | G:-1.0040
+2m 39s Epoch=2 Batch: 15/19 D_c:-7.6803 | D_w:10.8518 | G:-0.9574
+2m 52s Epoch=2 Batch: 18/19 D_c:-6.1553 | D_w:12.1553 | G:-0.3198
+2m 57s D_cost_train:-5.5370 | D_wass_train:7.3790 | D_cost_valid:-5.4136 | D_wass_valid:7.2968 | G_cost:-1.5974
+2m 57s Epoch: 3/3
+3m 10s Epoch=3 Batch: 3/19 D_c:-6.1449 | D_w:7.6863 | G:-0.5378
+3m 24s Epoch=3 Batch: 6/19 D_c:-5.2957 | D_w:9.0543 | G:0.3143
+3m 38s Epoch=3 Batch: 9/19 D_c:-3.4805 | D_w:4.1480 | G:-0.6863
+3m 51s Epoch=3 Batch: 12/19 D_c:-5.3410 | D_w:6.0730 | G:-1.2569
+4m 5s Epoch=3 Batch: 15/19 D_c:-5.0817 | D_w:7.0887 | G:-0.8152
+4m 19s Epoch=3 Batch: 18/19 D_c:-5.3519 | D_w:8.3311 | G:-0.1773
+4m 24s D_cost_train:-5.4655 | D_wass_train:7.1788 | D_cost_valid:-5.5767 | D_wass_valid:7.2538 | G_cost:-0.5540
+>>>>>>>Training finished !<<<<<<<
+Saving models...
+Saving loss curve...
+All finished!
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=3, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/3
+0m 16s Epoch=1 Batch: 3/19 D_c:-0.8518 | D_w:1.7100 | G:3.6742
+0m 30s Epoch=1 Batch: 6/19 D_c:-2.2103 | D_w:2.5842 | G:-0.8349
+0m 43s Epoch=1 Batch: 9/19 D_c:-3.4598 | D_w:5.7431 | G:-4.2740
+0m 57s Epoch=1 Batch: 12/19 D_c:-5.0435 | D_w:6.2874 | G:-8.1575
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 16s Epoch=1 Batch: 3/19 D_c:-1.0263 | D_w:1.1905 | G:-0.1215
+0m 30s Epoch=1 Batch: 6/19 D_c:-4.0016 | D_w:4.6370 | G:-8.2466
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 16s Epoch=1 Batch: 3/19 D_c:-0.9272 | D_w:1.4092 | G:3.0783
+0m 30s Epoch=1 Batch: 6/19 D_c:-1.7155 | D_w:2.4256 | G:-1.8018
+0m 43s Epoch=1 Batch: 9/19 D_c:-3.6316 | D_w:4.5146 | G:-5.2558
+0m 57s Epoch=1 Batch: 12/19 D_c:-2.9594 | D_w:3.0987 | G:-5.9226
+1m 10s Epoch=1 Batch: 15/19 D_c:-4.9900 | D_w:6.7988 | G:-5.6981
+1m 24s Epoch=1 Batch: 18/19 D_c:-5.6636 | D_w:6.6159 | G:-5.7365
+1m 29s D_cost_train:-2.9467 | D_wass_train:4.4553 | D_cost_valid:-3.8095 | D_wass_valid:5.1470 | G_cost:0.8085
+1m 29s Epoch: 2/2
+1m 42s Epoch=2 Batch: 3/19 D_c:-3.3401 | D_w:4.6344 | G:-5.2647
+1m 56s Epoch=2 Batch: 6/19 D_c:-5.8888 | D_w:8.0524 | G:-3.1378
+2m 10s Epoch=2 Batch: 9/19 D_c:-7.7605 | D_w:9.8146 | G:-3.0952
+2m 23s Epoch=2 Batch: 12/19 D_c:-7.4470 | D_w:8.3178 | G:-2.6224
+2m 37s Epoch=2 Batch: 15/19 D_c:-4.3633 | D_w:5.8941 | G:-1.4610
+2m 50s Epoch=2 Batch: 18/19 D_c:-8.9659 | D_w:12.0181 | G:-1.8279
+2m 55s D_cost_train:-5.0796 | D_wass_train:6.6499 | D_cost_valid:-4.3380 | D_wass_valid:5.7054 | G_cost:-2.9113
+>>>>>>>Training finished !<<<<<<<
+Saving models...
+Saving loss curve...
+All finished!
+Loading models...
+Loading models...
+Loading models...
+Loading models...
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 17s Epoch=1 Batch: 3/19 D_c:-6.5091 | D_w:9.4757 | G:-1.0489
+0m 30s Epoch=1 Batch: 6/19 D_c:-4.0053 | D_w:5.8473 | G:-2.9951
+0m 44s Epoch=1 Batch: 9/19 D_c:-5.6193 | D_w:7.4991 | G:-0.7896
+0m 58s Epoch=1 Batch: 12/19 D_c:-2.9561 | D_w:3.9462 | G:-0.4351
+1m 11s Epoch=1 Batch: 15/19 D_c:-6.0279 | D_w:6.5908 | G:-1.0946
+1m 25s Epoch=1 Batch: 18/19 D_c:-7.7364 | D_w:10.8566 | G:-0.7853
+1m 29s D_cost_train:-5.4153 | D_wass_train:7.1203 | D_cost_valid:-5.9722 | D_wass_valid:7.5835 | G_cost:-0.8005
+1m 29s Epoch: 2/2
+1m 43s Epoch=2 Batch: 3/19 D_c:-7.2422 | D_w:8.0475 | G:-0.9401
+1m 56s Epoch=2 Batch: 6/19 D_c:-4.4613 | D_w:6.3078 | G:-1.4917
+2m 10s Epoch=2 Batch: 9/19 D_c:-4.5115 | D_w:7.7220 | G:-0.9109
+2m 24s Epoch=2 Batch: 12/19 D_c:-4.5255 | D_w:5.9733 | G:-0.5109
+2m 37s Epoch=2 Batch: 15/19 D_c:-9.2063 | D_w:11.0854 | G:-0.4252
+2m 51s Epoch=2 Batch: 18/19 D_c:-5.1230 | D_w:5.4448 | G:-0.3673
+2m 56s D_cost_train:-5.6132 | D_wass_train:7.1925 | D_cost_valid:-6.3847 | D_wass_valid:7.9489 | G_cost:-0.8332
+>>>>>>>Training finished !<<<<<<<
+Saving models...
+Saving loss curve...
+All finished!
+Loading models...
+Loading models...
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 18s Epoch=1 Batch: 3/19 D_c:-1.2461 | D_w:1.7641 | G:-9.7717
+0m 32s Epoch=1 Batch: 6/19 D_c:-2.2428 | D_w:3.1727 | G:-12.6396
+0m 45s Epoch=1 Batch: 9/19 D_c:-4.2988 | D_w:5.2534 | G:-17.9033
+0m 59s Epoch=1 Batch: 12/19 D_c:-2.8361 | D_w:3.2541 | G:-12.9417
+1m 13s Epoch=1 Batch: 15/19 D_c:-4.8536 | D_w:6.2260 | G:-10.6534
+1m 26s Epoch=1 Batch: 18/19 D_c:-4.4165 | D_w:6.1797 | G:-7.2402
+1m 31s D_cost_train:-3.1135 | D_wass_train:4.3992 | D_cost_valid:-4.2274 | D_wass_valid:5.8453 | G_cost:-7.2888
+Generating samples...
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 16s Epoch=1 Batch: 3/19 D_c:-1.4767 | D_w:2.9855 | G:2.4607
+0m 30s Epoch=1 Batch: 6/19 D_c:-2.2191 | D_w:2.6495 | G:-7.3251
+0m 44s Epoch=1 Batch: 9/19 D_c:-4.2804 | D_w:4.7310 | G:-14.1770
+0m 57s Epoch=1 Batch: 12/19 D_c:-2.7521 | D_w:3.8745 | G:-11.4182
+1m 11s Epoch=1 Batch: 15/19 D_c:-4.0246 | D_w:5.4070 | G:-11.1071
+1m 25s Epoch=1 Batch: 18/19 D_c:-5.0934 | D_w:6.9913 | G:-10.3339
+1m 30s D_cost_train:-3.2269 | D_wass_train:6.3644 | D_cost_valid:-5.6144 | D_wass_valid:8.1080 | G_cost:4.5824
+Generating samples...
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 16s Epoch=1 Batch: 3/19 D_c:-1.7582 | D_w:2.2623 | G:1.0762
+0m 30s Epoch=1 Batch: 6/19 D_c:-7.1337 | D_w:9.8184 | G:-1.9317
+0m 43s Epoch=1 Batch: 9/19 D_c:-3.9966 | D_w:7.2126 | G:-12.4461
+0m 57s Epoch=1 Batch: 12/19 D_c:-5.9063 | D_w:7.6124 | G:-13.4997
+1m 11s Epoch=1 Batch: 15/19 D_c:-4.4944 | D_w:6.4236 | G:-9.5331
+1m 24s Epoch=1 Batch: 18/19 D_c:-7.2468 | D_w:8.4722 | G:-9.7321
+1m 29s D_cost_train:-3.4464 | D_wass_train:4.9388 | D_cost_valid:-4.1782 | D_wass_valid:5.5938 | G_cost:-5.8841
+Generating samples...
+1m 29s Epoch: 2/2
+1m 43s Epoch=2 Batch: 3/19 D_c:-7.2740 | D_w:8.5755 | G:-7.1374
+1m 56s Epoch=2 Batch: 6/19 D_c:-3.9777 | D_w:5.0142 | G:-4.8274
+2m 10s Epoch=2 Batch: 9/19 D_c:-5.1964 | D_w:6.1953 | G:-3.4599
+2m 24s Epoch=2 Batch: 12/19 D_c:-7.1589 | D_w:8.2282 | G:-3.2099
+2m 38s Epoch=2 Batch: 15/19 D_c:-4.9549 | D_w:6.1222 | G:-1.8158
+2m 52s Epoch=2 Batch: 18/19 D_c:-6.3391 | D_w:8.3114 | G:-1.5751
+2m 56s D_cost_train:-5.5870 | D_wass_train:7.3850 | D_cost_valid:-4.8867 | D_wass_valid:6.5111 | G_cost:-3.7616
+Generating samples...
+>>>>>>>Training finished !<<<<<<<
+Saving models...
+Saving loss curve...
+All finished!
+Loading models...
+Loading models...
+Saving configurations...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 16s Epoch=1 Batch: 3/19 D_c:-5.3536 | D_w:7.5308 | G:-1.2772
+0m 30s Epoch=1 Batch: 6/19 D_c:-6.9030 | D_w:12.0392 | G:6.7210
+0m 43s Epoch=1 Batch: 9/19 D_c:-6.2176 | D_w:7.7727 | G:-1.4381
+0m 57s Epoch=1 Batch: 12/19 D_c:-5.1975 | D_w:5.9198 | G:-1.3793
+1m 11s Epoch=1 Batch: 15/19 D_c:-6.1874 | D_w:6.8889 | G:-0.7643
+1m 24s Epoch=1 Batch: 18/19 D_c:-6.4595 | D_w:12.2339 | G:-0.6734
+1m 29s D_cost_train:-5.1571 | D_wass_train:6.8180 | D_cost_valid:-5.6789 | D_wass_valid:7.3462 | G_cost:-0.6364
+Generating samples...
+1m 29s Epoch: 2/2
+1m 42s Epoch=2 Batch: 3/19 D_c:-5.9214 | D_w:6.3436 | G:-0.9257
+1m 56s Epoch=2 Batch: 6/19 D_c:-8.5809 | D_w:9.7667 | G:-1.4471
+2m 10s Epoch=2 Batch: 9/19 D_c:-2.7940 | D_w:3.6563 | G:-0.6910
+2m 23s Epoch=2 Batch: 12/19 D_c:-5.4670 | D_w:7.9338 | G:-1.1315
+2m 37s Epoch=2 Batch: 15/19 D_c:-6.7735 | D_w:8.1814 | G:-0.7940
+2m 51s Epoch=2 Batch: 18/19 D_c:-5.7890 | D_w:7.2991 | G:-1.5349
+2m 55s D_cost_train:-5.7657 | D_wass_train:7.4739 | D_cost_valid:-5.6981 | D_wass_valid:7.3288 | G_cost:-0.6734
+Generating samples...
+>>>>>>>Training finished !<<<<<<<
+Saving models...
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 16s Epoch=1 Batch: 3/19 D_c:-2.8493 | D_w:7.1957 | G:-0.7579
+0m 30s Epoch=1 Batch: 6/19 D_c:-9.3551 | D_w:11.8600 | G:0.2517
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 16s Epoch=1 Batch: 3/19 D_c:-9.5202 | D_w:13.3047 | G:-1.1337
+0m 29s Epoch=1 Batch: 6/19 D_c:-7.3135 | D_w:8.8893 | G:0.9253
+0m 43s Epoch=1 Batch: 9/19 D_c:-4.6305 | D_w:5.5815 | G:-1.4384
+0m 56s Epoch=1 Batch: 12/19 D_c:-6.9229 | D_w:10.7191 | G:-0.6391
+1m 10s Epoch=1 Batch: 15/19 D_c:-5.0117 | D_w:6.0219 | G:-0.8961
+1m 23s Epoch=1 Batch: 18/19 D_c:-5.0264 | D_w:6.4928 | G:-0.5628
+1m 28s D_cost_train:-5.8787 | D_wass_train:7.5595 | D_cost_valid:-5.8475 | D_wass_valid:7.4884 | G_cost:-0.7413
+Generating samples...
+1m 28s Epoch: 2/2
+1m 41s Epoch=2 Batch: 3/19 D_c:-6.8511 | D_w:8.2215 | G:2.4132
+1m 55s Epoch=2 Batch: 6/19 D_c:-8.6071 | D_w:10.1030 | G:-0.7788
+2m 9s Epoch=2 Batch: 9/19 D_c:-4.2159 | D_w:5.6719 | G:-0.4503
+2m 22s Epoch=2 Batch: 12/19 D_c:-5.9052 | D_w:7.5643 | G:-0.5484
+2m 36s Epoch=2 Batch: 15/19 D_c:-6.6195 | D_w:7.0541 | G:-2.1295
+2m 50s Epoch=2 Batch: 18/19 D_c:-6.4683 | D_w:7.7228 | G:-1.4949
+2m 54s D_cost_train:-5.8470 | D_wass_train:7.7117 | D_cost_valid:-6.0672 | D_wass_valid:7.9213 | G_cost:-0.0844
+Generating samples...
+>>>>>>>Training finished !<<<<<<<
+Saving models...
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=19
+0m 0s Epoch: 1/2
+0m 15s Epoch=1 Batch: 3/19 D_c:-5.2754 | D_w:6.6437 | G:-1.1169
+0m 29s Epoch=1 Batch: 6/19 D_c:-8.2695 | D_w:10.0103 | G:-1.5986
+0m 43s Epoch=1 Batch: 9/19 D_c:-9.4014 | D_w:11.1278 | G:-2.1271
+0m 56s Epoch=1 Batch: 12/19 D_c:-5.2492 | D_w:6.9571 | G:-1.0481
+1m 10s Epoch=1 Batch: 15/19 D_c:-7.6100 | D_w:8.6528 | G:-0.8330
+1m 23s Epoch=1 Batch: 18/19 D_c:-4.9546 | D_w:9.5896 | G:-0.5295
+1m 28s D_cost_train:-6.1730 | D_wass_train:7.8571 | D_cost_valid:-6.3665 | D_wass_valid:7.8945 | G_cost:-1.2251
+Generating samples...
+Saving models...
+1m 28s Epoch: 2/2
+1m 42s Epoch=2 Batch: 3/19 D_c:-8.0893 | D_w:9.6031 | G:-1.2274
+1m 56s Epoch=2 Batch: 6/19 D_c:-4.6431 | D_w:6.8083 | G:-1.4748
+2m 9s Epoch=2 Batch: 9/19 D_c:-6.1501 | D_w:6.5407 | G:-0.8546
+2m 23s Epoch=2 Batch: 12/19 D_c:-5.2294 | D_w:5.9925 | G:-0.8360
+2m 37s Epoch=2 Batch: 15/19 D_c:-5.0833 | D_w:6.0484 | G:-0.9428
+2m 50s Epoch=2 Batch: 18/19 D_c:-8.9743 | D_w:10.2866 | G:-1.4004
+2m 55s D_cost_train:-6.5989 | D_wass_train:8.3786 | D_cost_valid:-6.5464 | D_wass_valid:8.1460 | G_cost:-1.1384
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=16, BATCH_NUM=0
+0m 0s Epoch: 1/2
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=8, BATCH_NUM=1
+0m 0s Epoch: 1/2
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=2, BATCH_NUM=4
+0m 0s Epoch: 1/2
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=4, BATCH_NUM=11
+0m 0s Epoch: 1/2
+0m 5s Epoch=1 Batch: 2/11 D_c:-18.2626 | D_w:22.4462 | G:40.9697
+0m 8s Epoch=1 Batch: 4/11 D_c:-6.8301 | D_w:7.9280 | G:7.2342
+0m 12s Epoch=1 Batch: 6/11 D_c:-0.6101 | D_w:1.2455 | G:-5.5790
+0m 15s Epoch=1 Batch: 8/11 D_c:-2.0384 | D_w:2.6479 | G:-8.0838
+0m 18s Epoch=1 Batch: 10/11 D_c:-3.9412 | D_w:4.8036 | G:-7.7981
+0m 20s D_cost_train:-2.0955 | D_wass_train:3.4025 | D_cost_valid:-2.6251 | D_wass_valid:3.7790 | G_cost:-0.8474
+Generating samples...
+Saving models...
+0m 20s Epoch: 2/2
+0m 23s Epoch=2 Batch: 2/11 D_c:-1.5010 | D_w:2.4441 | G:-6.5647
+0m 27s Epoch=2 Batch: 4/11 D_c:-0.6787 | D_w:0.7321 | G:-5.5308
+0m 30s Epoch=2 Batch: 6/11 D_c:-2.0439 | D_w:2.8811 | G:-6.2372
+0m 33s Epoch=2 Batch: 8/11 D_c:-5.1889 | D_w:6.9722 | G:-5.2597
+0m 36s Epoch=2 Batch: 10/11 D_c:-3.2152 | D_w:3.3661 | G:-5.4819
+0m 38s D_cost_train:-3.4320 | D_wass_train:4.6427 | D_cost_valid:-2.3417 | D_wass_valid:3.3148 | G_cost:-5.8094
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=10, BATCH_SIZE=4, BATCH_NUM=11
+0m 0s Epoch: 1/10
+0m 5s Epoch=1 Batch: 2/11 D_c:-4.4413 | D_w:4.9541 | G:-0.9315
+0m 8s Epoch=1 Batch: 4/11 D_c:-4.0829 | D_w:4.6558 | G:-4.6434
+0m 12s Epoch=1 Batch: 6/11 D_c:-4.5890 | D_w:4.8225 | G:-2.7017
+0m 15s Epoch=1 Batch: 8/11 D_c:-4.2980 | D_w:4.6074 | G:-2.9645
+0m 18s Epoch=1 Batch: 10/11 D_c:-1.0121 | D_w:1.1054 | G:-3.4985
+0m 20s D_cost_train:-3.1088 | D_wass_train:4.2594 | D_cost_valid:-5.7545 | D_wass_valid:7.0136 | G_cost:-3.2112
+Generating samples...
+Saving models...
+0m 20s Epoch: 2/10
+0m 24s Epoch=2 Batch: 2/11 D_c:-2.0346 | D_w:5.0940 | G:-2.0877
+0m 27s Epoch=2 Batch: 4/11 D_c:-3.7067 | D_w:6.6999 | G:-1.8610
+0m 30s Epoch=2 Batch: 6/11 D_c:-4.3656 | D_w:5.0139 | G:-1.9221
+0m 33s Epoch=2 Batch: 8/11 D_c:-2.7909 | D_w:2.8115 | G:-1.5686
+0m 37s Epoch=2 Batch: 10/11 D_c:-4.4447 | D_w:4.8810 | G:-1.8668
+0m 38s D_cost_train:-3.2676 | D_wass_train:4.3441 | D_cost_valid:-6.4223 | D_wass_valid:7.6425 | G_cost:-1.7478
+Generating samples...
+Saving models...
+0m 39s Epoch: 3/10
+0m 42s Epoch=3 Batch: 2/11 D_c:-3.8744 | D_w:7.6250 | G:-1.0453
+0m 45s Epoch=3 Batch: 4/11 D_c:-4.3699 | D_w:5.2267 | G:-1.0202
+0m 49s Epoch=3 Batch: 6/11 D_c:-2.7649 | D_w:3.6538 | G:-1.3820
+0m 52s Epoch=3 Batch: 8/11 D_c:-2.9109 | D_w:3.5461 | G:-0.8567
+0m 55s Epoch=3 Batch: 10/11 D_c:-2.9054 | D_w:3.0647 | G:-1.2361
+0m 57s D_cost_train:-4.8421 | D_wass_train:6.2317 | D_cost_valid:-6.4240 | D_wass_valid:7.5384 | G_cost:-1.1790
+Generating samples...
+Saving models...
+0m 57s Epoch: 4/10
+1m 1s Epoch=4 Batch: 2/11 D_c:-4.2687 | D_w:4.3382 | G:-1.2538
+1m 4s Epoch=4 Batch: 4/11 D_c:-8.0033 | D_w:9.7474 | G:-1.0684
+1m 7s Epoch=4 Batch: 6/11 D_c:-2.5992 | D_w:2.7726 | G:-0.8384
+1m 10s Epoch=4 Batch: 8/11 D_c:-2.5300 | D_w:2.9073 | G:-0.6655
+1m 14s Epoch=4 Batch: 10/11 D_c:-3.7142 | D_w:4.5207 | G:-1.2566
+1m 15s D_cost_train:-4.5534 | D_wass_train:5.8264 | D_cost_valid:-7.5817 | D_wass_valid:9.4365 | G_cost:-0.9709
+Generating samples...
+Saving models...
+1m 16s Epoch: 5/10
+1m 19s Epoch=5 Batch: 2/11 D_c:-8.3514 | D_w:10.1534 | G:-0.7854
+1m 22s Epoch=5 Batch: 4/11 D_c:-2.6445 | D_w:3.3366 | G:-0.4680
+1m 26s Epoch=5 Batch: 6/11 D_c:-9.0612 | D_w:10.8931 | G:-0.9340
+1m 29s Epoch=5 Batch: 8/11 D_c:-6.2324 | D_w:8.9638 | G:-0.7351
+1m 32s Epoch=5 Batch: 10/11 D_c:-2.9650 | D_w:4.2142 | G:-1.0601
+1m 34s D_cost_train:-4.2969 | D_wass_train:5.5128 | D_cost_valid:-6.6766 | D_wass_valid:8.1463 | G_cost:-0.7535
+Generating samples...
+Saving models...
+1m 34s Epoch: 6/10
+1m 38s Epoch=6 Batch: 2/11 D_c:-5.4402 | D_w:6.6209 | G:-0.0104
+1m 41s Epoch=6 Batch: 4/11 D_c:-1.3618 | D_w:1.6949 | G:-0.9424
+1m 44s Epoch=6 Batch: 6/11 D_c:-4.7249 | D_w:5.3519 | G:-1.0675
+1m 48s Epoch=6 Batch: 8/11 D_c:-5.1254 | D_w:5.4840 | G:-0.6442
+1m 51s Epoch=6 Batch: 10/11 D_c:-6.0378 | D_w:7.8020 | G:-0.1567
+1m 52s D_cost_train:-3.9054 | D_wass_train:4.9357 | D_cost_valid:-6.8377 | D_wass_valid:7.9923 | G_cost:-0.4968
+Generating samples...
+Saving models...
+1m 53s Epoch: 7/10
+1m 56s Epoch=7 Batch: 2/11 D_c:-1.9979 | D_w:2.2039 | G:-0.4513
+2m 0s Epoch=7 Batch: 4/11 D_c:-3.6124 | D_w:5.0205 | G:-0.2736
+2m 3s Epoch=7 Batch: 6/11 D_c:-3.2378 | D_w:7.2727 | G:-0.3275
+2m 6s Epoch=7 Batch: 8/11 D_c:-9.2226 | D_w:10.3591 | G:-1.0594
+2m 9s Epoch=7 Batch: 10/11 D_c:-3.4913 | D_w:4.7243 | G:-2.9160
+2m 11s D_cost_train:-4.7916 | D_wass_train:5.9967 | D_cost_valid:-6.1056 | D_wass_valid:7.1225 | G_cost:-0.9402
+Generating samples...
+Saving models...
+2m 12s Epoch: 8/10
+2m 15s Epoch=8 Batch: 2/11 D_c:-3.2185 | D_w:3.6871 | G:-0.0912
+2m 18s Epoch=8 Batch: 4/11 D_c:-4.9127 | D_w:6.3997 | G:-0.4047
+2m 21s Epoch=8 Batch: 6/11 D_c:-3.5713 | D_w:4.4843 | G:-0.8645
+2m 25s Epoch=8 Batch: 8/11 D_c:-0.3329 | D_w:3.9161 | G:-0.7312
+2m 28s Epoch=8 Batch: 10/11 D_c:-5.1971 | D_w:6.2245 | G:-0.8036
+2m 30s D_cost_train:-4.5250 | D_wass_train:5.6287 | D_cost_valid:-6.7177 | D_wass_valid:7.8498 | G_cost:-0.4948
+Generating samples...
+Saving models...
+2m 30s Epoch: 9/10
+2m 34s Epoch=9 Batch: 2/11 D_c:-5.6276 | D_w:7.5335 | G:-0.7061
+2m 37s Epoch=9 Batch: 4/11 D_c:-5.4188 | D_w:5.9813 | G:-0.7288
+2m 40s Epoch=9 Batch: 6/11 D_c:-2.9626 | D_w:5.6899 | G:-0.6589
+2m 43s Epoch=9 Batch: 8/11 D_c:-2.7574 | D_w:3.6277 | G:-0.5054
+2m 47s Epoch=9 Batch: 10/11 D_c:-4.5376 | D_w:5.2049 | G:-0.7392
+2m 48s D_cost_train:-4.6641 | D_wass_train:5.8615 | D_cost_valid:-6.8081 | D_wass_valid:7.9029 | G_cost:-0.6523
+Generating samples...
+Saving models...
+2m 49s Epoch: 10/10
+2m 52s Epoch=10 Batch: 2/11 D_c:-6.6912 | D_w:7.6604 | G:-0.6105
+2m 56s Epoch=10 Batch: 4/11 D_c:-5.4847 | D_w:5.6533 | G:-0.3771
+2m 59s Epoch=10 Batch: 6/11 D_c:-4.3238 | D_w:5.2249 | G:-0.4213
+3m 2s Epoch=10 Batch: 8/11 D_c:-2.6433 | D_w:2.7553 | G:-0.5346
+3m 6s Epoch=10 Batch: 10/11 D_c:-5.6374 | D_w:6.3859 | G:0.3115
+3m 7s D_cost_train:-4.5508 | D_wass_train:5.6727 | D_cost_valid:-7.4184 | D_wass_valid:8.6975 | G_cost:-0.3961
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=100, BATCH_SIZE=4, BATCH_NUM=11
+0m 0s Epoch: 1/100
+0m 6s Epoch=1 Batch: 2/11 D_c:-5.3013 | D_w:6.0133 | G:-0.2479
+0m 9s Epoch=1 Batch: 4/11 D_c:-7.2224 | D_w:8.1744 | G:-0.7565
+0m 12s Epoch=1 Batch: 6/11 D_c:-6.9523 | D_w:7.4652 | G:-0.5288
+0m 15s Epoch=1 Batch: 8/11 D_c:-4.2306 | D_w:8.7607 | G:-0.4611
+0m 19s Epoch=1 Batch: 10/11 D_c:-1.2385 | D_w:1.5699 | G:-1.6063
+0m 20s D_cost_train:-5.2794 | D_wass_train:6.7194 | D_cost_valid:-5.2853 | D_wass_valid:6.5092 | G_cost:-0.5866
+Generating samples...
+Saving models...
+0m 21s Epoch: 2/100
+0m 24s Epoch=2 Batch: 2/11 D_c:-4.8990 | D_w:7.2344 | G:-0.8128
+0m 27s Epoch=2 Batch: 4/11 D_c:-4.6553 | D_w:6.9073 | G:-0.2252
+0m 31s Epoch=2 Batch: 6/11 D_c:-4.9756 | D_w:5.8498 | G:-1.3976
+0m 34s Epoch=2 Batch: 8/11 D_c:-6.0036 | D_w:9.6139 | G:-0.9840
+0m 37s Epoch=2 Batch: 10/11 D_c:-6.2671 | D_w:7.1661 | G:-0.4324
+0m 39s D_cost_train:-5.0614 | D_wass_train:6.3867 | D_cost_valid:-5.4377 | D_wass_valid:6.5385 | G_cost:-0.6786
+Generating samples...
+Saving models...
+0m 40s Epoch: 3/100
+0m 43s Epoch=3 Batch: 2/11 D_c:-5.0593 | D_w:7.4108 | G:-1.1722
+0m 46s Epoch=3 Batch: 4/11 D_c:-5.2816 | D_w:6.0171 | G:-0.8130
+0m 49s Epoch=3 Batch: 6/11 D_c:-6.2050 | D_w:6.9716 | G:-0.7816
+0m 53s Epoch=3 Batch: 8/11 D_c:-2.7975 | D_w:3.2552 | G:-1.0014
+0m 56s Epoch=3 Batch: 10/11 D_c:-4.6057 | D_w:6.0522 | G:-1.0459
+0m 58s D_cost_train:-4.7359 | D_wass_train:6.0421 | D_cost_valid:-4.6314 | D_wass_valid:5.4655 | G_cost:-1.0528
+Generating samples...
+Saving models...
+0m 58s Epoch: 4/100
+1m 2s Epoch=4 Batch: 2/11 D_c:-8.1411 | D_w:10.3605 | G:0.3698
+1m 5s Epoch=4 Batch: 4/11 D_c:-4.8622 | D_w:6.0031 | G:-1.1525
+1m 8s Epoch=4 Batch: 6/11 D_c:-4.7064 | D_w:4.9611 | G:-0.9852
+1m 12s Epoch=4 Batch: 8/11 D_c:-3.9483 | D_w:4.6555 | G:-0.6511
+1m 15s Epoch=4 Batch: 10/11 D_c:-8.2606 | D_w:9.7888 | G:-0.9488
+1m 17s D_cost_train:-5.8128 | D_wass_train:7.3739 | D_cost_valid:-4.1575 | D_wass_valid:5.1612 | G_cost:-0.6603
+Generating samples...
+Saving models...
+1m 18s Epoch: 5/100
+1m 21s Epoch=5 Batch: 2/11 D_c:-3.8516 | D_w:5.7780 | G:-0.1333
+1m 24s Epoch=5 Batch: 4/11 D_c:-7.1008 | D_w:9.3869 | G:-1.5242
+1m 28s Epoch=5 Batch: 6/11 D_c:-5.1115 | D_w:6.5115 | G:-0.6484
+1m 31s Epoch=5 Batch: 8/11 D_c:-4.4823 | D_w:5.6036 | G:-1.1938
+1m 34s Epoch=5 Batch: 10/11 D_c:-5.6230 | D_w:6.2685 | G:-1.1524
+1m 36s D_cost_train:-5.4186 | D_wass_train:6.6408 | D_cost_valid:-5.0245 | D_wass_valid:5.9680 | G_cost:-0.7043
+Generating samples...
+Saving models...
+1m 37s Epoch: 6/100
+1m 40s Epoch=6 Batch: 2/11 D_c:-6.3251 | D_w:6.9958 | G:-0.1697
+1m 43s Epoch=6 Batch: 4/11 D_c:-6.1724 | D_w:6.7917 | G:-1.7295
+1m 47s Epoch=6 Batch: 6/11 D_c:-6.0791 | D_w:6.8531 | G:-0.6308
+1m 50s Epoch=6 Batch: 8/11 D_c:-6.0623 | D_w:6.8861 | G:-0.5530
+1m 54s Epoch=6 Batch: 10/11 D_c:-3.6156 | D_w:5.6581 | G:-0.7832
+1m 55s D_cost_train:-5.6713 | D_wass_train:7.0799 | D_cost_valid:-4.6988 | D_wass_valid:5.7740 | G_cost:-0.7085
+Generating samples...
+Saving models...
+1m 56s Epoch: 7/100
+1m 59s Epoch=7 Batch: 2/11 D_c:-5.6138 | D_w:5.9913 | G:-0.5185
+2m 3s Epoch=7 Batch: 4/11 D_c:-5.1227 | D_w:5.9519 | G:-1.6129
+2m 6s Epoch=7 Batch: 6/11 D_c:-7.4517 | D_w:7.8992 | G:-1.4271
+2m 10s Epoch=7 Batch: 8/11 D_c:-7.0470 | D_w:7.7459 | G:-0.9151
+2m 13s Epoch=7 Batch: 10/11 D_c:-4.0841 | D_w:4.8882 | G:-0.1310
+2m 15s D_cost_train:-5.9944 | D_wass_train:7.4458 | D_cost_valid:-5.0702 | D_wass_valid:6.1649 | G_cost:-0.9460
+Generating samples...
+Saving models...
+2m 15s Epoch: 8/100
+2m 19s Epoch=8 Batch: 2/11 D_c:-6.8728 | D_w:7.2609 | G:-0.0818
+2m 22s Epoch=8 Batch: 4/11 D_c:-7.0799 | D_w:10.3168 | G:-0.5208
+2m 26s Epoch=8 Batch: 6/11 D_c:-8.0205 | D_w:8.5980 | G:-0.4658
+2m 29s Epoch=8 Batch: 8/11 D_c:-2.1609 | D_w:6.5061 | G:-1.0840
+2m 32s Epoch=8 Batch: 10/11 D_c:-7.0724 | D_w:9.7281 | G:-0.6491
+2m 34s D_cost_train:-5.5393 | D_wass_train:6.9582 | D_cost_valid:-4.1295 | D_wass_valid:5.0794 | G_cost:-0.5179
+Generating samples...
+Saving models...
+2m 35s Epoch: 9/100
+2m 38s Epoch=9 Batch: 2/11 D_c:-3.6994 | D_w:4.4429 | G:-0.5705
+2m 41s Epoch=9 Batch: 4/11 D_c:-4.9516 | D_w:6.9727 | G:-1.0298
+2m 45s Epoch=9 Batch: 6/11 D_c:-6.9273 | D_w:8.7907 | G:-0.9842
+2m 48s Epoch=9 Batch: 8/11 D_c:-2.1025 | D_w:2.2566 | G:-0.7419
+2m 52s Epoch=9 Batch: 10/11 D_c:-6.8529 | D_w:7.4050 | G:-0.7737
+2m 53s D_cost_train:-5.4017 | D_wass_train:6.5708 | D_cost_valid:-4.1656 | D_wass_valid:4.8853 | G_cost:-0.7962
+Generating samples...
+Saving models...
+2m 54s Epoch: 10/100
+2m 58s Epoch=10 Batch: 2/11 D_c:-7.8789 | D_w:9.8894 | G:-1.1006
+3m 1s Epoch=10 Batch: 4/11 D_c:-6.1558 | D_w:7.0824 | G:-0.7953
+3m 4s Epoch=10 Batch: 6/11 D_c:-2.8436 | D_w:5.8406 | G:-1.1342
+3m 8s Epoch=10 Batch: 8/11 D_c:-9.0543 | D_w:9.9322 | G:-1.2674
+3m 12s Epoch=10 Batch: 10/11 D_c:-8.6345 | D_w:10.1977 | G:-1.1596
+3m 13s D_cost_train:-5.9516 | D_wass_train:7.2985 | D_cost_valid:-4.3814 | D_wass_valid:5.2768 | G_cost:-1.0275
+Generating samples...
+Saving models...
+3m 14s Epoch: 11/100
+3m 18s Epoch=11 Batch: 2/11 D_c:-4.3969 | D_w:5.7854 | G:-1.2727
+3m 21s Epoch=11 Batch: 4/11 D_c:-8.1125 | D_w:9.2743 | G:-0.4028
+3m 25s Epoch=11 Batch: 6/11 D_c:-6.2665 | D_w:7.4087 | G:-0.9097
+3m 28s Epoch=11 Batch: 8/11 D_c:-10.2171 | D_w:12.5476 | G:-1.3110
+3m 32s Epoch=11 Batch: 10/11 D_c:-6.3891 | D_w:8.4104 | G:-0.4481
+3m 33s D_cost_train:-5.3689 | D_wass_train:6.5359 | D_cost_valid:-4.6485 | D_wass_valid:5.4647 | G_cost:-0.8196
+Generating samples...
+Saving models...
+3m 34s Epoch: 12/100
+3m 38s Epoch=12 Batch: 2/11 D_c:-4.7250 | D_w:8.9819 | G:-0.4929
+3m 41s Epoch=12 Batch: 4/11 D_c:-6.0613 | D_w:6.6759 | G:-1.1996
+3m 45s Epoch=12 Batch: 6/11 D_c:-15.7773 | D_w:18.1190 | G:-1.4431
+3m 48s Epoch=12 Batch: 8/11 D_c:-3.5236 | D_w:4.0957 | G:-0.8258
+3m 52s Epoch=12 Batch: 10/11 D_c:-5.5598 | D_w:5.8239 | G:-0.6280
+3m 54s D_cost_train:-5.5047 | D_wass_train:6.7806 | D_cost_valid:-5.4271 | D_wass_valid:6.4880 | G_cost:-0.9054
+Generating samples...
+Saving models...
+3m 54s Epoch: 13/100
+3m 58s Epoch=13 Batch: 2/11 D_c:-4.4912 | D_w:4.9440 | G:-0.5888
+4m 2s Epoch=13 Batch: 4/11 D_c:-3.6118 | D_w:5.3240 | G:-1.0349
+4m 5s Epoch=13 Batch: 6/11 D_c:-9.2783 | D_w:10.7083 | G:-0.7973
+4m 9s Epoch=13 Batch: 8/11 D_c:-3.3714 | D_w:5.5360 | G:-0.8460
+4m 12s Epoch=13 Batch: 10/11 D_c:-3.5312 | D_w:4.0786 | G:-0.7403
+4m 14s D_cost_train:-5.3291 | D_wass_train:6.5393 | D_cost_valid:-5.2097 | D_wass_valid:6.0392 | G_cost:-0.9238
+Generating samples...
+Saving models...
+4m 15s Epoch: 14/100
+4m 19s Epoch=14 Batch: 2/11 D_c:-6.4732 | D_w:7.6871 | G:-0.8039
+4m 22s Epoch=14 Batch: 4/11 D_c:-7.9569 | D_w:8.2438 | G:-0.7137
+4m 26s Epoch=14 Batch: 6/11 D_c:-5.0634 | D_w:5.4690 | G:-1.6090
+4m 29s Epoch=14 Batch: 8/11 D_c:-7.1745 | D_w:8.8496 | G:-0.5442
+4m 33s Epoch=14 Batch: 10/11 D_c:-5.0387 | D_w:6.1985 | G:-0.2458
+4m 35s D_cost_train:-5.9349 | D_wass_train:7.2230 | D_cost_valid:-5.1189 | D_wass_valid:6.2050 | G_cost:-0.6113
+Generating samples...
+Saving models...
+4m 35s Epoch: 15/100
+4m 39s Epoch=15 Batch: 2/11 D_c:-6.0876 | D_w:7.1325 | G:-0.6716
+4m 43s Epoch=15 Batch: 4/11 D_c:-10.1965 | D_w:12.5462 | G:-0.5141
+4m 46s Epoch=15 Batch: 6/11 D_c:-1.9009 | D_w:1.9961 | G:-0.5184
+4m 50s Epoch=15 Batch: 8/11 D_c:-6.6839 | D_w:7.5568 | G:-0.3993
+4m 53s Epoch=15 Batch: 10/11 D_c:-6.5873 | D_w:9.8339 | G:-0.7098
+4m 55s D_cost_train:-6.3436 | D_wass_train:7.9256 | D_cost_valid:-4.6440 | D_wass_valid:5.7148 | G_cost:-0.5076
+Generating samples...
+Saving models...
+4m 56s Epoch: 16/100
+5m 0s Epoch=16 Batch: 2/11 D_c:-8.5881 | D_w:9.3666 | G:-1.1031
+5m 3s Epoch=16 Batch: 4/11 D_c:-7.6647 | D_w:8.7563 | G:-0.8298
+5m 7s Epoch=16 Batch: 6/11 D_c:-6.7739 | D_w:7.1057 | G:-0.4449
+5m 11s Epoch=16 Batch: 8/11 D_c:-6.9967 | D_w:8.1248 | G:-0.5189
+5m 14s Epoch=16 Batch: 10/11 D_c:-3.8283 | D_w:4.7613 | G:-0.3759
+5m 16s D_cost_train:-6.1548 | D_wass_train:7.3817 | D_cost_valid:-5.3050 | D_wass_valid:6.2852 | G_cost:-0.6954
+Generating samples...
+Saving models...
+5m 17s Epoch: 17/100
+5m 21s Epoch=17 Batch: 2/11 D_c:-6.1346 | D_w:6.5848 | G:-0.3727
+5m 24s Epoch=17 Batch: 4/11 D_c:-11.1153 | D_w:11.9636 | G:-1.2004
+5m 28s Epoch=17 Batch: 6/11 D_c:-8.3408 | D_w:9.4990 | G:-0.1043
+5m 32s Epoch=17 Batch: 8/11 D_c:-5.0923 | D_w:8.4376 | G:-0.4086
+5m 35s Epoch=17 Batch: 10/11 D_c:-7.1889 | D_w:8.3208 | G:-0.8452
+5m 37s D_cost_train:-6.1372 | D_wass_train:7.3740 | D_cost_valid:-4.6442 | D_wass_valid:5.3365 | G_cost:-0.6229
+Generating samples...
+Saving models...
+5m 38s Epoch: 18/100
+5m 41s Epoch=18 Batch: 2/11 D_c:-2.7450 | D_w:4.5774 | G:-0.4078
+5m 45s Epoch=18 Batch: 4/11 D_c:-7.0685 | D_w:7.5897 | G:-0.7904
+5m 49s Epoch=18 Batch: 6/11 D_c:-5.2082 | D_w:5.7384 | G:-0.4680
+5m 52s Epoch=18 Batch: 8/11 D_c:-4.9007 | D_w:6.3476 | G:-0.3530
+5m 56s Epoch=18 Batch: 10/11 D_c:-3.0230 | D_w:3.8055 | G:-0.6899
+5m 58s D_cost_train:-5.9203 | D_wass_train:7.0805 | D_cost_valid:-5.8193 | D_wass_valid:6.5276 | G_cost:-0.5470
+Generating samples...
+Saving models...
+5m 59s Epoch: 19/100
+6m 2s Epoch=19 Batch: 2/11 D_c:-6.6490 | D_w:7.5611 | G:-0.5245
+6m 6s Epoch=19 Batch: 4/11 D_c:-5.7586 | D_w:6.8794 | G:-0.2094
+6m 10s Epoch=19 Batch: 6/11 D_c:-3.7037 | D_w:5.0752 | G:-1.0368
+6m 13s Epoch=19 Batch: 8/11 D_c:-2.0186 | D_w:2.5216 | G:-0.2254
+6m 17s Epoch=19 Batch: 10/11 D_c:-6.2064 | D_w:8.2650 | G:-0.5412
+6m 19s D_cost_train:-5.7234 | D_wass_train:6.8958 | D_cost_valid:-5.0253 | D_wass_valid:5.7024 | G_cost:-0.6132
+Generating samples...
+Saving models...
+6m 20s Epoch: 20/100
+6m 23s Epoch=20 Batch: 2/11 D_c:-8.7325 | D_w:11.5730 | G:-0.5876
+6m 27s Epoch=20 Batch: 4/11 D_c:-10.3752 | D_w:11.8824 | G:-0.5675
+6m 31s Epoch=20 Batch: 6/11 D_c:-3.2644 | D_w:3.7534 | G:-0.3966
+6m 34s Epoch=20 Batch: 8/11 D_c:-7.1517 | D_w:9.3401 | G:-0.1591
+6m 38s Epoch=20 Batch: 10/11 D_c:-2.4171 | D_w:3.7984 | G:-0.4730
+6m 40s D_cost_train:-5.5835 | D_wass_train:6.7884 | D_cost_valid:-4.7166 | D_wass_valid:5.5289 | G_cost:-0.4521
+Generating samples...
+Saving models...
+6m 41s Epoch: 21/100
+6m 44s Epoch=21 Batch: 2/11 D_c:-10.8345 | D_w:12.8308 | G:-0.6653
+6m 48s Epoch=21 Batch: 4/11 D_c:-4.1183 | D_w:6.1085 | G:-0.6219
+6m 52s Epoch=21 Batch: 6/11 D_c:-8.5832 | D_w:11.2147 | G:-0.7704
+6m 55s Epoch=21 Batch: 8/11 D_c:-7.6056 | D_w:8.9798 | G:-1.0019
+6m 59s Epoch=21 Batch: 10/11 D_c:-1.7258 | D_w:2.1285 | G:-0.6784
+7m 1s D_cost_train:-6.2176 | D_wass_train:7.4476 | D_cost_valid:-4.6186 | D_wass_valid:5.2605 | G_cost:-0.6175
+Generating samples...
+Saving models...
+7m 2s Epoch: 22/100
+7m 6s Epoch=22 Batch: 2/11 D_c:-6.0968 | D_w:6.8139 | G:-0.6971
+7m 9s Epoch=22 Batch: 4/11 D_c:-5.3947 | D_w:5.9885 | G:-0.7946
+7m 13s Epoch=22 Batch: 6/11 D_c:-10.4637 | D_w:12.6795 | G:-0.5056
+7m 17s Epoch=22 Batch: 8/11 D_c:-5.3009 | D_w:6.6753 | G:-0.5778
+7m 20s Epoch=22 Batch: 10/11 D_c:-5.1244 | D_w:5.6120 | G:-0.6504
+7m 22s D_cost_train:-6.0942 | D_wass_train:7.4171 | D_cost_valid:-5.1987 | D_wass_valid:6.0102 | G_cost:-0.6811
+Generating samples...
+Saving models...
+7m 23s Epoch: 23/100
+7m 27s Epoch=23 Batch: 2/11 D_c:-6.5791 | D_w:6.8224 | G:-0.6357
+7m 30s Epoch=23 Batch: 4/11 D_c:-9.4301 | D_w:10.0095 | G:-0.8959
+7m 34s Epoch=23 Batch: 6/11 D_c:-3.8740 | D_w:4.6317 | G:-0.4580
+7m 38s Epoch=23 Batch: 8/11 D_c:-10.3471 | D_w:11.6660 | G:-0.6192
+7m 42s Epoch=23 Batch: 10/11 D_c:-4.5438 | D_w:5.0956 | G:-0.5941
+7m 43s D_cost_train:-6.0320 | D_wass_train:7.2390 | D_cost_valid:-5.4636 | D_wass_valid:6.2490 | G_cost:-0.6384
+Generating samples...
+Saving models...
+7m 44s Epoch: 24/100
+7m 48s Epoch=24 Batch: 2/11 D_c:-7.6120 | D_w:10.0079 | G:-0.4318
+7m 52s Epoch=24 Batch: 4/11 D_c:-9.5689 | D_w:11.0770 | G:-0.7856
+7m 56s Epoch=24 Batch: 6/11 D_c:-6.3047 | D_w:7.9258 | G:-0.6774
+7m 59s Epoch=24 Batch: 8/11 D_c:-1.1774 | D_w:2.4453 | G:-0.4334
+8m 3s Epoch=24 Batch: 10/11 D_c:-4.3026 | D_w:7.7608 | G:-0.5054
+8m 5s D_cost_train:-5.9505 | D_wass_train:7.0770 | D_cost_valid:-4.6556 | D_wass_valid:5.4605 | G_cost:-0.5102
+Generating samples...
+Saving models...
+8m 5s Epoch: 25/100
+8m 9s Epoch=25 Batch: 2/11 D_c:-2.5081 | D_w:2.5644 | G:-0.3789
+8m 13s Epoch=25 Batch: 4/11 D_c:-7.2989 | D_w:7.5439 | G:-0.5946
+8m 17s Epoch=25 Batch: 6/11 D_c:-8.4927 | D_w:9.8983 | G:-0.4243
+8m 21s Epoch=25 Batch: 8/11 D_c:-4.2121 | D_w:4.5425 | G:-0.5292
+8m 24s Epoch=25 Batch: 10/11 D_c:-6.4300 | D_w:8.4786 | G:-0.2283
+8m 26s D_cost_train:-6.1819 | D_wass_train:7.3733 | D_cost_valid:-5.8713 | D_wass_valid:6.6803 | G_cost:-0.5007
+Generating samples...
+Saving models...
+8m 27s Epoch: 26/100
+8m 31s Epoch=26 Batch: 2/11 D_c:-13.0299 | D_w:16.0984 | G:-0.4600
+8m 35s Epoch=26 Batch: 4/11 D_c:-7.8908 | D_w:10.0195 | G:-0.5590
+8m 39s Epoch=26 Batch: 6/11 D_c:-6.3965 | D_w:8.2408 | G:-0.5443
+8m 42s Epoch=26 Batch: 8/11 D_c:-4.8670 | D_w:5.8774 | G:-0.1085
+8m 46s Epoch=26 Batch: 10/11 D_c:-5.0102 | D_w:5.1167 | G:-0.2880
+8m 48s D_cost_train:-6.4631 | D_wass_train:7.7214 | D_cost_valid:-5.3291 | D_wass_valid:6.0966 | G_cost:-0.4354
+Generating samples...
+Saving models...
+8m 49s Epoch: 27/100
+8m 53s Epoch=27 Batch: 2/11 D_c:-7.0037 | D_w:8.1575 | G:-0.5505
+8m 56s Epoch=27 Batch: 4/11 D_c:-5.1357 | D_w:5.3879 | G:-0.2739
+9m 0s Epoch=27 Batch: 6/11 D_c:-1.6985 | D_w:2.1885 | G:-0.4881
+9m 4s Epoch=27 Batch: 8/11 D_c:-7.2918 | D_w:8.5584 | G:-0.3788
+9m 7s Epoch=27 Batch: 10/11 D_c:-5.9840 | D_w:7.0486 | G:-0.1797
+9m 9s D_cost_train:-5.9223 | D_wass_train:7.0062 | D_cost_valid:-5.0947 | D_wass_valid:5.8138 | G_cost:-0.3642
+Generating samples...
+Saving models...
+9m 10s Epoch: 28/100
+9m 14s Epoch=28 Batch: 2/11 D_c:-2.3475 | D_w:4.1253 | G:-0.2323
+9m 18s Epoch=28 Batch: 4/11 D_c:-3.5797 | D_w:4.8972 | G:-0.3577
+9m 22s Epoch=28 Batch: 6/11 D_c:-5.2949 | D_w:5.9541 | G:-0.3019
+9m 26s Epoch=28 Batch: 8/11 D_c:-11.1591 | D_w:14.0078 | G:-0.3442
+9m 29s Epoch=28 Batch: 10/11 D_c:-3.3450 | D_w:3.5126 | G:-0.3472
+9m 31s D_cost_train:-5.8672 | D_wass_train:7.0234 | D_cost_valid:-4.8896 | D_wass_valid:5.5126 | G_cost:-0.3557
+Generating samples...
+Saving models...
+9m 32s Epoch: 29/100
+9m 36s Epoch=29 Batch: 2/11 D_c:-6.3475 | D_w:9.0489 | G:-0.4551
+9m 40s Epoch=29 Batch: 4/11 D_c:-1.8211 | D_w:8.9442 | G:-0.2980
+9m 44s Epoch=29 Batch: 6/11 D_c:-8.1762 | D_w:9.6647 | G:-0.9733
+9m 48s Epoch=29 Batch: 8/11 D_c:-6.7470 | D_w:7.4328 | G:-0.9509
+9m 51s Epoch=29 Batch: 10/11 D_c:-4.9452 | D_w:6.3052 | G:-0.3980
+9m 53s D_cost_train:-5.8748 | D_wass_train:7.0608 | D_cost_valid:-5.1931 | D_wass_valid:6.0053 | G_cost:-0.5229
+Generating samples...
+Saving models...
+9m 54s Epoch: 30/100
+9m 58s Epoch=30 Batch: 2/11 D_c:-8.0872 | D_w:10.1503 | G:-0.4304
+10m 2s Epoch=30 Batch: 4/11 D_c:-2.8330 | D_w:5.5540 | G:-0.2945
+10m 5s Epoch=30 Batch: 6/11 D_c:-2.7088 | D_w:3.2143 | G:-0.2773
+10m 9s Epoch=30 Batch: 8/11 D_c:-5.2231 | D_w:6.8957 | G:-0.2994
+10m 13s Epoch=30 Batch: 10/11 D_c:-4.8254 | D_w:9.7145 | G:-0.2527
+10m 15s D_cost_train:-6.3648 | D_wass_train:7.5224 | D_cost_valid:-4.9881 | D_wass_valid:5.8185 | G_cost:-0.3108
+Generating samples...
+Saving models...
+10m 15s Epoch: 31/100
+10m 19s Epoch=31 Batch: 2/11 D_c:-7.3033 | D_w:9.0322 | G:-0.3794
+10m 23s Epoch=31 Batch: 4/11 D_c:-8.2186 | D_w:8.9512 | G:-0.4345
+10m 27s Epoch=31 Batch: 6/11 D_c:-3.0029 | D_w:3.8927 | G:-0.4543
+10m 31s Epoch=31 Batch: 8/11 D_c:-4.9228 | D_w:5.4646 | G:-0.4311
+10m 34s Epoch=31 Batch: 10/11 D_c:-1.1451 | D_w:3.0896 | G:-0.3787
+10m 36s D_cost_train:-5.7770 | D_wass_train:6.8477 | D_cost_valid:-4.5982 | D_wass_valid:5.3831 | G_cost:-0.4005
+Generating samples...
+Saving models...
+10m 37s Epoch: 32/100
+10m 41s Epoch=32 Batch: 2/11 D_c:-5.3785 | D_w:5.8330 | G:-0.2501
+10m 45s Epoch=32 Batch: 4/11 D_c:-7.9995 | D_w:9.6592 | G:-0.4293
+10m 49s Epoch=32 Batch: 6/11 D_c:-2.9569 | D_w:4.2773 | G:-0.8183
+10m 53s Epoch=32 Batch: 8/11 D_c:-6.1034 | D_w:8.5399 | G:-0.2708
+10m 56s Epoch=32 Batch: 10/11 D_c:-4.2686 | D_w:4.5763 | G:-0.0914
+10m 58s D_cost_train:-6.0192 | D_wass_train:7.1686 | D_cost_valid:-4.8929 | D_wass_valid:5.6851 | G_cost:-0.3955
+Generating samples...
+Saving models...
+10m 59s Epoch: 33/100
+11m 3s Epoch=33 Batch: 2/11 D_c:-5.1598 | D_w:6.3775 | G:-0.3705
+11m 7s Epoch=33 Batch: 4/11 D_c:-4.8961 | D_w:7.2232 | G:-0.1906
+11m 11s Epoch=33 Batch: 6/11 D_c:-7.9621 | D_w:9.3507 | G:-0.2863
+11m 15s Epoch=33 Batch: 8/11 D_c:-6.2487 | D_w:6.4454 | G:-0.4473
+11m 19s Epoch=33 Batch: 10/11 D_c:-7.6269 | D_w:10.1524 | G:-0.5099
+11m 20s D_cost_train:-6.1233 | D_wass_train:7.2994 | D_cost_valid:-4.9777 | D_wass_valid:5.8956 | G_cost:-0.3858
+Generating samples...
+Saving models...
+11m 21s Epoch: 34/100
+11m 26s Epoch=34 Batch: 2/11 D_c:-2.8693 | D_w:3.5579 | G:-0.3166
+11m 30s Epoch=34 Batch: 4/11 D_c:-7.5045 | D_w:9.0792 | G:-0.1893
+11m 33s Epoch=34 Batch: 6/11 D_c:-3.9111 | D_w:4.6495 | G:-0.2989
+11m 37s Epoch=34 Batch: 8/11 D_c:-10.6150 | D_w:11.7584 | G:-0.7066
+11m 41s Epoch=34 Batch: 10/11 D_c:-8.0196 | D_w:9.8043 | G:-0.3584
+11m 43s D_cost_train:-6.1032 | D_wass_train:7.3831 | D_cost_valid:-5.8940 | D_wass_valid:6.7635 | G_cost:-0.3710
+Generating samples...
+Saving models...
+11m 43s Epoch: 35/100
+11m 47s Epoch=35 Batch: 2/11 D_c:-6.6131 | D_w:8.2429 | G:-0.4375
+11m 51s Epoch=35 Batch: 4/11 D_c:-5.1751 | D_w:5.9428 | G:-0.3909
+11m 55s Epoch=35 Batch: 6/11 D_c:-7.3606 | D_w:10.7513 | G:-0.3362
+11m 59s Epoch=35 Batch: 8/11 D_c:-7.0737 | D_w:7.6397 | G:-0.5555
+12m 3s Epoch=35 Batch: 10/11 D_c:-4.8293 | D_w:5.5328 | G:-0.3647
+12m 4s D_cost_train:-5.9923 | D_wass_train:7.0525 | D_cost_valid:-5.7471 | D_wass_valid:6.6118 | G_cost:-0.3950
+Generating samples...
+Saving models...
+12m 5s Epoch: 36/100
+12m 9s Epoch=36 Batch: 2/11 D_c:-7.4030 | D_w:10.2661 | G:-0.0406
+12m 13s Epoch=36 Batch: 4/11 D_c:-12.2318 | D_w:13.0041 | G:-0.7434
+12m 17s Epoch=36 Batch: 6/11 D_c:-8.3577 | D_w:9.5093 | G:-0.3482
+12m 21s Epoch=36 Batch: 8/11 D_c:-4.5898 | D_w:5.5605 | G:-0.4569
+12m 25s Epoch=36 Batch: 10/11 D_c:-4.9729 | D_w:5.9577 | G:-0.3825
+12m 27s D_cost_train:-6.4044 | D_wass_train:7.5800 | D_cost_valid:-4.0135 | D_wass_valid:4.7291 | G_cost:-0.4246
+Generating samples...
+Saving models...
+12m 27s Epoch: 37/100
+12m 31s Epoch=37 Batch: 2/11 D_c:-5.0360 | D_w:5.6276 | G:-0.2667
+12m 35s Epoch=37 Batch: 4/11 D_c:-4.4114 | D_w:5.6913 | G:-0.2458
+12m 39s Epoch=37 Batch: 6/11 D_c:-11.1178 | D_w:12.3013 | G:-0.4689
+12m 43s Epoch=37 Batch: 8/11 D_c:-5.4055 | D_w:5.4881 | G:-0.2664
+12m 46s Epoch=37 Batch: 10/11 D_c:-9.3292 | D_w:9.8310 | G:-0.3382
+12m 48s D_cost_train:-6.5761 | D_wass_train:7.8065 | D_cost_valid:-5.0062 | D_wass_valid:5.9074 | G_cost:-0.4447
+Generating samples...
+Saving models...
+12m 49s Epoch: 38/100
+12m 53s Epoch=38 Batch: 2/11 D_c:-3.7734 | D_w:3.9236 | G:-0.7668
+12m 57s Epoch=38 Batch: 4/11 D_c:-2.1955 | D_w:2.4309 | G:-0.3800
+13m 0s Epoch=38 Batch: 6/11 D_c:-13.3528 | D_w:19.9199 | G:-0.3751
+13m 4s Epoch=38 Batch: 8/11 D_c:-6.7842 | D_w:7.1474 | G:-0.4777
+13m 8s Epoch=38 Batch: 10/11 D_c:-9.9263 | D_w:10.2384 | G:-0.5930
+13m 10s D_cost_train:-6.1839 | D_wass_train:7.4119 | D_cost_valid:-4.9073 | D_wass_valid:5.7696 | G_cost:-0.4780
+Generating samples...
+Saving models...
+13m 11s Epoch: 39/100
+13m 15s Epoch=39 Batch: 2/11 D_c:-8.1840 | D_w:9.2116 | G:-0.4888
+13m 19s Epoch=39 Batch: 4/11 D_c:-6.5922 | D_w:7.5393 | G:-0.5247
+13m 23s Epoch=39 Batch: 6/11 D_c:-6.6642 | D_w:8.1980 | G:-0.6507
+13m 27s Epoch=39 Batch: 8/11 D_c:-9.1576 | D_w:10.2897 | G:-0.5722
+13m 31s Epoch=39 Batch: 10/11 D_c:-5.7170 | D_w:7.8172 | G:-0.5708
+13m 33s D_cost_train:-5.9466 | D_wass_train:7.0417 | D_cost_valid:-5.6043 | D_wass_valid:6.4395 | G_cost:-0.6019
+Generating samples...
+Saving models...
+13m 33s Epoch: 40/100
+13m 37s Epoch=40 Batch: 2/11 D_c:-5.3248 | D_w:8.4507 | G:-0.2872
+13m 41s Epoch=40 Batch: 4/11 D_c:-5.0732 | D_w:5.6278 | G:-0.5719
+13m 45s Epoch=40 Batch: 6/11 D_c:-9.0145 | D_w:11.1812 | G:-0.1909
+13m 49s Epoch=40 Batch: 8/11 D_c:-6.8647 | D_w:7.5167 | G:-0.5164
+13m 53s Epoch=40 Batch: 10/11 D_c:-6.6312 | D_w:9.1475 | G:-0.3798
+13m 55s D_cost_train:-6.0139 | D_wass_train:7.2585 | D_cost_valid:-4.4520 | D_wass_valid:5.3190 | G_cost:-0.4274
+Generating samples...
+Saving models...
+13m 55s Epoch: 41/100
+13m 59s Epoch=41 Batch: 2/11 D_c:-7.3350 | D_w:7.9961 | G:-0.4733
+14m 3s Epoch=41 Batch: 4/11 D_c:-4.4853 | D_w:6.4556 | G:-0.1785
+14m 7s Epoch=41 Batch: 6/11 D_c:-3.7918 | D_w:4.1362 | G:-0.3213
+14m 11s Epoch=41 Batch: 8/11 D_c:-2.5649 | D_w:2.8862 | G:-0.2387
+14m 15s Epoch=41 Batch: 10/11 D_c:-8.5357 | D_w:8.9102 | G:-0.6937
+14m 17s D_cost_train:-5.7747 | D_wass_train:6.7959 | D_cost_valid:-5.3624 | D_wass_valid:6.1334 | G_cost:-0.4170
+Generating samples...
+Saving models...
+14m 18s Epoch: 42/100
+14m 22s Epoch=42 Batch: 2/11 D_c:-8.6027 | D_w:10.8396 | G:-0.2027
+14m 26s Epoch=42 Batch: 4/11 D_c:-6.6425 | D_w:7.0752 | G:-0.3097
+14m 30s Epoch=42 Batch: 6/11 D_c:-5.8311 | D_w:7.3566 | G:-0.4028
+14m 34s Epoch=42 Batch: 8/11 D_c:-5.1410 | D_w:5.5753 | G:-0.0161
+14m 38s Epoch=42 Batch: 10/11 D_c:-9.3620 | D_w:10.2897 | G:-0.5667
+14m 39s D_cost_train:-5.8883 | D_wass_train:6.9323 | D_cost_valid:-5.4890 | D_wass_valid:6.2601 | G_cost:-0.3292
+Generating samples...
+Saving models...
+14m 40s Epoch: 43/100
+14m 44s Epoch=43 Batch: 2/11 D_c:-7.3547 | D_w:8.7346 | G:-0.3338
+14m 48s Epoch=43 Batch: 4/11 D_c:-6.1082 | D_w:6.9919 | G:-0.5126
+14m 52s Epoch=43 Batch: 6/11 D_c:-7.3312 | D_w:8.1608 | G:-0.4220
+14m 56s Epoch=43 Batch: 8/11 D_c:-4.5742 | D_w:5.2210 | G:-0.2451
+15m 0s Epoch=43 Batch: 10/11 D_c:-7.5345 | D_w:8.1064 | G:-0.5561
+15m 2s D_cost_train:-6.0730 | D_wass_train:7.1986 | D_cost_valid:-6.1426 | D_wass_valid:6.9234 | G_cost:-0.3996
+Generating samples...
+Saving models...
+15m 2s Epoch: 44/100
+15m 6s Epoch=44 Batch: 2/11 D_c:-9.4229 | D_w:11.4982 | G:-0.1971
+15m 10s Epoch=44 Batch: 4/11 D_c:-3.1568 | D_w:3.4523 | G:-0.3832
+15m 14s Epoch=44 Batch: 6/11 D_c:-6.6676 | D_w:7.3201 | G:-0.2650
+15m 18s Epoch=44 Batch: 8/11 D_c:-6.1790 | D_w:7.2227 | G:0.0080
+15m 22s Epoch=44 Batch: 10/11 D_c:-4.6612 | D_w:5.0048 | G:-0.2478
+15m 24s D_cost_train:-6.1259 | D_wass_train:7.2426 | D_cost_valid:-5.0330 | D_wass_valid:5.8389 | G_cost:-0.2381
+Generating samples...
+Saving models...
+15m 25s Epoch: 45/100
+15m 29s Epoch=45 Batch: 2/11 D_c:-8.1657 | D_w:10.0332 | G:-0.5055
+15m 33s Epoch=45 Batch: 4/11 D_c:-2.3813 | D_w:2.6573 | G:-0.1794
+15m 37s Epoch=45 Batch: 6/11 D_c:-7.1785 | D_w:8.2418 | G:-0.1263
+15m 41s Epoch=45 Batch: 8/11 D_c:-9.8024 | D_w:12.0342 | G:-0.2303
+15m 45s Epoch=45 Batch: 10/11 D_c:-3.9216 | D_w:4.3381 | G:-0.1384
+15m 47s D_cost_train:-6.4438 | D_wass_train:7.6007 | D_cost_valid:-4.7983 | D_wass_valid:5.5707 | G_cost:-0.2596
+Generating samples...
+Saving models...
+15m 47s Epoch: 46/100
+15m 52s Epoch=46 Batch: 2/11 D_c:-8.9519 | D_w:10.8393 | G:-0.1867
+15m 55s Epoch=46 Batch: 4/11 D_c:-2.1601 | D_w:2.6475 | G:-0.0610
+15m 59s Epoch=46 Batch: 6/11 D_c:-8.5125 | D_w:9.3532 | G:-0.4029
+16m 3s Epoch=46 Batch: 8/11 D_c:-5.5682 | D_w:5.7437 | G:-0.2783
+16m 7s Epoch=46 Batch: 10/11 D_c:-6.6250 | D_w:9.6080 | G:-0.2843
+16m 9s D_cost_train:-6.2094 | D_wass_train:7.3610 | D_cost_valid:-4.9271 | D_wass_valid:5.8479 | G_cost:-0.2167
+Generating samples...
+Saving models...
+16m 10s Epoch: 47/100
+16m 14s Epoch=47 Batch: 2/11 D_c:-5.2503 | D_w:5.3474 | G:-0.2002
+16m 18s Epoch=47 Batch: 4/11 D_c:-4.9185 | D_w:5.8767 | G:-0.0265
+16m 21s Epoch=47 Batch: 6/11 D_c:-7.1043 | D_w:7.9313 | G:0.0055
+16m 25s Epoch=47 Batch: 8/11 D_c:-8.5121 | D_w:10.8171 | G:-0.1843
+16m 29s Epoch=47 Batch: 10/11 D_c:-9.6106 | D_w:10.3383 | G:-0.5034
+16m 31s D_cost_train:-7.2817 | D_wass_train:8.6069 | D_cost_valid:-4.9359 | D_wass_valid:5.7954 | G_cost:-0.2670
+Generating samples...
+Saving models...
+16m 32s Epoch: 48/100
+16m 36s Epoch=48 Batch: 2/11 D_c:-5.6394 | D_w:6.1018 | G:0.1577
+16m 40s Epoch=48 Batch: 4/11 D_c:-7.3512 | D_w:8.3810 | G:-0.3332
+16m 43s Epoch=48 Batch: 6/11 D_c:-4.7992 | D_w:6.2586 | G:-0.0086
+16m 47s Epoch=48 Batch: 8/11 D_c:-7.1222 | D_w:7.4763 | G:-0.2350
+16m 51s Epoch=48 Batch: 10/11 D_c:-4.9799 | D_w:5.7100 | G:-0.1643
+16m 53s D_cost_train:-5.6666 | D_wass_train:6.7552 | D_cost_valid:-5.8372 | D_wass_valid:6.7106 | G_cost:-0.1869
+Generating samples...
+Saving models...
+16m 54s Epoch: 49/100
+16m 58s Epoch=49 Batch: 2/11 D_c:-6.5240 | D_w:8.2178 | G:-0.3120
+17m 1s Epoch=49 Batch: 4/11 D_c:-4.3254 | D_w:8.0670 | G:-0.3356
+17m 5s Epoch=49 Batch: 6/11 D_c:-8.0541 | D_w:9.3627 | G:-0.3510
+17m 9s Epoch=49 Batch: 8/11 D_c:-4.4439 | D_w:5.2717 | G:-0.2084
+17m 13s Epoch=49 Batch: 10/11 D_c:-3.5186 | D_w:5.0198 | G:-0.1781
+17m 15s D_cost_train:-6.6350 | D_wass_train:7.9589 | D_cost_valid:-4.8830 | D_wass_valid:5.7619 | G_cost:-0.3194
+Generating samples...
+Saving models...
+17m 16s Epoch: 50/100
+17m 20s Epoch=50 Batch: 2/11 D_c:-5.4615 | D_w:7.0431 | G:-0.2409
+17m 24s Epoch=50 Batch: 4/11 D_c:-7.9392 | D_w:8.4835 | G:-0.5971
+17m 28s Epoch=50 Batch: 6/11 D_c:-6.3886 | D_w:7.4955 | G:-0.2160
+17m 32s Epoch=50 Batch: 8/11 D_c:-10.2779 | D_w:14.1558 | G:-0.3845
+17m 36s Epoch=50 Batch: 10/11 D_c:-7.5827 | D_w:9.2660 | G:-0.4905
+17m 37s D_cost_train:-6.2200 | D_wass_train:7.4071 | D_cost_valid:-4.4053 | D_wass_valid:5.0930 | G_cost:-0.3820
+Generating samples...
+Saving models...
+17m 38s Epoch: 51/100
+17m 42s Epoch=51 Batch: 2/11 D_c:-3.3348 | D_w:5.5800 | G:-0.3348
+17m 46s Epoch=51 Batch: 4/11 D_c:-5.8945 | D_w:6.6027 | G:-0.3132
+17m 49s Epoch=51 Batch: 6/11 D_c:-4.4667 | D_w:5.3703 | G:-0.1237
+17m 52s Epoch=51 Batch: 8/11 D_c:-4.6713 | D_w:6.2519 | G:-0.3460
+17m 56s Epoch=51 Batch: 10/11 D_c:-9.3950 | D_w:12.5917 | G:-0.2833
+17m 58s D_cost_train:-6.1582 | D_wass_train:7.2930 | D_cost_valid:-5.5156 | D_wass_valid:6.2288 | G_cost:-0.3292
+Generating samples...
+Saving models...
+17m 58s Epoch: 52/100
+18m 2s Epoch=52 Batch: 2/11 D_c:-2.9750 | D_w:3.6806 | G:-0.1172
+18m 5s Epoch=52 Batch: 4/11 D_c:-6.2934 | D_w:6.6481 | G:-0.2942
+18m 9s Epoch=52 Batch: 6/11 D_c:-7.7260 | D_w:9.9870 | G:-0.0612
+18m 12s Epoch=52 Batch: 8/11 D_c:-8.4837 | D_w:10.0455 | G:-0.2515
+18m 15s Epoch=52 Batch: 10/11 D_c:-6.5290 | D_w:7.1658 | G:-0.4451
+18m 17s D_cost_train:-5.8160 | D_wass_train:6.8056 | D_cost_valid:-5.8042 | D_wass_valid:6.6635 | G_cost:-0.3071
+Generating samples...
+Saving models...
+18m 18s Epoch: 53/100
+18m 21s Epoch=53 Batch: 2/11 D_c:-6.1798 | D_w:6.4498 | G:-0.3240
+18m 25s Epoch=53 Batch: 4/11 D_c:-6.2132 | D_w:7.5051 | G:-0.2352
+18m 28s Epoch=53 Batch: 6/11 D_c:-3.2476 | D_w:6.1009 | G:-0.1340
+18m 31s Epoch=53 Batch: 8/11 D_c:-2.6855 | D_w:2.8593 | G:-0.2355
+18m 35s Epoch=53 Batch: 10/11 D_c:-5.8406 | D_w:5.9731 | G:-0.2494
+18m 36s D_cost_train:-6.2802 | D_wass_train:7.4289 | D_cost_valid:-4.5867 | D_wass_valid:5.3585 | G_cost:-0.2520
+Generating samples...
+Saving models...
+18m 37s Epoch: 54/100
+18m 40s Epoch=54 Batch: 2/11 D_c:-6.6038 | D_w:7.9559 | G:-0.4126
+18m 44s Epoch=54 Batch: 4/11 D_c:-3.6181 | D_w:4.8790 | G:-0.0815
+18m 47s Epoch=54 Batch: 6/11 D_c:-2.0979 | D_w:5.5499 | G:-0.1465
+18m 51s Epoch=54 Batch: 8/11 D_c:-7.0081 | D_w:7.8441 | G:-0.3865
+18m 54s Epoch=54 Batch: 10/11 D_c:-3.5519 | D_w:3.9085 | G:-0.3153
+18m 56s D_cost_train:-6.2355 | D_wass_train:7.4125 | D_cost_valid:-5.0576 | D_wass_valid:5.9077 | G_cost:-0.2367
+Generating samples...
+Saving models...
+18m 56s Epoch: 55/100
+19m 0s Epoch=55 Batch: 2/11 D_c:-3.5998 | D_w:5.2745 | G:-0.2464
+19m 3s Epoch=55 Batch: 4/11 D_c:-3.5720 | D_w:4.6425 | G:-0.3200
+19m 6s Epoch=55 Batch: 6/11 D_c:-9.5596 | D_w:12.1895 | G:-0.3625
+19m 10s Epoch=55 Batch: 8/11 D_c:-9.8532 | D_w:11.9074 | G:-0.3449
+19m 13s Epoch=55 Batch: 10/11 D_c:-6.3893 | D_w:6.9731 | G:-0.4642
+19m 15s D_cost_train:-6.1800 | D_wass_train:7.3036 | D_cost_valid:-5.3627 | D_wass_valid:6.2436 | G_cost:-0.3447
+Generating samples...
+Saving models...
+19m 15s Epoch: 56/100
+19m 19s Epoch=56 Batch: 2/11 D_c:-5.7618 | D_w:6.7481 | G:-0.4020
+19m 22s Epoch=56 Batch: 4/11 D_c:-4.5364 | D_w:4.7946 | G:-0.3209
+19m 26s Epoch=56 Batch: 6/11 D_c:-4.3090 | D_w:5.4060 | G:-0.2095
+19m 29s Epoch=56 Batch: 8/11 D_c:-10.9544 | D_w:13.4251 | G:-0.5521
+19m 32s Epoch=56 Batch: 10/11 D_c:-5.0591 | D_w:5.7523 | G:-0.2387
+19m 34s D_cost_train:-6.6886 | D_wass_train:7.8266 | D_cost_valid:-6.1005 | D_wass_valid:7.0248 | G_cost:-0.3243
+Generating samples...
+Saving models...
+19m 35s Epoch: 57/100
+19m 38s Epoch=57 Batch: 2/11 D_c:-7.5289 | D_w:8.3077 | G:-0.4158
+19m 42s Epoch=57 Batch: 4/11 D_c:-6.4063 | D_w:7.2310 | G:-0.3813
+19m 45s Epoch=57 Batch: 6/11 D_c:-7.6946 | D_w:8.7182 | G:-0.3269
+19m 48s Epoch=57 Batch: 8/11 D_c:-6.3354 | D_w:7.5047 | G:-0.4048
+19m 52s Epoch=57 Batch: 10/11 D_c:-5.3256 | D_w:6.6126 | G:-0.2900
+19m 53s D_cost_train:-6.3456 | D_wass_train:7.5105 | D_cost_valid:-6.1581 | D_wass_valid:7.0194 | G_cost:-0.3342
+Generating samples...
+Saving models...
+19m 54s Epoch: 58/100
+19m 57s Epoch=58 Batch: 2/11 D_c:-4.8858 | D_w:5.1322 | G:-0.4017
+20m 1s Epoch=58 Batch: 4/11 D_c:-6.9650 | D_w:7.5109 | G:-0.2901
+20m 4s Epoch=58 Batch: 6/11 D_c:-4.1479 | D_w:4.7042 | G:-0.4264
+20m 8s Epoch=58 Batch: 8/11 D_c:-5.6934 | D_w:5.9795 | G:-0.5228
+20m 11s Epoch=58 Batch: 10/11 D_c:-6.4295 | D_w:8.1346 | G:-0.4244
+20m 13s D_cost_train:-6.6308 | D_wass_train:7.8163 | D_cost_valid:-4.7660 | D_wass_valid:5.4566 | G_cost:-0.3233
+Generating samples...
+Saving models...
+20m 13s Epoch: 59/100
+20m 17s Epoch=59 Batch: 2/11 D_c:-9.7348 | D_w:13.5982 | G:-0.2174
+20m 21s Epoch=59 Batch: 4/11 D_c:-4.6477 | D_w:4.7885 | G:-0.2280
+20m 24s Epoch=59 Batch: 6/11 D_c:-4.0716 | D_w:4.3926 | G:-0.3577
+20m 28s Epoch=59 Batch: 8/11 D_c:-6.5571 | D_w:9.1441 | G:-0.4620
+20m 31s Epoch=59 Batch: 10/11 D_c:-7.6822 | D_w:8.1686 | G:-0.3410
+20m 33s D_cost_train:-6.2409 | D_wass_train:7.3779 | D_cost_valid:-4.7105 | D_wass_valid:5.4991 | G_cost:-0.2980
+Generating samples...
+Saving models...
+20m 33s Epoch: 60/100
+20m 37s Epoch=60 Batch: 2/11 D_c:-1.7255 | D_w:2.1125 | G:-0.2995
+20m 41s Epoch=60 Batch: 4/11 D_c:-5.2231 | D_w:6.0779 | G:-0.2555
+20m 44s Epoch=60 Batch: 6/11 D_c:-3.6824 | D_w:4.2606 | G:-0.2042
+20m 48s Epoch=60 Batch: 8/11 D_c:-6.7613 | D_w:7.3939 | G:-0.3217
+20m 51s Epoch=60 Batch: 10/11 D_c:-5.3069 | D_w:5.6315 | G:-0.2610
+20m 53s D_cost_train:-6.2703 | D_wass_train:7.3889 | D_cost_valid:-4.9950 | D_wass_valid:5.8066 | G_cost:-0.2803
+Generating samples...
+Saving models...
+20m 54s Epoch: 61/100
+20m 57s Epoch=61 Batch: 2/11 D_c:-4.0398 | D_w:7.6504 | G:-0.2622
+21m 1s Epoch=61 Batch: 4/11 D_c:-7.6469 | D_w:8.7541 | G:-0.3708
+21m 5s Epoch=61 Batch: 6/11 D_c:-6.5592 | D_w:7.8210 | G:-0.2360
+21m 8s Epoch=61 Batch: 8/11 D_c:-8.9655 | D_w:12.6112 | G:-0.4765
+21m 12s Epoch=61 Batch: 10/11 D_c:-4.3572 | D_w:5.0650 | G:-0.3179
+21m 14s D_cost_train:-6.4162 | D_wass_train:7.6099 | D_cost_valid:-5.3613 | D_wass_valid:6.2825 | G_cost:-0.2524
+Generating samples...
+Saving models...
+21m 14s Epoch: 62/100
+21m 18s Epoch=62 Batch: 2/11 D_c:-6.6624 | D_w:7.1443 | G:-0.3854
+21m 22s Epoch=62 Batch: 4/11 D_c:-8.3447 | D_w:9.3694 | G:-0.3726
+21m 25s Epoch=62 Batch: 6/11 D_c:-8.1000 | D_w:8.6625 | G:-0.4034
+21m 29s Epoch=62 Batch: 8/11 D_c:-5.6134 | D_w:6.1351 | G:-0.1212
+21m 33s Epoch=62 Batch: 10/11 D_c:-5.1474 | D_w:6.2358 | G:-0.2895
+21m 34s D_cost_train:-6.2498 | D_wass_train:7.3905 | D_cost_valid:-4.5118 | D_wass_valid:5.3794 | G_cost:-0.3311
+Generating samples...
+Saving models...
+21m 35s Epoch: 63/100
+21m 39s Epoch=63 Batch: 2/11 D_c:-6.4501 | D_w:9.3541 | G:-0.1960
+21m 42s Epoch=63 Batch: 4/11 D_c:-13.4376 | D_w:14.1483 | G:-0.4407
+21m 46s Epoch=63 Batch: 6/11 D_c:-5.4403 | D_w:6.1022 | G:-0.2839
+21m 50s Epoch=63 Batch: 8/11 D_c:-8.3225 | D_w:10.3010 | G:-0.2270
+21m 53s Epoch=63 Batch: 10/11 D_c:-4.0619 | D_w:4.6980 | G:0.4360
+21m 55s D_cost_train:-6.2141 | D_wass_train:7.2777 | D_cost_valid:-5.1015 | D_wass_valid:5.8622 | G_cost:-0.1806
+Generating samples...
+Saving models...
+21m 56s Epoch: 64/100
+22m 0s Epoch=64 Batch: 2/11 D_c:-7.8892 | D_w:8.0352 | G:-0.3641
+22m 3s Epoch=64 Batch: 4/11 D_c:-7.3242 | D_w:8.8573 | G:-0.2092
+22m 7s Epoch=64 Batch: 6/11 D_c:-8.1531 | D_w:9.9760 | G:-0.2449
+22m 11s Epoch=64 Batch: 8/11 D_c:-4.9811 | D_w:5.6430 | G:-0.4480
+22m 14s Epoch=64 Batch: 10/11 D_c:-3.8647 | D_w:4.1607 | G:-0.1846
+22m 16s D_cost_train:-6.2767 | D_wass_train:7.2952 | D_cost_valid:-5.0332 | D_wass_valid:5.7686 | G_cost:-0.2478
+Generating samples...
+Saving models...
+22m 17s Epoch: 65/100
+22m 21s Epoch=65 Batch: 2/11 D_c:-3.6550 | D_w:4.9036 | G:-0.1468
+22m 24s Epoch=65 Batch: 4/11 D_c:-5.6893 | D_w:6.1059 | G:-0.1777
+22m 28s Epoch=65 Batch: 6/11 D_c:-4.7744 | D_w:5.3783 | G:-0.1402
+22m 32s Epoch=65 Batch: 8/11 D_c:-2.8116 | D_w:3.4225 | G:-0.2500
+22m 35s Epoch=65 Batch: 10/11 D_c:-5.3152 | D_w:7.5558 | G:-0.2125
+22m 37s D_cost_train:-5.8535 | D_wass_train:6.8338 | D_cost_valid:-4.9138 | D_wass_valid:5.7864 | G_cost:-0.2292
+Generating samples...
+Saving models...
+22m 38s Epoch: 66/100
+22m 42s Epoch=66 Batch: 2/11 D_c:-2.9778 | D_w:6.6824 | G:-0.0931
+22m 46s Epoch=66 Batch: 4/11 D_c:-2.6014 | D_w:6.1734 | G:-0.1056
+22m 49s Epoch=66 Batch: 6/11 D_c:-4.5964 | D_w:4.8475 | G:-0.4052
+22m 53s Epoch=66 Batch: 8/11 D_c:-5.0169 | D_w:5.9659 | G:0.0150
+22m 56s Epoch=66 Batch: 10/11 D_c:-10.6843 | D_w:11.4617 | G:-0.4017
+22m 58s D_cost_train:-5.9670 | D_wass_train:7.0191 | D_cost_valid:-4.9602 | D_wass_valid:5.6983 | G_cost:-0.1998
+Generating samples...
+Saving models...
+22m 58s Epoch: 67/100
+23m 2s Epoch=67 Batch: 2/11 D_c:-3.7928 | D_w:4.6185 | G:1.6341
+23m 5s Epoch=67 Batch: 4/11 D_c:-5.7274 | D_w:6.6037 | G:-0.3330
+23m 9s Epoch=67 Batch: 6/11 D_c:-4.7442 | D_w:5.1829 | G:-0.2083
+23m 12s Epoch=67 Batch: 8/11 D_c:-7.0066 | D_w:8.0237 | G:-0.3489
+23m 15s Epoch=67 Batch: 10/11 D_c:-9.0158 | D_w:9.4267 | G:-0.3661
+23m 17s D_cost_train:-6.2886 | D_wass_train:7.3965 | D_cost_valid:-4.8882 | D_wass_valid:5.7025 | G_cost:-0.1621
+Generating samples...
+Saving models...
+23m 18s Epoch: 68/100
+23m 21s Epoch=68 Batch: 2/11 D_c:-8.3799 | D_w:8.8987 | G:-0.3854
+23m 25s Epoch=68 Batch: 4/11 D_c:-10.3659 | D_w:13.3848 | G:-0.1031
+23m 28s Epoch=68 Batch: 6/11 D_c:-5.6728 | D_w:7.6352 | G:-0.0912
+23m 31s Epoch=68 Batch: 8/11 D_c:-7.1540 | D_w:9.4014 | G:-0.1621
+23m 35s Epoch=68 Batch: 10/11 D_c:-4.2734 | D_w:4.9931 | G:-0.1557
+23m 37s D_cost_train:-5.9376 | D_wass_train:6.9623 | D_cost_valid:-5.8794 | D_wass_valid:6.7952 | G_cost:-0.1782
+Generating samples...
+Saving models...
+23m 37s Epoch: 69/100
+23m 41s Epoch=69 Batch: 2/11 D_c:-8.3109 | D_w:9.7710 | G:-0.3275
+23m 44s Epoch=69 Batch: 4/11 D_c:-6.5823 | D_w:7.0995 | G:-0.1673
+23m 48s Epoch=69 Batch: 6/11 D_c:-3.0627 | D_w:4.4034 | G:-0.2168
+23m 51s Epoch=69 Batch: 8/11 D_c:-6.8018 | D_w:7.9162 | G:-0.1902
+23m 55s Epoch=69 Batch: 10/11 D_c:-8.2375 | D_w:8.8289 | G:-0.2212
+23m 56s D_cost_train:-5.5558 | D_wass_train:6.4590 | D_cost_valid:-4.4795 | D_wass_valid:5.2310 | G_cost:-0.2427
+Generating samples...
+Saving models...
+23m 57s Epoch: 70/100
+24m 1s Epoch=70 Batch: 2/11 D_c:-6.9502 | D_w:7.7040 | G:-0.1232
+24m 4s Epoch=70 Batch: 4/11 D_c:-8.3450 | D_w:9.0656 | G:-0.3351
+24m 7s Epoch=70 Batch: 6/11 D_c:-5.1723 | D_w:6.1537 | G:-0.1502
+24m 11s Epoch=70 Batch: 8/11 D_c:-8.2375 | D_w:9.8967 | G:-0.2047
+24m 15s Epoch=70 Batch: 10/11 D_c:-11.6201 | D_w:13.3917 | G:-0.3483
+24m 16s D_cost_train:-6.3002 | D_wass_train:7.3804 | D_cost_valid:-5.6717 | D_wass_valid:6.4703 | G_cost:-0.2279
+Generating samples...
+Saving models...
+24m 17s Epoch: 71/100
+24m 20s Epoch=71 Batch: 2/11 D_c:-4.5863 | D_w:9.8097 | G:-0.0698
+24m 24s Epoch=71 Batch: 4/11 D_c:-8.6193 | D_w:10.1835 | G:-0.2385
+24m 27s Epoch=71 Batch: 6/11 D_c:-7.3080 | D_w:9.1618 | G:-0.2129
+24m 31s Epoch=71 Batch: 8/11 D_c:-5.2860 | D_w:6.2360 | G:-0.2625
+24m 34s Epoch=71 Batch: 10/11 D_c:-4.0688 | D_w:5.5497 | G:-0.2865
+24m 36s D_cost_train:-6.0632 | D_wass_train:7.1799 | D_cost_valid:-5.6284 | D_wass_valid:6.4200 | G_cost:-0.0954
+Generating samples...
+Saving models...
+24m 37s Epoch: 72/100
+24m 41s Epoch=72 Batch: 2/11 D_c:-2.2295 | D_w:2.4221 | G:-0.1837
+24m 44s Epoch=72 Batch: 4/11 D_c:-7.1597 | D_w:8.0536 | G:-0.2732
+24m 48s Epoch=72 Batch: 6/11 D_c:-8.0861 | D_w:12.9943 | G:-0.1027
+24m 51s Epoch=72 Batch: 8/11 D_c:-5.4673 | D_w:5.9258 | G:-0.2982
+24m 55s Epoch=72 Batch: 10/11 D_c:-3.1883 | D_w:3.5227 | G:-0.2597
+24m 56s D_cost_train:-6.0870 | D_wass_train:7.0987 | D_cost_valid:-5.4972 | D_wass_valid:6.1963 | G_cost:-0.2116
+Generating samples...
+Saving models...
+24m 57s Epoch: 73/100
+25m 1s Epoch=73 Batch: 2/11 D_c:-4.7631 | D_w:6.9959 | G:-0.1430
+25m 4s Epoch=73 Batch: 4/11 D_c:-7.3253 | D_w:9.4096 | G:-0.1850
+25m 8s Epoch=73 Batch: 6/11 D_c:-4.5316 | D_w:5.0929 | G:0.2429
+25m 12s Epoch=73 Batch: 8/11 D_c:-4.1085 | D_w:4.4780 | G:-0.2020
+25m 15s Epoch=73 Batch: 10/11 D_c:-13.4446 | D_w:15.9197 | G:-0.3137
+25m 17s D_cost_train:-6.6923 | D_wass_train:7.8821 | D_cost_valid:-6.1942 | D_wass_valid:7.1028 | G_cost:-0.1803
+Generating samples...
+Saving models...
+25m 18s Epoch: 74/100
+25m 22s Epoch=74 Batch: 2/11 D_c:-7.6248 | D_w:8.7660 | G:-0.1995
+25m 25s Epoch=74 Batch: 4/11 D_c:-11.1190 | D_w:12.1750 | G:-0.2125
+25m 29s Epoch=74 Batch: 6/11 D_c:-5.0739 | D_w:6.0525 | G:-0.1777
+25m 32s Epoch=74 Batch: 8/11 D_c:-6.7892 | D_w:8.1679 | G:-0.1155
+25m 36s Epoch=74 Batch: 10/11 D_c:-5.3139 | D_w:5.7393 | G:-0.2507
+25m 38s D_cost_train:-6.0737 | D_wass_train:7.0696 | D_cost_valid:-6.0180 | D_wass_valid:6.8005 | G_cost:-0.1819
+Generating samples...
+Saving models...
+25m 38s Epoch: 75/100
+25m 42s Epoch=75 Batch: 2/11 D_c:-2.4628 | D_w:2.9771 | G:-0.1444
+25m 46s Epoch=75 Batch: 4/11 D_c:-9.3704 | D_w:11.2521 | G:-0.2251
+25m 49s Epoch=75 Batch: 6/11 D_c:-6.2097 | D_w:6.8790 | G:-0.2162
+25m 53s Epoch=75 Batch: 8/11 D_c:-7.1363 | D_w:7.5443 | G:-0.5493
+25m 57s Epoch=75 Batch: 10/11 D_c:-4.0166 | D_w:4.8951 | G:-0.2662
+25m 59s D_cost_train:-6.3505 | D_wass_train:7.4514 | D_cost_valid:-5.1723 | D_wass_valid:5.9042 | G_cost:-0.2772
+Generating samples...
+Saving models...
+25m 59s Epoch: 76/100
+26m 3s Epoch=76 Batch: 2/11 D_c:-8.7074 | D_w:9.4988 | G:-0.5887
+26m 7s Epoch=76 Batch: 4/11 D_c:-10.9492 | D_w:12.5458 | G:-0.4268
+26m 12s Epoch=76 Batch: 6/11 D_c:-8.1068 | D_w:11.0492 | G:-0.2067
+26m 18s Epoch=76 Batch: 8/11 D_c:-7.0008 | D_w:8.4510 | G:-0.4158
+26m 22s Epoch=76 Batch: 10/11 D_c:-8.5516 | D_w:9.0596 | G:-0.0735
+26m 24s D_cost_train:-6.1870 | D_wass_train:7.2995 | D_cost_valid:-5.6975 | D_wass_valid:6.6349 | G_cost:-0.2676
+Generating samples...
+Saving models...
+26m 25s Epoch: 77/100
+26m 28s Epoch=77 Batch: 2/11 D_c:-3.7940 | D_w:4.6062 | G:-0.2823
+26m 32s Epoch=77 Batch: 4/11 D_c:-3.2991 | D_w:4.3037 | G:-0.0954
+26m 36s Epoch=77 Batch: 6/11 D_c:-14.8540 | D_w:18.0235 | G:-0.3131
+26m 40s Epoch=77 Batch: 8/11 D_c:-6.2057 | D_w:6.4671 | G:-0.4358
+26m 43s Epoch=77 Batch: 10/11 D_c:-6.2364 | D_w:7.0438 | G:-0.3386
+26m 45s D_cost_train:-6.3347 | D_wass_train:7.4841 | D_cost_valid:-4.7039 | D_wass_valid:5.7657 | G_cost:-0.3012
+Generating samples...
+Saving models...
+26m 46s Epoch: 78/100
+26m 49s Epoch=78 Batch: 2/11 D_c:-7.9866 | D_w:9.2928 | G:-0.1985
+26m 53s Epoch=78 Batch: 4/11 D_c:-7.4292 | D_w:9.8957 | G:-0.3569
+26m 56s Epoch=78 Batch: 6/11 D_c:-4.9918 | D_w:5.8694 | G:-0.2191
+26m 59s Epoch=78 Batch: 8/11 D_c:-7.3820 | D_w:8.6868 | G:-0.2633
+27m 3s Epoch=78 Batch: 10/11 D_c:-6.7141 | D_w:10.8101 | G:-0.1288
+27m 4s D_cost_train:-6.7217 | D_wass_train:7.9871 | D_cost_valid:-4.9097 | D_wass_valid:5.8389 | G_cost:-0.2669
+Generating samples...
+Saving models...
+27m 5s Epoch: 79/100
+27m 9s Epoch=79 Batch: 2/11 D_c:-8.3758 | D_w:12.8394 | G:-0.4954
+27m 13s Epoch=79 Batch: 4/11 D_c:-6.1196 | D_w:8.5045 | G:-0.1752
+27m 16s Epoch=79 Batch: 6/11 D_c:-8.6805 | D_w:10.6299 | G:-0.4422
+27m 19s Epoch=79 Batch: 8/11 D_c:-8.1982 | D_w:9.8957 | G:-0.4348
+27m 23s Epoch=79 Batch: 10/11 D_c:-8.2190 | D_w:10.5322 | G:-0.3119
+27m 25s D_cost_train:-6.3428 | D_wass_train:7.5412 | D_cost_valid:-5.6379 | D_wass_valid:6.5373 | G_cost:-0.3205
+Generating samples...
+Saving models...
+27m 25s Epoch: 80/100
+27m 29s Epoch=80 Batch: 2/11 D_c:-3.6385 | D_w:4.4816 | G:-0.3855
+27m 33s Epoch=80 Batch: 4/11 D_c:-5.3329 | D_w:6.4074 | G:-0.3967
+27m 36s Epoch=80 Batch: 6/11 D_c:-2.7695 | D_w:4.8217 | G:-0.4592
+27m 40s Epoch=80 Batch: 8/11 D_c:-9.4143 | D_w:10.3237 | G:-0.7531
+27m 43s Epoch=80 Batch: 10/11 D_c:-5.3989 | D_w:7.0114 | G:-0.6931
+27m 45s D_cost_train:-6.0634 | D_wass_train:7.0520 | D_cost_valid:-5.3692 | D_wass_valid:5.9795 | G_cost:-0.5629
+Generating samples...
+Saving models...
+27m 45s Epoch: 81/100
+27m 49s Epoch=81 Batch: 2/11 D_c:-6.3336 | D_w:7.1170 | G:-0.5558
+27m 53s Epoch=81 Batch: 4/11 D_c:-8.8156 | D_w:9.3734 | G:-0.7348
+27m 56s Epoch=81 Batch: 6/11 D_c:-3.7403 | D_w:5.8067 | G:-0.6150
+28m 0s Epoch=81 Batch: 8/11 D_c:-3.7052 | D_w:4.0708 | G:-1.0074
+28m 4s Epoch=81 Batch: 10/11 D_c:-6.5712 | D_w:7.9327 | G:-1.1884
+28m 5s D_cost_train:-5.9093 | D_wass_train:7.1208 | D_cost_valid:-5.4739 | D_wass_valid:6.3042 | G_cost:-0.6999
+Generating samples...
+Saving models...
+28m 6s Epoch: 82/100
+28m 10s Epoch=82 Batch: 2/11 D_c:-4.9055 | D_w:5.3598 | G:-1.0854
+28m 14s Epoch=82 Batch: 4/11 D_c:-4.5560 | D_w:5.9490 | G:-1.1012
+28m 18s Epoch=82 Batch: 6/11 D_c:-5.5188 | D_w:7.1117 | G:-0.3940
+28m 22s Epoch=82 Batch: 8/11 D_c:-4.6695 | D_w:6.5589 | G:-0.8402
+28m 26s Epoch=82 Batch: 10/11 D_c:-1.8072 | D_w:2.4722 | G:-0.4566
+28m 27s D_cost_train:-5.4367 | D_wass_train:6.4504 | D_cost_valid:-5.0921 | D_wass_valid:5.6605 | G_cost:-1.0512
+Generating samples...
+Saving models...
+28m 28s Epoch: 83/100
+28m 32s Epoch=83 Batch: 2/11 D_c:-3.7362 | D_w:4.3699 | G:-1.7304
+28m 35s Epoch=83 Batch: 4/11 D_c:-4.4352 | D_w:4.9238 | G:-0.8141
+28m 39s Epoch=83 Batch: 6/11 D_c:-9.5000 | D_w:11.7679 | G:-1.0515
+28m 43s Epoch=83 Batch: 8/11 D_c:-2.5874 | D_w:2.8042 | G:-0.6882
+28m 46s Epoch=83 Batch: 10/11 D_c:-5.9942 | D_w:7.2552 | G:-0.9696
+28m 48s D_cost_train:-5.4612 | D_wass_train:6.5206 | D_cost_valid:-4.8857 | D_wass_valid:5.5739 | G_cost:-1.0586
+Generating samples...
+Saving models...
+28m 49s Epoch: 84/100
+28m 53s Epoch=84 Batch: 2/11 D_c:-6.0986 | D_w:7.7695 | G:-1.7130
+28m 57s Epoch=84 Batch: 4/11 D_c:-4.8161 | D_w:6.1720 | G:-1.1171
+29m 0s Epoch=84 Batch: 6/11 D_c:-6.3751 | D_w:6.7021 | G:-1.8093
+29m 4s Epoch=84 Batch: 8/11 D_c:-5.6756 | D_w:7.2172 | G:-0.2877
+29m 7s Epoch=84 Batch: 10/11 D_c:-5.2093 | D_w:5.8221 | G:-1.1085
+29m 9s D_cost_train:-5.9061 | D_wass_train:7.2131 | D_cost_valid:-5.2290 | D_wass_valid:6.2293 | G_cost:-1.1300
+Generating samples...
+Saving models...
+29m 11s Epoch: 85/100
+29m 15s Epoch=85 Batch: 2/11 D_c:-2.6556 | D_w:2.9150 | G:-0.4667
+29m 19s Epoch=85 Batch: 4/11 D_c:-7.0846 | D_w:7.5236 | G:-0.9772
+29m 22s Epoch=85 Batch: 6/11 D_c:-3.9604 | D_w:5.7092 | G:-0.5940
+29m 26s Epoch=85 Batch: 8/11 D_c:-7.3578 | D_w:8.7540 | G:-0.6931
+29m 30s Epoch=85 Batch: 10/11 D_c:-7.2544 | D_w:8.0058 | G:-0.7642
+29m 31s D_cost_train:-5.4265 | D_wass_train:6.5552 | D_cost_valid:-5.6877 | D_wass_valid:6.6746 | G_cost:-0.5801
+Generating samples...
+Saving models...
+29m 32s Epoch: 86/100
+29m 36s Epoch=86 Batch: 2/11 D_c:-4.1600 | D_w:5.1595 | G:-0.5774
+29m 40s Epoch=86 Batch: 4/11 D_c:-3.9945 | D_w:7.1128 | G:-0.4109
+29m 43s Epoch=86 Batch: 6/11 D_c:-7.1862 | D_w:7.7015 | G:-0.8224
+29m 47s Epoch=86 Batch: 8/11 D_c:-2.3646 | D_w:3.0393 | G:-0.0509
+29m 51s Epoch=86 Batch: 10/11 D_c:-7.4397 | D_w:9.5921 | G:-0.3528
+29m 52s D_cost_train:-5.0095 | D_wass_train:5.9748 | D_cost_valid:-4.9384 | D_wass_valid:5.6486 | G_cost:-0.5368
+Generating samples...
+Saving models...
+29m 53s Epoch: 87/100
+29m 57s Epoch=87 Batch: 2/11 D_c:-8.7132 | D_w:10.2824 | G:-0.4798
+30m 1s Epoch=87 Batch: 4/11 D_c:-1.1398 | D_w:2.5976 | G:-1.1679
+30m 4s Epoch=87 Batch: 6/11 D_c:-5.3747 | D_w:8.2649 | G:-1.2024
+30m 8s Epoch=87 Batch: 8/11 D_c:-5.5206 | D_w:7.0819 | G:-0.7346
+30m 12s Epoch=87 Batch: 10/11 D_c:-5.3325 | D_w:6.0579 | G:-0.4764
+30m 13s D_cost_train:-6.0052 | D_wass_train:7.2335 | D_cost_valid:-4.4247 | D_wass_valid:5.1802 | G_cost:-0.8055
+Generating samples...
+Saving models...
+30m 15s Epoch: 88/100
+30m 19s Epoch=88 Batch: 2/11 D_c:-4.3842 | D_w:4.7557 | G:0.1569
+30m 22s Epoch=88 Batch: 4/11 D_c:-5.1845 | D_w:9.7766 | G:-0.3171
+30m 26s Epoch=88 Batch: 6/11 D_c:-11.5371 | D_w:13.3202 | G:-0.5317
+30m 30s Epoch=88 Batch: 8/11 D_c:-7.7210 | D_w:8.9054 | G:-0.3863
+30m 34s Epoch=88 Batch: 10/11 D_c:-3.8220 | D_w:4.5613 | G:-0.2209
+30m 36s D_cost_train:-5.4912 | D_wass_train:6.5924 | D_cost_valid:-5.4738 | D_wass_valid:6.1323 | G_cost:-0.3387
+Generating samples...
+Saving models...
+30m 36s Epoch: 89/100
+30m 40s Epoch=89 Batch: 2/11 D_c:-5.0483 | D_w:7.8554 | G:-0.2159
+30m 44s Epoch=89 Batch: 4/11 D_c:-5.8143 | D_w:7.8920 | G:-0.3560
+30m 48s Epoch=89 Batch: 6/11 D_c:-1.0409 | D_w:2.1741 | G:0.0483
+30m 51s Epoch=89 Batch: 8/11 D_c:-4.7574 | D_w:5.1165 | G:0.6483
+30m 55s Epoch=89 Batch: 10/11 D_c:-9.4975 | D_w:10.8362 | G:-0.5646
+30m 57s D_cost_train:-5.8466 | D_wass_train:6.8958 | D_cost_valid:-4.8973 | D_wass_valid:5.5763 | G_cost:-0.2723
+Generating samples...
+Saving models...
+30m 57s Epoch: 90/100
+31m 1s Epoch=90 Batch: 2/11 D_c:-5.8307 | D_w:6.3270 | G:-0.5172
+31m 5s Epoch=90 Batch: 4/11 D_c:-1.2645 | D_w:1.5514 | G:-0.0599
+31m 9s Epoch=90 Batch: 6/11 D_c:-4.4952 | D_w:5.2187 | G:-0.5510
+31m 12s Epoch=90 Batch: 8/11 D_c:-3.3037 | D_w:4.8072 | G:-0.8635
+31m 16s Epoch=90 Batch: 10/11 D_c:-5.7628 | D_w:6.6584 | G:-0.1103
+31m 18s D_cost_train:-4.9132 | D_wass_train:5.7274 | D_cost_valid:-5.0943 | D_wass_valid:5.6603 | G_cost:-0.4293
+Generating samples...
+Saving models...
+31m 18s Epoch: 91/100
+31m 22s Epoch=91 Batch: 2/11 D_c:-8.2073 | D_w:13.0384 | G:-0.8120
+31m 26s Epoch=91 Batch: 4/11 D_c:-8.9322 | D_w:10.4544 | G:-0.2068
+31m 30s Epoch=91 Batch: 6/11 D_c:-0.8043 | D_w:1.6409 | G:0.2501
+31m 35s Epoch=91 Batch: 8/11 D_c:-2.4556 | D_w:2.9175 | G:0.1298
+31m 38s Epoch=91 Batch: 10/11 D_c:-7.0990 | D_w:8.0105 | G:-0.5858
+31m 40s D_cost_train:-5.7890 | D_wass_train:6.9865 | D_cost_valid:-5.1705 | D_wass_valid:5.9920 | G_cost:-0.3634
+Generating samples...
+Saving models...
+31m 41s Epoch: 92/100
+31m 45s Epoch=92 Batch: 2/11 D_c:-5.0833 | D_w:5.5444 | G:-0.4737
+31m 49s Epoch=92 Batch: 4/11 D_c:-7.7058 | D_w:8.3674 | G:-0.4022
+31m 52s Epoch=92 Batch: 6/11 D_c:-9.9136 | D_w:11.9499 | G:-0.2976
+31m 56s Epoch=92 Batch: 8/11 D_c:-8.5098 | D_w:9.3196 | G:-0.2847
+32m 0s Epoch=92 Batch: 10/11 D_c:-3.0743 | D_w:3.1802 | G:-0.3620
+32m 2s D_cost_train:-6.3548 | D_wass_train:7.4561 | D_cost_valid:-4.9584 | D_wass_valid:5.5674 | G_cost:-0.3546
+Generating samples...
+Saving models...
+32m 2s Epoch: 93/100
+32m 7s Epoch=93 Batch: 2/11 D_c:-12.1998 | D_w:14.1212 | G:-0.4831
+32m 11s Epoch=93 Batch: 4/11 D_c:-9.2252 | D_w:11.6990 | G:-0.3427
+32m 15s Epoch=93 Batch: 6/11 D_c:-7.2858 | D_w:7.6983 | G:-0.3684
+32m 19s Epoch=93 Batch: 8/11 D_c:-3.8357 | D_w:5.2895 | G:-0.4998
+32m 23s Epoch=93 Batch: 10/11 D_c:-10.5530 | D_w:13.3797 | G:-0.4433
+32m 25s D_cost_train:-5.9374 | D_wass_train:7.1599 | D_cost_valid:-5.9720 | D_wass_valid:6.8215 | G_cost:-0.2856
+Generating samples...
+Saving models...
+32m 26s Epoch: 94/100
+32m 31s Epoch=94 Batch: 2/11 D_c:-8.3581 | D_w:8.9346 | G:-0.4769
+32m 35s Epoch=94 Batch: 4/11 D_c:-7.3444 | D_w:8.2186 | G:-0.5133
+32m 39s Epoch=94 Batch: 6/11 D_c:-6.0667 | D_w:7.4305 | G:-0.4658
+32m 42s Epoch=94 Batch: 8/11 D_c:-3.4300 | D_w:4.1458 | G:-0.4155
+32m 46s Epoch=94 Batch: 10/11 D_c:-3.5913 | D_w:5.2426 | G:-0.4245
+32m 47s D_cost_train:-5.9613 | D_wass_train:7.0568 | D_cost_valid:-4.9500 | D_wass_valid:5.6420 | G_cost:-0.4473
+Generating samples...
+Saving models...
+32m 48s Epoch: 95/100
+32m 51s Epoch=95 Batch: 2/11 D_c:-6.4760 | D_w:8.2312 | G:-0.4345
+32m 55s Epoch=95 Batch: 4/11 D_c:-6.4981 | D_w:8.2824 | G:0.1131
+32m 58s Epoch=95 Batch: 6/11 D_c:-6.3700 | D_w:7.4458 | G:-0.3738
+33m 2s Epoch=95 Batch: 8/11 D_c:-5.7270 | D_w:7.9216 | G:-0.4435
+33m 6s Epoch=95 Batch: 10/11 D_c:-5.0656 | D_w:5.4151 | G:-0.0955
+33m 7s D_cost_train:-6.0360 | D_wass_train:7.1650 | D_cost_valid:-5.3284 | D_wass_valid:6.0713 | G_cost:-0.1581
+Generating samples...
+Saving models...
+33m 8s Epoch: 96/100
+33m 12s Epoch=96 Batch: 2/11 D_c:-8.2274 | D_w:9.6639 | G:-0.3481
+33m 15s Epoch=96 Batch: 4/11 D_c:-8.5817 | D_w:10.4299 | G:-0.6529
+33m 19s Epoch=96 Batch: 6/11 D_c:-6.4837 | D_w:9.0350 | G:-0.0752
+33m 22s Epoch=96 Batch: 8/11 D_c:-6.6047 | D_w:7.9548 | G:0.0371
+33m 26s Epoch=96 Batch: 10/11 D_c:-6.0119 | D_w:6.4659 | G:-0.3563
+33m 28s D_cost_train:-6.0157 | D_wass_train:7.2254 | D_cost_valid:-5.6387 | D_wass_valid:6.4591 | G_cost:-0.4000
+Generating samples...
+Saving models...
+33m 28s Epoch: 97/100
+33m 32s Epoch=97 Batch: 2/11 D_c:-7.8472 | D_w:9.8758 | G:-0.3827
+33m 35s Epoch=97 Batch: 4/11 D_c:-5.9702 | D_w:6.8427 | G:-0.5330
+33m 39s Epoch=97 Batch: 6/11 D_c:-8.8265 | D_w:9.5270 | G:-0.6918
+33m 43s Epoch=97 Batch: 8/11 D_c:-7.0043 | D_w:8.8170 | G:-0.0089
+33m 46s Epoch=97 Batch: 10/11 D_c:-6.8505 | D_w:8.6044 | G:-0.4566
+33m 48s D_cost_train:-5.8191 | D_wass_train:6.9468 | D_cost_valid:-5.8281 | D_wass_valid:6.5194 | G_cost:-0.5374
+Generating samples...
+Saving models...
+33m 48s Epoch: 98/100
+33m 52s Epoch=98 Batch: 2/11 D_c:-6.5691 | D_w:8.9374 | G:-0.2840
+33m 56s Epoch=98 Batch: 4/11 D_c:-7.4761 | D_w:9.4254 | G:-0.4233
+34m 0s Epoch=98 Batch: 6/11 D_c:-6.1973 | D_w:6.8745 | G:-0.3076
+34m 4s Epoch=98 Batch: 8/11 D_c:-8.5947 | D_w:9.2079 | G:-1.0977
+34m 7s Epoch=98 Batch: 10/11 D_c:-8.3298 | D_w:10.8104 | G:-0.4643
+34m 9s D_cost_train:-6.2325 | D_wass_train:7.3364 | D_cost_valid:-5.9703 | D_wass_valid:6.7337 | G_cost:-0.4046
+Generating samples...
+Saving models...
+34m 10s Epoch: 99/100
+34m 15s Epoch=99 Batch: 2/11 D_c:-7.8949 | D_w:10.1155 | G:-0.2964
+34m 20s Epoch=99 Batch: 4/11 D_c:-7.0485 | D_w:8.3484 | G:-0.2298
+34m 24s Epoch=99 Batch: 6/11 D_c:-5.5651 | D_w:6.3254 | G:-0.4221
+34m 28s Epoch=99 Batch: 8/11 D_c:-6.3705 | D_w:7.6552 | G:-0.5859
+34m 32s Epoch=99 Batch: 10/11 D_c:-8.9853 | D_w:10.2750 | G:-0.4225
+34m 33s D_cost_train:-5.9044 | D_wass_train:7.1173 | D_cost_valid:-4.5457 | D_wass_valid:5.3062 | G_cost:-0.2318
+Generating samples...
+Saving models...
+34m 34s Epoch: 100/100
+34m 38s Epoch=100 Batch: 2/11 D_c:-4.9495 | D_w:5.5249 | G:-0.6240
+34m 41s Epoch=100 Batch: 4/11 D_c:-7.7430 | D_w:8.3652 | G:-0.3756
+34m 45s Epoch=100 Batch: 6/11 D_c:-2.3581 | D_w:2.7020 | G:0.2517
+34m 48s Epoch=100 Batch: 8/11 D_c:-6.2949 | D_w:7.1125 | G:-0.8834
+34m 52s Epoch=100 Batch: 10/11 D_c:-2.7948 | D_w:3.8430 | G:-0.2217
+34m 54s D_cost_train:-5.7488 | D_wass_train:7.0093 | D_cost_valid:-4.7308 | D_wass_valid:5.5866 | G_cost:-0.4435
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=4, BATCH_NUM=370
+0m 0s Epoch: 1/2
+3m 37s Epoch=1 Batch: 74/370 D_c:-2.9304 | D_w:5.4262 | G:-0.4870
+7m 23s Epoch=1 Batch: 148/370 D_c:-2.4071 | D_w:4.4355 | G:-0.2240
+11m 11s Epoch=1 Batch: 222/370 D_c:-8.9757 | D_w:9.4835 | G:-0.6533
+15m 6s Epoch=1 Batch: 296/370 D_c:-7.3376 | D_w:8.9219 | G:-0.6226
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=2, BATCH_SIZE=4, BATCH_NUM=370
+0m 0s Epoch: 1/2
+2m 17s Epoch=1 Batch: 74/370 D_c:-5.7453 | D_w:8.6253 | G:-1.4738
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=92
+0m 0s Epoch: 1/1
+1m 26s Epoch=1 Batch: 18/92 D_c:-5.9432 | D_w:8.5575 | G:-0.6392
+2m 48s Epoch=1 Batch: 36/92 D_c:-3.4364 | D_w:5.1106 | G:-0.7588
+4m 11s Epoch=1 Batch: 54/92 D_c:-7.5700 | D_w:8.2371 | G:-0.5911
+5m 34s Epoch=1 Batch: 72/92 D_c:-8.1767 | D_w:8.6835 | G:-0.3013
+6m 56s Epoch=1 Batch: 90/92 D_c:-8.8168 | D_w:10.2684 | G:-0.1244
+7m 6s D_cost_train:-6.5164 | D_wass_train:7.8519 | D_cost_valid:-5.7156 | D_wass_valid:6.9396 | G_cost:-0.5575
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=92
+0m 0s Epoch: 1/1
+2m 12s Epoch=1 Batch: 18/92 D_c:-5.1814 | D_w:6.3713 | G:-0.0963
+4m 24s Epoch=1 Batch: 36/92 D_c:-6.8937 | D_w:7.2567 | G:-0.1678
+6m 41s Epoch=1 Batch: 54/92 D_c:-5.4032 | D_w:6.5183 | G:-0.1144
+357m 17s Epoch=1 Batch: 72/92 D_c:-7.3204 | D_w:8.2778 | G:-0.2524
+364m 6s Epoch=1 Batch: 90/92 D_c:-6.3736 | D_w:8.0837 | G:-0.1396
+364m 16s D_cost_train:-6.8947 | D_wass_train:8.2064 | D_cost_valid:-6.7456 | D_wass_valid:8.0517 | G_cost:-0.1395
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Please download DATASET 'data/' and put it under current path !
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=75
+0m 0s Epoch: 1/1
+1m 38s Epoch=1 Batch: 15/75 D_c:-5.2938 | D_w:7.1171 | G:-0.0763
+3m 55s Epoch=1 Batch: 30/75 D_c:-8.1902 | D_w:9.1902 | G:-0.0911
+5m 45s Epoch=1 Batch: 45/75 D_c:-7.4424 | D_w:9.5013 | G:-0.0897
+7m 45s Epoch=1 Batch: 60/75 D_c:-6.7600 | D_w:8.3673 | G:-0.0770
+9m 42s Epoch=1 Batch: 75/75 D_c:-6.2432 | D_w:6.8220 | G:-0.1250
+9m 42s D_cost_train:-7.3361 | D_wass_train:8.6929 | D_cost_valid:-7.3814 | D_wass_valid:8.7504 | G_cost:-0.1114
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading models...
+Loading models...
+Loading models...
+Loading models...
+Loading models...
+Loading models...
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=1
+0m 0s Epoch: 1/1
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=1
+0m 0s Epoch: 1/1
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=1
+0m 0s Epoch: 1/1
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=2
+0m 0s Epoch: 1/1
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=10
+0m 0s Epoch: 1/1
+0m 11s Epoch=1 Batch: 2/10 D_c:-17.0315 | D_w:21.8761 | G:21.0430
+0m 20s Epoch=1 Batch: 4/10 D_c:-1.0751 | D_w:1.0942 | G:-8.0825
+0m 29s Epoch=1 Batch: 6/10 D_c:-7.2492 | D_w:9.5413 | G:-7.0583
+0m 38s Epoch=1 Batch: 8/10 D_c:-4.6215 | D_w:4.9269 | G:-16.5074
+0m 47s Epoch=1 Batch: 10/10 D_c:-3.5622 | D_w:4.6185 | G:-17.1431
+0m 47s D_cost_train:-2.3631 | D_wass_train:3.6682 | D_cost_valid:-3.5721 | D_wass_valid:5.0359 | G_cost:-7.7429
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=10
+0m 0s Epoch: 1/1
+0m 11s Epoch=1 Batch: 2/10 D_c:-3.3750 | D_w:3.7076 | G:-14.0143
+0m 20s Epoch=1 Batch: 4/10 D_c:-3.6858 | D_w:5.7307 | G:-9.9336
+0m 29s Epoch=1 Batch: 6/10 D_c:-7.6897 | D_w:10.9023 | G:-15.5203
+0m 38s Epoch=1 Batch: 8/10 D_c:-5.0509 | D_w:7.6689 | G:-10.0841
+0m 47s Epoch=1 Batch: 10/10 D_c:-6.0561 | D_w:6.7716 | G:-10.4539
+0m 47s D_cost_train:-4.9914 | D_wass_train:6.6532 | D_cost_valid:-4.3063 | D_wass_valid:5.7798 | G_cost:-12.3085
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=10
+0m 0s Epoch: 1/1
+0m 12s Epoch=1 Batch: 2/10 D_c:-71.2848 | D_w:75.2936 | G:163.3374
+0m 21s Epoch=1 Batch: 4/10 D_c:0.2317 | D_w:-0.1847 | G:-0.1478
+0m 30s Epoch=1 Batch: 6/10 D_c:-2.6130 | D_w:3.6004 | G:-4.5146
+0m 39s Epoch=1 Batch: 8/10 D_c:-3.3649 | D_w:4.0309 | G:-9.0039
+0m 49s Epoch=1 Batch: 10/10 D_c:-5.9077 | D_w:7.3819 | G:-11.6075
+0m 49s D_cost_train:-2.4734 | D_wass_train:5.0918 | D_cost_valid:-6.3413 | D_wass_valid:8.6152 | G_cost:12.6449
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=10
+0m 0s Epoch: 1/1
+0m 11s Epoch=1 Batch: 2/10 D_c:-46.0936 | D_w:48.1999 | G:99.7826
+0m 20s Epoch=1 Batch: 4/10 D_c:-1.7651 | D_w:2.3851 | G:-3.9559
+0m 29s Epoch=1 Batch: 6/10 D_c:-3.9852 | D_w:4.8543 | G:-5.4171
+0m 38s Epoch=1 Batch: 8/10 D_c:-4.7042 | D_w:5.3990 | G:-9.3063
+0m 47s Epoch=1 Batch: 10/10 D_c:-4.4412 | D_w:6.1477 | G:-7.4883
+0m 47s D_cost_train:-2.3853 | D_wass_train:3.5757 | D_cost_valid:-5.4198 | D_wass_valid:6.7362 | G_cost:5.0370
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=10
+0m 0s Epoch: 1/1
+0m 11s Epoch=1 Batch: 2/10 D_c:-13.9611 | D_w:16.3444 | G:22.2775
+0m 20s Epoch=1 Batch: 4/10 D_c:-3.1285 | D_w:4.3929 | G:-6.7886
+0m 29s Epoch=1 Batch: 6/10 D_c:-3.8660 | D_w:4.6095 | G:-16.4879
+0m 38s Epoch=1 Batch: 8/10 D_c:-4.0656 | D_w:4.6416 | G:-18.7674
+0m 47s Epoch=1 Batch: 10/10 D_c:-4.0781 | D_w:4.4531 | G:-14.9746
+0m 47s D_cost_train:-2.6222 | D_wass_train:3.6998 | D_cost_valid:-3.1848 | D_wass_valid:4.1650 | G_cost:-9.2704
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=100, BATCH_SIZE=16, BATCH_NUM=10
+0m 0s Epoch: 1/100
+0m 11s Epoch=1 Batch: 2/10 D_c:-8.5402 | D_w:9.3194 | G:-11.1510
+0m 20s Epoch=1 Batch: 4/10 D_c:-5.0841 | D_w:6.2654 | G:-9.0395
+0m 29s Epoch=1 Batch: 6/10 D_c:-4.3299 | D_w:5.6234 | G:-10.1825
+0m 38s Epoch=1 Batch: 8/10 D_c:-4.2437 | D_w:5.7865 | G:-8.3616
+0m 47s Epoch=1 Batch: 10/10 D_c:-3.5690 | D_w:7.0202 | G:-5.9165
+0m 47s D_cost_train:-4.6550 | D_wass_train:6.1542 | D_cost_valid:-6.7217 | D_wass_valid:8.4144 | G_cost:-9.8726
+Generating samples...
+Saving models...
+0m 48s Epoch: 2/100
+0m 57s Epoch=2 Batch: 2/10 D_c:-4.1500 | D_w:5.5605 | G:-4.8992
+1m 6s Epoch=2 Batch: 4/10 D_c:-5.7043 | D_w:7.0218 | G:-4.4150
+1m 15s Epoch=2 Batch: 6/10 D_c:-4.3046 | D_w:7.2502 | G:-3.0895
+1m 24s Epoch=2 Batch: 8/10 D_c:-4.2415 | D_w:4.7220 | G:-2.2672
+1m 33s Epoch=2 Batch: 10/10 D_c:-8.9118 | D_w:10.0638 | G:-2.8831
+1m 33s D_cost_train:-5.6115 | D_wass_train:7.2937 | D_cost_valid:-7.8061 | D_wass_valid:9.9091 | G_cost:-3.7132
+Generating samples...
+Saving models...
+1m 33s Epoch: 3/100
+1m 43s Epoch=3 Batch: 2/10 D_c:-5.9072 | D_w:6.9511 | G:-1.7883
+1m 52s Epoch=3 Batch: 4/10 D_c:-5.0706 | D_w:6.7363 | G:-1.1532
+2m 1s Epoch=3 Batch: 6/10 D_c:-5.3211 | D_w:5.7243 | G:-1.3359
+2m 10s Epoch=3 Batch: 8/10 D_c:-7.9914 | D_w:8.9204 | G:-1.5400
+2m 19s Epoch=3 Batch: 10/10 D_c:-4.5658 | D_w:5.1146 | G:-0.9037
+2m 19s D_cost_train:-5.7919 | D_wass_train:7.6714 | D_cost_valid:-8.2275 | D_wass_valid:10.3510 | G_cost:-1.3786
+Generating samples...
+Saving models...
+2m 19s Epoch: 4/100
+2m 28s Epoch=4 Batch: 2/10 D_c:-8.2964 | D_w:11.6017 | G:-0.6158
+2m 37s Epoch=4 Batch: 4/10 D_c:-6.3971 | D_w:8.7487 | G:-0.8740
+2m 47s Epoch=4 Batch: 6/10 D_c:-5.8659 | D_w:6.4290 | G:-1.0295
+2m 56s Epoch=4 Batch: 8/10 D_c:-8.5660 | D_w:13.3867 | G:-0.8539
+3m 5s Epoch=4 Batch: 10/10 D_c:-7.5158 | D_w:8.9885 | G:-0.7837
+3m 5s D_cost_train:-6.4285 | D_wass_train:8.2702 | D_cost_valid:-8.4222 | D_wass_valid:10.7180 | G_cost:-0.9070
+Generating samples...
+Saving models...
+3m 5s Epoch: 5/100
+3m 14s Epoch=5 Batch: 2/10 D_c:-8.8755 | D_w:11.1816 | G:-0.8549
+3m 24s Epoch=5 Batch: 4/10 D_c:-6.2366 | D_w:8.3590 | G:-0.8799
+3m 33s Epoch=5 Batch: 6/10 D_c:-6.7321 | D_w:8.4588 | G:-0.5836
+3m 42s Epoch=5 Batch: 8/10 D_c:-6.0990 | D_w:10.7024 | G:-0.7637
+3m 51s Epoch=5 Batch: 10/10 D_c:-5.4705 | D_w:11.9633 | G:-0.7389
+3m 51s D_cost_train:-5.8134 | D_wass_train:7.5136 | D_cost_valid:-9.1924 | D_wass_valid:11.3677 | G_cost:-0.7895
+Generating samples...
+Saving models...
+3m 52s Epoch: 6/100
+4m 1s Epoch=6 Batch: 2/10 D_c:-7.9071 | D_w:8.5253 | G:-1.0197
+4m 10s Epoch=6 Batch: 4/10 D_c:-10.8328 | D_w:13.6904 | G:-0.9476
+4m 19s Epoch=6 Batch: 6/10 D_c:-8.4256 | D_w:10.9538 | G:-0.8504
+4m 29s Epoch=6 Batch: 8/10 D_c:-9.5465 | D_w:15.5562 | G:-0.7809
+4m 38s Epoch=6 Batch: 10/10 D_c:-6.0345 | D_w:6.8391 | G:-1.1847
+4m 38s D_cost_train:-7.0294 | D_wass_train:9.1214 | D_cost_valid:-8.0021 | D_wass_valid:10.2649 | G_cost:-0.8838
+Generating samples...
+Saving models...
+4m 39s Epoch: 7/100
+4m 48s Epoch=7 Batch: 2/10 D_c:-3.3760 | D_w:5.7670 | G:-0.8728
+4m 57s Epoch=7 Batch: 4/10 D_c:-5.6786 | D_w:10.4161 | G:0.2874
+5m 7s Epoch=7 Batch: 6/10 D_c:-4.5943 | D_w:6.5323 | G:-0.4009
+5m 16s Epoch=7 Batch: 8/10 D_c:-9.7783 | D_w:11.9366 | G:-0.4863
+5m 25s Epoch=7 Batch: 10/10 D_c:-6.5608 | D_w:10.1951 | G:-0.5952
+5m 25s D_cost_train:-6.2996 | D_wass_train:8.2191 | D_cost_valid:-8.2652 | D_wass_valid:10.8816 | G_cost:-0.6832
+Generating samples...
+Saving models...
+5m 26s Epoch: 8/100
+5m 35s Epoch=8 Batch: 2/10 D_c:-3.0121 | D_w:4.6465 | G:-0.4237
+5m 45s Epoch=8 Batch: 4/10 D_c:-3.6020 | D_w:5.1310 | G:-0.8626
+5m 54s Epoch=8 Batch: 6/10 D_c:-3.8244 | D_w:4.0048 | G:-0.4751
+6m 3s Epoch=8 Batch: 8/10 D_c:-12.5075 | D_w:13.5996 | G:-1.7672
+6m 13s Epoch=8 Batch: 10/10 D_c:-3.8433 | D_w:7.2882 | G:-1.1943
+6m 13s D_cost_train:-6.0114 | D_wass_train:7.6616 | D_cost_valid:-8.7901 | D_wass_valid:10.8158 | G_cost:-0.9042
+Generating samples...
+Saving models...
+6m 13s Epoch: 9/100
+6m 23s Epoch=9 Batch: 2/10 D_c:-5.5088 | D_w:6.6031 | G:-0.8845
+6m 32s Epoch=9 Batch: 4/10 D_c:-6.9198 | D_w:8.9646 | G:-1.2599
+6m 42s Epoch=9 Batch: 6/10 D_c:-5.5529 | D_w:6.9152 | G:-0.5181
+6m 51s Epoch=9 Batch: 8/10 D_c:-5.5450 | D_w:6.2379 | G:-0.0219
+7m 1s Epoch=9 Batch: 10/10 D_c:-8.6370 | D_w:9.8782 | G:-1.0880
+7m 1s D_cost_train:-6.5082 | D_wass_train:8.2367 | D_cost_valid:-8.3376 | D_wass_valid:10.4759 | G_cost:-0.8400
+Generating samples...
+Saving models...
+7m 2s Epoch: 10/100
+7m 11s Epoch=10 Batch: 2/10 D_c:-7.5105 | D_w:11.6402 | G:-0.5509
+7m 21s Epoch=10 Batch: 4/10 D_c:-5.8711 | D_w:7.0757 | G:-1.1049
+7m 30s Epoch=10 Batch: 6/10 D_c:-4.8788 | D_w:9.0152 | G:-0.8921
+7m 40s Epoch=10 Batch: 8/10 D_c:-6.2644 | D_w:7.1460 | G:-1.3444
+7m 50s Epoch=10 Batch: 10/10 D_c:-5.4807 | D_w:7.0603 | G:-0.6010
+7m 50s D_cost_train:-6.2225 | D_wass_train:7.8742 | D_cost_valid:-9.0088 | D_wass_valid:10.8989 | G_cost:-0.9017
+Generating samples...
+Saving models...
+7m 50s Epoch: 11/100
+8m 0s Epoch=11 Batch: 2/10 D_c:-9.9520 | D_w:12.0915 | G:-1.3470
+8m 10s Epoch=11 Batch: 4/10 D_c:-7.3140 | D_w:9.0395 | G:-1.1990
+8m 19s Epoch=11 Batch: 6/10 D_c:-6.8323 | D_w:7.9431 | G:-0.7521
+8m 29s Epoch=11 Batch: 8/10 D_c:-2.1159 | D_w:6.4884 | G:-1.1596
+8m 39s Epoch=11 Batch: 10/10 D_c:-6.0864 | D_w:8.3519 | G:-0.9587
+8m 39s D_cost_train:-6.6524 | D_wass_train:8.3728 | D_cost_valid:-8.5617 | D_wass_valid:10.8245 | G_cost:-1.0538
+Generating samples...
+Saving models...
+8m 39s Epoch: 12/100
+8m 49s Epoch=12 Batch: 2/10 D_c:-4.0649 | D_w:5.1399 | G:-1.3586
+8m 59s Epoch=12 Batch: 4/10 D_c:-9.4820 | D_w:11.2009 | G:-0.8201
+9m 9s Epoch=12 Batch: 6/10 D_c:-4.2256 | D_w:5.6726 | G:-0.5376
+9m 18s Epoch=12 Batch: 8/10 D_c:-9.2258 | D_w:10.6053 | G:-0.9815
+9m 28s Epoch=12 Batch: 10/10 D_c:-8.9668 | D_w:11.4573 | G:-1.7715
+9m 28s D_cost_train:-6.5276 | D_wass_train:8.2453 | D_cost_valid:-8.5480 | D_wass_valid:10.8414 | G_cost:-1.0886
+Generating samples...
+Saving models...
+9m 29s Epoch: 13/100
+9m 38s Epoch=13 Batch: 2/10 D_c:-6.0596 | D_w:8.3375 | G:-0.9815
+9m 48s Epoch=13 Batch: 4/10 D_c:-3.4848 | D_w:3.9113 | G:-0.5861
+9m 58s Epoch=13 Batch: 6/10 D_c:-6.5096 | D_w:9.3902 | G:-0.5398
+10m 8s Epoch=13 Batch: 8/10 D_c:-7.2848 | D_w:9.5498 | G:-0.8782
+10m 18s Epoch=13 Batch: 10/10 D_c:-6.4894 | D_w:8.4264 | G:-1.0916
+10m 18s D_cost_train:-6.7506 | D_wass_train:8.5659 | D_cost_valid:-9.2252 | D_wass_valid:11.4633 | G_cost:-0.7810
+Generating samples...
+Saving models...
+10m 18s Epoch: 14/100
+10m 28s Epoch=14 Batch: 2/10 D_c:-4.0646 | D_w:4.7578 | G:-0.8136
+10m 38s Epoch=14 Batch: 4/10 D_c:-5.0090 | D_w:9.5179 | G:-0.4515
+10m 48s Epoch=14 Batch: 6/10 D_c:-7.2216 | D_w:8.4401 | G:-0.9378
+10m 58s Epoch=14 Batch: 8/10 D_c:-5.3886 | D_w:5.7349 | G:-1.0289
+11m 8s Epoch=14 Batch: 10/10 D_c:-4.0892 | D_w:5.7180 | G:-1.0275
+11m 8s D_cost_train:-6.6464 | D_wass_train:8.5147 | D_cost_valid:-8.2918 | D_wass_valid:10.3472 | G_cost:-0.9844
+Generating samples...
+Saving models...
+11m 9s Epoch: 15/100
+11m 19s Epoch=15 Batch: 2/10 D_c:-5.4637 | D_w:5.7920 | G:-0.8690
+11m 29s Epoch=15 Batch: 4/10 D_c:-8.3809 | D_w:9.5485 | G:-1.4884
+11m 39s Epoch=15 Batch: 6/10 D_c:-6.4145 | D_w:8.1998 | G:-1.0192
+11m 49s Epoch=15 Batch: 8/10 D_c:-5.3724 | D_w:7.4688 | G:-1.0119
+11m 59s Epoch=15 Batch: 10/10 D_c:-3.5821 | D_w:6.8534 | G:-0.6413
+11m 59s D_cost_train:-6.8251 | D_wass_train:8.6656 | D_cost_valid:-8.8855 | D_wass_valid:10.9983 | G_cost:-1.0126
+Generating samples...
+Saving models...
+12m 0s Epoch: 16/100
+12m 10s Epoch=16 Batch: 2/10 D_c:-6.4141 | D_w:8.6892 | G:-1.3278
+12m 20s Epoch=16 Batch: 4/10 D_c:-5.6527 | D_w:7.0656 | G:-0.7028
+12m 30s Epoch=16 Batch: 6/10 D_c:-3.8957 | D_w:5.0442 | G:-1.0251
+12m 40s Epoch=16 Batch: 8/10 D_c:-7.2938 | D_w:9.5285 | G:-0.9700
+12m 50s Epoch=16 Batch: 10/10 D_c:-8.1898 | D_w:10.3202 | G:-1.0241
+12m 50s D_cost_train:-6.4508 | D_wass_train:8.0555 | D_cost_valid:-9.4017 | D_wass_valid:11.5220 | G_cost:-1.0961
+Generating samples...
+Saving models...
+12m 51s Epoch: 17/100
+13m 1s Epoch=17 Batch: 2/10 D_c:-5.0542 | D_w:5.6968 | G:-0.7671
+13m 11s Epoch=17 Batch: 4/10 D_c:-12.1257 | D_w:15.3169 | G:-1.6457
+13m 21s Epoch=17 Batch: 6/10 D_c:-4.4495 | D_w:4.7267 | G:-0.9880
+13m 31s Epoch=17 Batch: 8/10 D_c:-9.5692 | D_w:10.9903 | G:-1.8179
+13m 41s Epoch=17 Batch: 10/10 D_c:-4.2162 | D_w:5.0751 | G:-0.7642
+13m 41s D_cost_train:-6.5310 | D_wass_train:8.1967 | D_cost_valid:-9.0330 | D_wass_valid:10.9630 | G_cost:-1.0760
+Generating samples...
+Saving models...
+13m 42s Epoch: 18/100
+13m 51s Epoch=18 Batch: 2/10 D_c:-7.2872 | D_w:9.2327 | G:-1.0525
+14m 1s Epoch=18 Batch: 4/10 D_c:-5.9920 | D_w:7.4100 | G:-1.1262
+14m 11s Epoch=18 Batch: 6/10 D_c:-8.9559 | D_w:11.0158 | G:-1.4756
+14m 21s Epoch=18 Batch: 8/10 D_c:-6.8791 | D_w:7.9965 | G:-1.5583
+14m 31s Epoch=18 Batch: 10/10 D_c:-7.0712 | D_w:8.9171 | G:-0.9786
+14m 31s D_cost_train:-6.7141 | D_wass_train:8.5089 | D_cost_valid:-9.1674 | D_wass_valid:11.3773 | G_cost:-1.2218
+Generating samples...
+Saving models...
+14m 32s Epoch: 19/100
+14m 42s Epoch=19 Batch: 2/10 D_c:-10.1759 | D_w:11.1544 | G:-0.8772
+14m 52s Epoch=19 Batch: 4/10 D_c:-7.3273 | D_w:8.7241 | G:-1.0261
+15m 2s Epoch=19 Batch: 6/10 D_c:-4.9306 | D_w:5.3736 | G:-0.6071
+15m 12s Epoch=19 Batch: 8/10 D_c:-7.8678 | D_w:8.6907 | G:-1.1338
+15m 22s Epoch=19 Batch: 10/10 D_c:-4.3184 | D_w:5.3743 | G:-0.9021
+15m 22s D_cost_train:-6.7894 | D_wass_train:8.4843 | D_cost_valid:-8.9619 | D_wass_valid:11.1063 | G_cost:-0.8623
+Generating samples...
+Saving models...
+15m 23s Epoch: 20/100
+15m 33s Epoch=20 Batch: 2/10 D_c:-5.4144 | D_w:7.7916 | G:-0.8377
+15m 43s Epoch=20 Batch: 4/10 D_c:-7.2982 | D_w:9.1017 | G:-0.4951
+15m 53s Epoch=20 Batch: 6/10 D_c:-7.6324 | D_w:8.2005 | G:-1.0518
+16m 3s Epoch=20 Batch: 8/10 D_c:-7.7173 | D_w:8.4723 | G:-1.1250
+16m 13s Epoch=20 Batch: 10/10 D_c:-6.7712 | D_w:9.3922 | G:-1.2554
+16m 13s D_cost_train:-6.7480 | D_wass_train:8.4525 | D_cost_valid:-8.8149 | D_wass_valid:10.9149 | G_cost:-0.8562
+Generating samples...
+Saving models...
+16m 14s Epoch: 21/100
+16m 24s Epoch=21 Batch: 2/10 D_c:-6.3002 | D_w:8.5408 | G:-0.9788
+16m 33s Epoch=21 Batch: 4/10 D_c:-7.9267 | D_w:9.4898 | G:-0.9290
+16m 44s Epoch=21 Batch: 6/10 D_c:-3.6309 | D_w:6.8530 | G:-0.6812
+16m 54s Epoch=21 Batch: 8/10 D_c:-6.4102 | D_w:8.1308 | G:-0.9716
+17m 4s Epoch=21 Batch: 10/10 D_c:-4.6689 | D_w:5.3998 | G:-1.3316
+17m 4s D_cost_train:-6.9690 | D_wass_train:8.6821 | D_cost_valid:-9.0692 | D_wass_valid:11.0962 | G_cost:-1.0360
+Generating samples...
+Saving models...
+17m 4s Epoch: 22/100
+17m 15s Epoch=22 Batch: 2/10 D_c:-9.6236 | D_w:11.3203 | G:-1.0122
+17m 25s Epoch=22 Batch: 4/10 D_c:-4.7222 | D_w:7.4156 | G:-0.6034
+17m 35s Epoch=22 Batch: 6/10 D_c:-5.2297 | D_w:7.4577 | G:-1.0252
+17m 45s Epoch=22 Batch: 8/10 D_c:-4.5971 | D_w:5.0410 | G:-0.8282
+17m 55s Epoch=22 Batch: 10/10 D_c:-4.8968 | D_w:6.6875 | G:-1.2741
+17m 55s D_cost_train:-6.6299 | D_wass_train:8.1800 | D_cost_valid:-9.4957 | D_wass_valid:11.9202 | G_cost:-0.9907
+Generating samples...
+Saving models...
+17m 55s Epoch: 23/100
+18m 5s Epoch=23 Batch: 2/10 D_c:-9.4824 | D_w:11.8298 | G:-3.3938
+18m 16s Epoch=23 Batch: 4/10 D_c:-9.2179 | D_w:10.8035 | G:-1.1091
+18m 26s Epoch=23 Batch: 6/10 D_c:-5.5973 | D_w:6.9026 | G:-1.1098
+18m 36s Epoch=23 Batch: 8/10 D_c:-9.7609 | D_w:11.0493 | G:-1.8703
+18m 46s Epoch=23 Batch: 10/10 D_c:-13.1363 | D_w:15.3557 | G:-1.4847
+18m 46s D_cost_train:-7.2478 | D_wass_train:9.0837 | D_cost_valid:-9.3071 | D_wass_valid:11.6625 | G_cost:-1.7143
+Generating samples...
+Saving models...
+18m 47s Epoch: 24/100
+18m 57s Epoch=24 Batch: 2/10 D_c:-9.3734 | D_w:11.8528 | G:-1.0060
+19m 7s Epoch=24 Batch: 4/10 D_c:-8.2018 | D_w:10.3343 | G:-0.9861
+19m 17s Epoch=24 Batch: 6/10 D_c:-6.8049 | D_w:8.2748 | G:-0.9746
+19m 27s Epoch=24 Batch: 8/10 D_c:-6.7338 | D_w:8.3588 | G:-1.5638
+19m 37s Epoch=24 Batch: 10/10 D_c:-6.9434 | D_w:8.5853 | G:-1.1665
+19m 37s D_cost_train:-6.5771 | D_wass_train:8.2186 | D_cost_valid:-9.4700 | D_wass_valid:11.8624 | G_cost:-1.2220
+Generating samples...
+Saving models...
+19m 38s Epoch: 25/100
+19m 48s Epoch=25 Batch: 2/10 D_c:-5.6890 | D_w:7.7440 | G:-1.7032
+19m 58s Epoch=25 Batch: 4/10 D_c:-7.7398 | D_w:10.2559 | G:-1.6306
+20m 8s Epoch=25 Batch: 6/10 D_c:-5.2977 | D_w:6.1696 | G:-1.0971
+20m 18s Epoch=25 Batch: 8/10 D_c:-12.8639 | D_w:14.7375 | G:-1.5972
+20m 28s Epoch=25 Batch: 10/10 D_c:-6.3323 | D_w:6.8039 | G:-1.8652
+20m 28s D_cost_train:-7.2013 | D_wass_train:9.0507 | D_cost_valid:-8.5832 | D_wass_valid:11.0375 | G_cost:-1.7188
+Generating samples...
+Saving models...
+20m 29s Epoch: 26/100
+20m 39s Epoch=26 Batch: 2/10 D_c:-7.5192 | D_w:8.5769 | G:-1.2236
+20m 49s Epoch=26 Batch: 4/10 D_c:-6.9742 | D_w:8.8904 | G:-0.8840
+20m 59s Epoch=26 Batch: 6/10 D_c:-6.0088 | D_w:8.2936 | G:-0.6918
+21m 9s Epoch=26 Batch: 8/10 D_c:-6.2686 | D_w:6.8586 | G:-0.7885
+21m 20s Epoch=26 Batch: 10/10 D_c:-8.3692 | D_w:11.5321 | G:-0.7097
+21m 20s D_cost_train:-6.6312 | D_wass_train:8.2332 | D_cost_valid:-9.1256 | D_wass_valid:11.0926 | G_cost:-0.9629
+Generating samples...
+Saving models...
+21m 20s Epoch: 27/100
+21m 30s Epoch=27 Batch: 2/10 D_c:-8.2387 | D_w:9.4155 | G:-1.0697
+21m 40s Epoch=27 Batch: 4/10 D_c:-9.3388 | D_w:10.2643 | G:-1.2184
+21m 50s Epoch=27 Batch: 6/10 D_c:-8.4842 | D_w:9.8091 | G:-1.7763
+22m 1s Epoch=27 Batch: 8/10 D_c:-6.1750 | D_w:7.6616 | G:-1.5601
+22m 11s Epoch=27 Batch: 10/10 D_c:-5.8309 | D_w:7.4151 | G:-1.3986
+22m 11s D_cost_train:-6.7430 | D_wass_train:8.3994 | D_cost_valid:-9.4873 | D_wass_valid:11.8315 | G_cost:-1.3382
+Generating samples...
+Saving models...
+22m 11s Epoch: 28/100
+22m 22s Epoch=28 Batch: 2/10 D_c:-5.2518 | D_w:6.6415 | G:-1.2595
+22m 32s Epoch=28 Batch: 4/10 D_c:-10.0996 | D_w:12.5268 | G:-0.9010
+22m 42s Epoch=28 Batch: 6/10 D_c:-3.7948 | D_w:4.5628 | G:-0.6720
+22m 52s Epoch=28 Batch: 8/10 D_c:-6.9766 | D_w:8.3176 | G:-0.8586
+23m 2s Epoch=28 Batch: 10/10 D_c:-6.1516 | D_w:7.3018 | G:-0.7156
+23m 2s D_cost_train:-7.5235 | D_wass_train:9.3555 | D_cost_valid:-9.4024 | D_wass_valid:11.5294 | G_cost:-0.9453
+Generating samples...
+Saving models...
+23m 3s Epoch: 29/100
+23m 13s Epoch=29 Batch: 2/10 D_c:-7.3279 | D_w:8.2600 | G:-0.9510
+23m 23s Epoch=29 Batch: 4/10 D_c:-7.7015 | D_w:8.8859 | G:-0.8658
+23m 33s Epoch=29 Batch: 6/10 D_c:-9.4805 | D_w:10.4125 | G:-0.9941
+23m 43s Epoch=29 Batch: 8/10 D_c:-9.1656 | D_w:9.7674 | G:-0.6606
+23m 54s Epoch=29 Batch: 10/10 D_c:-6.6556 | D_w:8.3117 | G:-0.8574
+23m 54s D_cost_train:-7.0694 | D_wass_train:8.8073 | D_cost_valid:-9.4508 | D_wass_valid:11.3709 | G_cost:-0.8342
+Generating samples...
+Saving models...
+23m 54s Epoch: 30/100
+24m 4s Epoch=30 Batch: 2/10 D_c:-6.2537 | D_w:9.6503 | G:-0.9093
+24m 15s Epoch=30 Batch: 4/10 D_c:-7.3761 | D_w:9.0257 | G:-0.5676
+24m 25s Epoch=30 Batch: 6/10 D_c:-6.5367 | D_w:7.6905 | G:-0.6190
+24m 35s Epoch=30 Batch: 8/10 D_c:-7.4969 | D_w:8.3376 | G:-0.6213
+24m 45s Epoch=30 Batch: 10/10 D_c:-4.7955 | D_w:6.2575 | G:-0.4242
+24m 45s D_cost_train:-6.9642 | D_wass_train:8.7022 | D_cost_valid:-9.6880 | D_wass_valid:11.8176 | G_cost:-0.6543
+Generating samples...
+Saving models...
+24m 46s Epoch: 31/100
+24m 56s Epoch=31 Batch: 2/10 D_c:-5.1428 | D_w:5.5852 | G:-1.1508
+25m 6s Epoch=31 Batch: 4/10 D_c:-6.7708 | D_w:7.7229 | G:-1.5689
+25m 16s Epoch=31 Batch: 6/10 D_c:-6.3807 | D_w:8.4216 | G:-0.9158
+25m 27s Epoch=31 Batch: 8/10 D_c:-4.4017 | D_w:5.8990 | G:-0.8818
+25m 37s Epoch=31 Batch: 10/10 D_c:-6.3660 | D_w:8.1173 | G:-0.9245
+25m 37s D_cost_train:-6.9700 | D_wass_train:8.6135 | D_cost_valid:-8.7402 | D_wass_valid:10.7222 | G_cost:-1.1329
+Generating samples...
+Saving models...
+25m 37s Epoch: 32/100
+25m 48s Epoch=32 Batch: 2/10 D_c:-6.5052 | D_w:7.5464 | G:-0.7276
+25m 58s Epoch=32 Batch: 4/10 D_c:-8.1054 | D_w:9.4235 | G:-0.7791
+26m 8s Epoch=32 Batch: 6/10 D_c:-6.7702 | D_w:7.4964 | G:-1.0628
+26m 18s Epoch=32 Batch: 8/10 D_c:-6.3986 | D_w:8.6629 | G:-0.7194
+26m 28s Epoch=32 Batch: 10/10 D_c:-7.1183 | D_w:8.2812 | G:-0.6421
+26m 28s D_cost_train:-6.4116 | D_wass_train:7.8689 | D_cost_valid:-8.7384 | D_wass_valid:10.5779 | G_cost:-0.8910
+Generating samples...
+Saving models...
+26m 29s Epoch: 33/100
+26m 39s Epoch=33 Batch: 2/10 D_c:-7.1485 | D_w:7.8727 | G:-0.6746
+26m 49s Epoch=33 Batch: 4/10 D_c:-8.9931 | D_w:9.9332 | G:-0.7435
+26m 59s Epoch=33 Batch: 6/10 D_c:-8.9592 | D_w:10.7293 | G:-0.6309
+27m 10s Epoch=33 Batch: 8/10 D_c:-7.6756 | D_w:9.7943 | G:-1.4758
+27m 20s Epoch=33 Batch: 10/10 D_c:-6.7403 | D_w:7.7898 | G:-1.1981
+27m 20s D_cost_train:-7.0050 | D_wass_train:8.6301 | D_cost_valid:-8.5983 | D_wass_valid:10.6562 | G_cost:-0.7413
+Generating samples...
+Saving models...
+27m 21s Epoch: 34/100
+27m 31s Epoch=34 Batch: 2/10 D_c:-7.9490 | D_w:11.0532 | G:-0.8689
+27m 41s Epoch=34 Batch: 4/10 D_c:-5.1187 | D_w:5.8005 | G:-1.0192
+27m 51s Epoch=34 Batch: 6/10 D_c:-6.2798 | D_w:6.6281 | G:-0.8688
+28m 1s Epoch=34 Batch: 8/10 D_c:-10.9801 | D_w:13.0667 | G:-1.0650
+28m 11s Epoch=34 Batch: 10/10 D_c:-6.0164 | D_w:7.5436 | G:-0.8749
+28m 11s D_cost_train:-7.2252 | D_wass_train:8.9046 | D_cost_valid:-9.5663 | D_wass_valid:11.7623 | G_cost:-0.9656
+Generating samples...
+Saving models...
+28m 12s Epoch: 35/100
+28m 22s Epoch=35 Batch: 2/10 D_c:-7.2889 | D_w:8.5813 | G:-1.0770
+28m 32s Epoch=35 Batch: 4/10 D_c:-7.1400 | D_w:8.4643 | G:-0.6512
+28m 43s Epoch=35 Batch: 6/10 D_c:-10.9020 | D_w:12.3421 | G:-0.7703
+28m 53s Epoch=35 Batch: 8/10 D_c:-6.0293 | D_w:7.8266 | G:-0.7171
+29m 3s Epoch=35 Batch: 10/10 D_c:-4.3027 | D_w:7.5714 | G:-0.6856
+29m 3s D_cost_train:-7.1536 | D_wass_train:8.8757 | D_cost_valid:-8.9809 | D_wass_valid:11.0634 | G_cost:-0.7723
+Generating samples...
+Saving models...
+29m 4s Epoch: 36/100
+29m 14s Epoch=36 Batch: 2/10 D_c:-6.2726 | D_w:7.5724 | G:-1.1364
+29m 24s Epoch=36 Batch: 4/10 D_c:-8.8270 | D_w:12.5586 | G:-1.1855
+29m 34s Epoch=36 Batch: 6/10 D_c:-9.7370 | D_w:11.7161 | G:-1.8796
+29m 45s Epoch=36 Batch: 8/10 D_c:-8.4889 | D_w:14.2085 | G:-1.1525
+29m 55s Epoch=36 Batch: 10/10 D_c:-5.5302 | D_w:6.5718 | G:-0.5282
+29m 55s D_cost_train:-7.3372 | D_wass_train:8.9360 | D_cost_valid:-9.0184 | D_wass_valid:11.1064 | G_cost:-1.1163
+Generating samples...
+Saving models...
+29m 55s Epoch: 37/100
+30m 6s Epoch=37 Batch: 2/10 D_c:-9.5440 | D_w:11.3615 | G:-0.5060
+30m 16s Epoch=37 Batch: 4/10 D_c:-8.1705 | D_w:9.5537 | G:-0.7304
+30m 26s Epoch=37 Batch: 6/10 D_c:-5.6732 | D_w:8.3056 | G:-1.2863
+40m 58s Epoch=37 Batch: 8/10 D_c:-7.3983 | D_w:7.8170 | G:-0.7709
+41m 7s Epoch=37 Batch: 10/10 D_c:-8.8107 | D_w:9.8323 | G:-0.7909
+41m 7s D_cost_train:-7.4164 | D_wass_train:9.1297 | D_cost_valid:-9.2398 | D_wass_valid:11.4056 | G_cost:-0.7841
+Generating samples...
+Saving models...
+41m 8s Epoch: 38/100
+41m 17s Epoch=38 Batch: 2/10 D_c:-8.2404 | D_w:10.3140 | G:-0.9576
+41m 26s Epoch=38 Batch: 4/10 D_c:-5.1688 | D_w:7.0802 | G:-0.7979
+41m 35s Epoch=38 Batch: 6/10 D_c:-7.6180 | D_w:8.7013 | G:-0.8269
+41m 44s Epoch=38 Batch: 8/10 D_c:-10.2042 | D_w:13.9957 | G:-0.6346
+41m 53s Epoch=38 Batch: 10/10 D_c:-10.1040 | D_w:12.0436 | G:-1.2239
+41m 53s D_cost_train:-7.5855 | D_wass_train:9.2722 | D_cost_valid:-9.1800 | D_wass_valid:11.4310 | G_cost:-0.9039
+Generating samples...
+Saving models...
+41m 54s Epoch: 39/100
+42m 3s Epoch=39 Batch: 2/10 D_c:-3.9199 | D_w:5.6191 | G:-1.0624
+42m 12s Epoch=39 Batch: 4/10 D_c:-7.7362 | D_w:8.3430 | G:-0.8109
+42m 21s Epoch=39 Batch: 6/10 D_c:-7.7341 | D_w:9.2810 | G:-1.3836
+42m 30s Epoch=39 Batch: 8/10 D_c:-3.0166 | D_w:7.6168 | G:-1.3526
+42m 39s Epoch=39 Batch: 10/10 D_c:-10.5946 | D_w:12.1248 | G:-1.0955
+42m 39s D_cost_train:-6.6833 | D_wass_train:8.2648 | D_cost_valid:-9.4754 | D_wass_valid:11.6928 | G_cost:-1.1619
+Generating samples...
+Saving models...
+42m 40s Epoch: 40/100
+42m 49s Epoch=40 Batch: 2/10 D_c:-9.0387 | D_w:9.7198 | G:-1.3099
+42m 58s Epoch=40 Batch: 4/10 D_c:-6.7537 | D_w:8.0538 | G:-0.8045
+43m 7s Epoch=40 Batch: 6/10 D_c:-8.0948 | D_w:10.9594 | G:-0.5682
+43m 16s Epoch=40 Batch: 8/10 D_c:-4.7269 | D_w:7.7516 | G:-1.0062
+43m 25s Epoch=40 Batch: 10/10 D_c:-10.2044 | D_w:11.4478 | G:-1.3708
+43m 25s D_cost_train:-6.9961 | D_wass_train:8.5197 | D_cost_valid:-9.8072 | D_wass_valid:11.9024 | G_cost:-0.9133
+Generating samples...
+Saving models...
+43m 25s Epoch: 41/100
+43m 35s Epoch=41 Batch: 2/10 D_c:-7.7930 | D_w:10.8414 | G:-0.6597
+43m 44s Epoch=41 Batch: 4/10 D_c:-9.2141 | D_w:11.7309 | G:-0.7011
+43m 53s Epoch=41 Batch: 6/10 D_c:-5.0020 | D_w:8.5130 | G:-0.5449
+44m 2s Epoch=41 Batch: 8/10 D_c:-6.1468 | D_w:9.2194 | G:-0.3977
+44m 11s Epoch=41 Batch: 10/10 D_c:-5.9697 | D_w:7.2991 | G:-0.5240
+44m 11s D_cost_train:-6.9935 | D_wass_train:8.5735 | D_cost_valid:-9.9866 | D_wass_valid:12.1114 | G_cost:-0.5910
+Generating samples...
+Saving models...
+44m 11s Epoch: 42/100
+44m 20s Epoch=42 Batch: 2/10 D_c:-6.4308 | D_w:7.1364 | G:-0.8258
+44m 29s Epoch=42 Batch: 4/10 D_c:-7.2171 | D_w:9.4536 | G:-0.7373
+44m 39s Epoch=42 Batch: 6/10 D_c:-10.7339 | D_w:15.4319 | G:-0.4998
+44m 48s Epoch=42 Batch: 8/10 D_c:-8.7846 | D_w:10.9076 | G:-0.7972
+44m 57s Epoch=42 Batch: 10/10 D_c:-6.9074 | D_w:8.0241 | G:-1.4401
+44m 57s D_cost_train:-6.9378 | D_wass_train:8.4765 | D_cost_valid:-9.1316 | D_wass_valid:11.0095 | G_cost:-0.8713
+Generating samples...
+Saving models...
+44m 57s Epoch: 43/100
+45m 6s Epoch=43 Batch: 2/10 D_c:-10.0428 | D_w:11.4321 | G:-1.7295
+45m 15s Epoch=43 Batch: 4/10 D_c:-4.7926 | D_w:4.9637 | G:-0.9337
+45m 24s Epoch=43 Batch: 6/10 D_c:-6.5177 | D_w:9.6411 | G:-1.2296
+45m 33s Epoch=43 Batch: 8/10 D_c:-8.7323 | D_w:10.5513 | G:-0.7158
+45m 42s Epoch=43 Batch: 10/10 D_c:-7.2850 | D_w:8.3868 | G:-0.5427
+45m 42s D_cost_train:-7.1177 | D_wass_train:8.6639 | D_cost_valid:-8.3579 | D_wass_valid:10.0985 | G_cost:-0.9602
+Generating samples...
+Saving models...
+45m 43s Epoch: 44/100
+45m 52s Epoch=44 Batch: 2/10 D_c:-6.7980 | D_w:11.2697 | G:-0.9098
+46m 1s Epoch=44 Batch: 4/10 D_c:-10.0032 | D_w:10.5704 | G:-0.7665
+46m 10s Epoch=44 Batch: 6/10 D_c:-7.5795 | D_w:8.7338 | G:-0.5766
+46m 20s Epoch=44 Batch: 8/10 D_c:-8.0519 | D_w:9.3051 | G:-0.3936
+46m 29s Epoch=44 Batch: 10/10 D_c:-5.2878 | D_w:5.6998 | G:-0.3718
+46m 29s D_cost_train:-6.8770 | D_wass_train:8.3293 | D_cost_valid:-9.6313 | D_wass_valid:11.5277 | G_cost:-0.5962
+Generating samples...
+Saving models...
+46m 29s Epoch: 45/100
+46m 38s Epoch=45 Batch: 2/10 D_c:-8.1358 | D_w:9.9835 | G:-0.4402
+46m 47s Epoch=45 Batch: 4/10 D_c:-10.2103 | D_w:16.8980 | G:-0.3678
+46m 57s Epoch=45 Batch: 6/10 D_c:-6.5172 | D_w:8.0670 | G:-0.3490
+47m 6s Epoch=45 Batch: 8/10 D_c:-5.5564 | D_w:6.3362 | G:-0.5650
+47m 15s Epoch=45 Batch: 10/10 D_c:-9.7593 | D_w:10.8478 | G:-0.8097
+47m 15s D_cost_train:-7.1632 | D_wass_train:8.7697 | D_cost_valid:-9.1579 | D_wass_valid:11.0380 | G_cost:-0.5261
+Generating samples...
+Saving models...
+47m 15s Epoch: 46/100
+47m 24s Epoch=46 Batch: 2/10 D_c:-9.2986 | D_w:12.0352 | G:-0.8522
+47m 34s Epoch=46 Batch: 4/10 D_c:-5.1533 | D_w:6.3964 | G:-0.7819
+47m 43s Epoch=46 Batch: 6/10 D_c:-6.5822 | D_w:7.4770 | G:-1.0485
+47m 52s Epoch=46 Batch: 8/10 D_c:-8.7241 | D_w:10.6170 | G:-0.8197
+48m 1s Epoch=46 Batch: 10/10 D_c:-4.6683 | D_w:5.2358 | G:-0.7550
+48m 1s D_cost_train:-6.7538 | D_wass_train:8.2401 | D_cost_valid:-9.7678 | D_wass_valid:11.9165 | G_cost:-0.7971
+Generating samples...
+Saving models...
+48m 1s Epoch: 47/100
+48m 10s Epoch=47 Batch: 2/10 D_c:-5.9999 | D_w:6.9214 | G:-0.8796
+48m 20s Epoch=47 Batch: 4/10 D_c:-8.7269 | D_w:9.8430 | G:0.4460
+48m 29s Epoch=47 Batch: 6/10 D_c:-5.4137 | D_w:7.2823 | G:-0.7432
+48m 38s Epoch=47 Batch: 8/10 D_c:-7.8550 | D_w:9.2676 | G:-0.6799
+48m 47s Epoch=47 Batch: 10/10 D_c:-7.6984 | D_w:8.8516 | G:-0.5978
+48m 47s D_cost_train:-7.0550 | D_wass_train:8.6759 | D_cost_valid:-9.3965 | D_wass_valid:11.5392 | G_cost:-0.6585
+Generating samples...
+Saving models...
+48m 47s Epoch: 48/100
+48m 56s Epoch=48 Batch: 2/10 D_c:-9.5161 | D_w:10.0157 | G:-0.6800
+49m 5s Epoch=48 Batch: 4/10 D_c:-10.1113 | D_w:12.0813 | G:-0.7570
+49m 15s Epoch=48 Batch: 6/10 D_c:-7.9137 | D_w:9.3138 | G:-0.9877
+49m 24s Epoch=48 Batch: 8/10 D_c:-7.1846 | D_w:7.7449 | G:-0.8216
+49m 33s Epoch=48 Batch: 10/10 D_c:-7.9100 | D_w:8.8548 | G:-0.4626
+49m 33s D_cost_train:-7.2338 | D_wass_train:8.7761 | D_cost_valid:-9.0918 | D_wass_valid:11.0571 | G_cost:-0.7459
+Generating samples...
+Saving models...
+49m 33s Epoch: 49/100
+49m 42s Epoch=49 Batch: 2/10 D_c:-7.6900 | D_w:9.7822 | G:-0.5550
+49m 52s Epoch=49 Batch: 4/10 D_c:-6.3479 | D_w:7.7818 | G:-0.4928
+50m 1s Epoch=49 Batch: 6/10 D_c:-5.8474 | D_w:6.8938 | G:-0.6538
+50m 10s Epoch=49 Batch: 8/10 D_c:-7.6843 | D_w:8.3896 | G:-0.5397
+50m 19s Epoch=49 Batch: 10/10 D_c:-6.5269 | D_w:6.9897 | G:-0.4103
+50m 19s D_cost_train:-6.9368 | D_wass_train:8.3826 | D_cost_valid:-9.2612 | D_wass_valid:11.1345 | G_cost:-0.5020
+Generating samples...
+Saving models...
+50m 19s Epoch: 50/100
+50m 28s Epoch=50 Batch: 2/10 D_c:-6.3800 | D_w:8.5197 | G:-0.4257
+50m 38s Epoch=50 Batch: 4/10 D_c:-7.2900 | D_w:7.6176 | G:-0.5754
+50m 47s Epoch=50 Batch: 6/10 D_c:-6.5588 | D_w:8.5850 | G:-0.4577
+50m 56s Epoch=50 Batch: 8/10 D_c:-5.8121 | D_w:7.1762 | G:-0.3947
+51m 5s Epoch=50 Batch: 10/10 D_c:-6.3653 | D_w:7.4068 | G:-0.3320
+51m 5s D_cost_train:-7.4378 | D_wass_train:9.0302 | D_cost_valid:-10.1313 | D_wass_valid:12.1568 | G_cost:-0.4340
+Generating samples...
+Saving models...
+51m 5s Epoch: 51/100
+51m 15s Epoch=51 Batch: 2/10 D_c:-5.8838 | D_w:8.0669 | G:-0.5311
+51m 24s Epoch=51 Batch: 4/10 D_c:-8.6566 | D_w:10.3591 | G:-0.4657
+51m 33s Epoch=51 Batch: 6/10 D_c:-10.7395 | D_w:12.5899 | G:-0.7016
+51m 42s Epoch=51 Batch: 8/10 D_c:-8.6974 | D_w:9.4560 | G:-0.5383
+51m 51s Epoch=51 Batch: 10/10 D_c:-6.6118 | D_w:8.1785 | G:-0.5317
+51m 51s D_cost_train:-7.0335 | D_wass_train:8.5980 | D_cost_valid:-9.3418 | D_wass_valid:11.2573 | G_cost:-0.5446
+Generating samples...
+Saving models...
+51m 51s Epoch: 52/100
+52m 1s Epoch=52 Batch: 2/10 D_c:-5.9162 | D_w:7.7819 | G:-0.3344
+52m 10s Epoch=52 Batch: 4/10 D_c:-6.9046 | D_w:7.6376 | G:-0.4490
+52m 19s Epoch=52 Batch: 6/10 D_c:-4.9751 | D_w:6.2558 | G:-0.3708
+52m 28s Epoch=52 Batch: 8/10 D_c:-8.2741 | D_w:13.5944 | G:-0.2944
+52m 37s Epoch=52 Batch: 10/10 D_c:-8.1508 | D_w:10.2129 | G:-0.2737
+52m 37s D_cost_train:-7.5151 | D_wass_train:9.0737 | D_cost_valid:-9.3862 | D_wass_valid:11.2746 | G_cost:-0.3660
+Generating samples...
+Saving models...
+52m 38s Epoch: 53/100
+52m 47s Epoch=53 Batch: 2/10 D_c:-5.3630 | D_w:6.1371 | G:-0.3277
+52m 56s Epoch=53 Batch: 4/10 D_c:-4.5400 | D_w:5.8075 | G:-0.2739
+53m 5s Epoch=53 Batch: 6/10 D_c:-10.8728 | D_w:12.1199 | G:-0.4623
+53m 14s Epoch=53 Batch: 8/10 D_c:-7.8119 | D_w:8.8803 | G:-0.4971
+53m 23s Epoch=53 Batch: 10/10 D_c:-7.6993 | D_w:8.5142 | G:-0.6568
+53m 23s D_cost_train:-7.1008 | D_wass_train:8.6257 | D_cost_valid:-10.1987 | D_wass_valid:12.1100 | G_cost:-0.3925
+Generating samples...
+Saving models...
+53m 24s Epoch: 54/100
+53m 33s Epoch=54 Batch: 2/10 D_c:-5.8664 | D_w:7.3119 | G:-0.2909
+53m 42s Epoch=54 Batch: 4/10 D_c:-6.0535 | D_w:6.9783 | G:-0.5213
+53m 51s Epoch=54 Batch: 6/10 D_c:-5.7718 | D_w:6.5339 | G:-0.3893
+54m 0s Epoch=54 Batch: 8/10 D_c:-6.8473 | D_w:7.6634 | G:-0.4211
+54m 9s Epoch=54 Batch: 10/10 D_c:-6.9046 | D_w:8.7087 | G:-0.7636
+54m 9s D_cost_train:-6.9005 | D_wass_train:8.3831 | D_cost_valid:-9.6323 | D_wass_valid:11.4902 | G_cost:-0.5547
+Generating samples...
+Saving models...
+54m 10s Epoch: 55/100
+54m 19s Epoch=55 Batch: 2/10 D_c:-14.3716 | D_w:18.0286 | G:-1.2501
+54m 28s Epoch=55 Batch: 4/10 D_c:-6.6270 | D_w:8.2893 | G:-0.8801
+54m 37s Epoch=55 Batch: 6/10 D_c:-4.9856 | D_w:5.6775 | G:-0.7209
+54m 46s Epoch=55 Batch: 8/10 D_c:-4.6171 | D_w:6.7394 | G:-0.5212
+54m 55s Epoch=55 Batch: 10/10 D_c:-9.8066 | D_w:11.3856 | G:-0.7776
+54m 55s D_cost_train:-6.8321 | D_wass_train:8.2613 | D_cost_valid:-9.0753 | D_wass_valid:10.9732 | G_cost:-0.7982
+Generating samples...
+Saving models...
+54m 56s Epoch: 56/100
+55m 5s Epoch=56 Batch: 2/10 D_c:-5.7684 | D_w:8.1516 | G:-0.4118
+55m 14s Epoch=56 Batch: 4/10 D_c:-7.1079 | D_w:8.0027 | G:-0.3610
+55m 23s Epoch=56 Batch: 6/10 D_c:-6.3518 | D_w:7.2174 | G:-0.3731
+55m 32s Epoch=56 Batch: 8/10 D_c:-6.9681 | D_w:10.0451 | G:-0.3990
+55m 42s Epoch=56 Batch: 10/10 D_c:-9.9855 | D_w:12.0264 | G:-0.3903
+55m 42s D_cost_train:-7.2776 | D_wass_train:8.8061 | D_cost_valid:-9.4016 | D_wass_valid:11.2093 | G_cost:-0.4496
+Generating samples...
+Saving models...
+55m 42s Epoch: 57/100
+55m 51s Epoch=57 Batch: 2/10 D_c:-7.7589 | D_w:9.5829 | G:-0.6558
+56m 0s Epoch=57 Batch: 4/10 D_c:-5.8361 | D_w:6.0338 | G:-0.6507
+56m 10s Epoch=57 Batch: 6/10 D_c:-5.6907 | D_w:7.0070 | G:-0.4833
+56m 19s Epoch=57 Batch: 8/10 D_c:-6.8966 | D_w:7.7468 | G:-0.5215
+56m 28s Epoch=57 Batch: 10/10 D_c:-11.7785 | D_w:13.9388 | G:-0.5221
+56m 28s D_cost_train:-7.4526 | D_wass_train:9.0543 | D_cost_valid:-9.3557 | D_wass_valid:11.2594 | G_cost:-0.5935
+Generating samples...
+Saving models...
+56m 29s Epoch: 58/100
+56m 38s Epoch=58 Batch: 2/10 D_c:-10.7698 | D_w:11.9578 | G:-0.7154
+56m 47s Epoch=58 Batch: 4/10 D_c:-6.3039 | D_w:8.2415 | G:-0.2794
+56m 56s Epoch=58 Batch: 6/10 D_c:-7.9352 | D_w:9.8741 | G:-0.5387
+57m 5s Epoch=58 Batch: 8/10 D_c:-5.6255 | D_w:6.2222 | G:-0.3965
+57m 14s Epoch=58 Batch: 10/10 D_c:-4.3974 | D_w:6.2945 | G:-0.3783
+57m 14s D_cost_train:-7.2754 | D_wass_train:8.8160 | D_cost_valid:-9.3086 | D_wass_valid:11.1031 | G_cost:-0.4823
+Generating samples...
+Saving models...
+57m 15s Epoch: 59/100
+57m 24s Epoch=59 Batch: 2/10 D_c:-5.6121 | D_w:6.3674 | G:-0.2807
+57m 33s Epoch=59 Batch: 4/10 D_c:-6.9394 | D_w:7.6599 | G:-0.6000
+57m 42s Epoch=59 Batch: 6/10 D_c:-5.7074 | D_w:7.2021 | G:-0.4340
+57m 51s Epoch=59 Batch: 8/10 D_c:-9.2402 | D_w:11.4343 | G:-0.7779
+58m 0s Epoch=59 Batch: 10/10 D_c:-3.6620 | D_w:4.0264 | G:-0.6766
+58m 0s D_cost_train:-6.9343 | D_wass_train:8.3653 | D_cost_valid:-9.4067 | D_wass_valid:11.3862 | G_cost:-0.6193
+Generating samples...
+Saving models...
+58m 1s Epoch: 60/100
+58m 10s Epoch=60 Batch: 2/10 D_c:-7.5986 | D_w:8.8473 | G:-0.5514
+58m 19s Epoch=60 Batch: 4/10 D_c:-7.4993 | D_w:8.5524 | G:-1.0722
+58m 28s Epoch=60 Batch: 6/10 D_c:-7.3113 | D_w:8.4542 | G:-1.3864
+58m 38s Epoch=60 Batch: 8/10 D_c:-6.5613 | D_w:7.5131 | G:-1.1733
+58m 47s Epoch=60 Batch: 10/10 D_c:-8.3933 | D_w:10.5610 | G:-0.7541
+58m 47s D_cost_train:-7.2621 | D_wass_train:8.7832 | D_cost_valid:-9.3203 | D_wass_valid:11.4514 | G_cost:-0.9055
+Generating samples...
+Saving models...
+58m 47s Epoch: 61/100
+58m 56s Epoch=61 Batch: 2/10 D_c:-8.5457 | D_w:11.5441 | G:-0.6027
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=10
+0m 0s Epoch: 1/1
+0m 13s Epoch=1 Batch: 2/10 D_c:-3.7393 | D_w:6.9662 | G:-0.5884
+0m 22s Epoch=1 Batch: 4/10 D_c:-6.0708 | D_w:7.1030 | G:-0.5271
+0m 31s Epoch=1 Batch: 6/10 D_c:-7.3550 | D_w:10.4432 | G:-0.4236
+0m 41s Epoch=1 Batch: 8/10 D_c:-8.3344 | D_w:10.6141 | G:-0.3752
+0m 50s Epoch=1 Batch: 10/10 D_c:-6.8949 | D_w:10.3712 | G:-0.6027
+0m 50s D_cost_train:-7.8426 | D_wass_train:9.6251 | D_cost_valid:-6.7191 | D_wass_valid:8.4584 | G_cost:-0.5018
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Loading models...
+Loading audio data...
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=12
+0m 0s Epoch: 1/1
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=12
+0m 0s Epoch: 1/1
+0m 13s Epoch=1 Batch: 2/12 D_c:-13.7759 | D_w:16.7310 | G:-0.5309
+0m 26s Epoch=1 Batch: 4/12 D_c:-5.4644 | D_w:6.4358 | G:-0.3154
+0m 35s Epoch=1 Batch: 6/12 D_c:-8.4475 | D_w:11.1254 | G:-0.3425
+0m 44s Epoch=1 Batch: 8/12 D_c:-5.8771 | D_w:6.0962 | G:-0.3102
+0m 57s Epoch=1 Batch: 10/12 D_c:-6.5848 | D_w:7.5351 | G:-0.3051
+1m 5s Epoch=1 Batch: 12/12 D_c:-8.6033 | D_w:9.5477 | G:-0.5021
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=12
+0m 0s Epoch: 1/1
+0m 13s Epoch=1 Batch: 2/12 D_c:-5.6610 | D_w:6.7439 | G:-0.3793
+0m 26s Epoch=1 Batch: 4/12 D_c:-6.8282 | D_w:9.6051 | G:-0.2371
+0m 35s Epoch=1 Batch: 6/12 D_c:-7.3740 | D_w:9.6909 | G:-0.2228
+0m 43s Epoch=1 Batch: 8/12 D_c:-4.5718 | D_w:4.8510 | G:-0.3746
+0m 51s Epoch=1 Batch: 10/12 D_c:-7.4556 | D_w:10.2173 | G:-0.5113
+1m 0s Epoch=1 Batch: 12/12 D_c:-7.3975 | D_w:8.6934 | G:-0.9495
+1m 0s D_cost_train:-7.0247 | D_wass_train:8.4763 | G_cost:-0.4078
+Generating samples...
+Saving models...
+>>>>>>>Training finished !<<<<<<<
+Saving loss curve...
+All finished!
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=12
+0m 0s Epoch: 1/1
+0m 16s Epoch=1 Batch: 2/12 D_c:-9.0680 | D_w:11.3103 | G:2.0208
+0m 24s Epoch=1 Batch: 4/12 D_c:-4.7830 | D_w:6.8324 | G:-0.6270
+0m 33s Epoch=1 Batch: 6/12 D_c:-7.3706 | D_w:8.1847 | G:-0.3727
+0m 44s Epoch=1 Batch: 8/12 D_c:-6.8647 | D_w:8.1583 | G:-0.4810
+0m 52s Epoch=1 Batch: 10/12 D_c:-11.9783 | D_w:13.2479 | G:-0.6499
+1m 1s Epoch=1 Batch: 12/12 D_c:-5.9354 | D_w:7.2010 | G:-0.2097
+1m 1s D_cost_train:-7.5245 | D_wass_train:9.2537 | G_cost:-0.2880
+Saving models...
+<--------------- Training Completed --------------->
+Loading models...
+Loading audio data...
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=12
+0m 0s Epoch: 1/1
+0m 12s Epoch=1 Batch: 2/12 D_c:-7.5855 | D_w:8.6580 | G:-0.3655
+0m 21s Epoch=1 Batch: 4/12 D_c:-8.1677 | D_w:9.2663 | G:-0.4921
+0m 33s Epoch=1 Batch: 6/12 D_c:-6.5182 | D_w:8.4629 | G:-0.4183
+0m 42s Epoch=1 Batch: 8/12 D_c:-6.1459 | D_w:6.8655 | G:-0.2409
+0m 51s Epoch=1 Batch: 10/12 D_c:-8.2931 | D_w:10.9060 | G:-0.3121
+1m 4s Epoch=1 Batch: 12/12 D_c:-7.3359 | D_w:8.1971 | G:-0.1985
+1m 4s D_cost_train:-7.4777 | D_wass_train:9.1398 | G_cost:-0.3218
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+Starting training...EPOCHS=1, BATCH_SIZE=16, BATCH_NUM=12
+0m 0s Epoch: 1/1
+0m 11s Epoch=1 Batch: 2/12 D_c:-5.8930 | D_w:8.0368 | G:-0.3777
+0m 19s Epoch=1 Batch: 4/12 D_c:-7.9275 | D_w:9.1790 | G:-0.4235
+0m 28s Epoch=1 Batch: 6/12 D_c:-8.7483 | D_w:10.6831 | G:-0.1568
+0m 39s Epoch=1 Batch: 8/12 D_c:-7.6220 | D_w:8.4958 | G:-0.3592
+0m 48s Epoch=1 Batch: 10/12 D_c:-7.1128 | D_w:7.9822 | G:-0.3210
+0m 56s Epoch=1 Batch: 12/12 D_c:-5.6813 | D_w:8.2739 | G:-0.3513
+0m 56s D_cost_train:-7.6615 | D_wass_train:9.3236 | G_cost:-0.3105
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS=1, BATCH_SIZE=16 ------>
+0m 0s Epoch: 1/1
+0m 11s Epoch=1 Batch: 2/12 D_c:-8.9980 | D_w:13.6042 | G:0.3533
+0m 19s Epoch=1 Batch: 4/12 D_c:-6.8243 | D_w:7.6420 | G:-0.4943
+0m 27s Epoch=1 Batch: 6/12 D_c:-4.4967 | D_w:5.5987 | G:-0.5002
+0m 40s Epoch=1 Batch: 8/12 D_c:-9.8280 | D_w:11.8313 | G:-0.3639
+0m 48s Epoch=1 Batch: 10/12 D_c:-4.7025 | D_w:5.4560 | G:-0.1357
+0m 57s Epoch=1 Batch: 12/12 D_c:-10.7634 | D_w:11.9142 | G:-0.5382
+0m 57s D_cost_train:-7.8645 | D_wass_train:9.5977 | G_cost:-0.3739
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS=1, BATCH_SIZE=16 ------>
+0m 0s Epoch: 1/1
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS=1, BATCH_SIZE=16 ------>
+0m 0s Epoch: 1/1
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS=1, BATCH_SIZE=16 ------>
+0m 0s Epoch: 1/1
+0m 8s Epoch=1 Batch: 2/12 D_c:-9.9280 | D_w:12.2481 | G:-0.3798
+0m 15s Epoch=1 Batch: 4/12 D_c:-9.5888 | D_w:12.5971 | G:-0.5948
+0m 22s Epoch=1 Batch: 6/12 D_c:-7.7982 | D_w:8.9848 | G:-0.2881
+0m 28s Epoch=1 Batch: 8/12 D_c:-10.4529 | D_w:12.5611 | G:-0.0844
+0m 35s Epoch=1 Batch: 10/12 D_c:-7.6007 | D_w:8.5197 | G:-0.2454
+0m 42s Epoch=1 Batch: 12/12 D_c:-5.8572 | D_w:7.6333 | G:-0.1771
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS=1, BATCH_SIZE=16 ------>
+0m 0s Epoch: 1/1
+0m 12s Epoch=1 Batch: 2/12 D_c:-8.9793 | D_w:10.0294 | G:-0.4659
+0m 19s Epoch=1 Batch: 4/12 D_c:-5.8850 | D_w:6.8903 | G:-0.1529
+0m 26s Epoch=1 Batch: 6/12 D_c:-6.7283 | D_w:9.6072 | G:0.1173
+0m 33s Epoch=1 Batch: 8/12 D_c:-8.3263 | D_w:10.6715 | G:-0.1854
+0m 39s Epoch=1 Batch: 10/12 D_c:-6.4590 | D_w:7.2780 | G:-0.4391
+0m 46s Epoch=1 Batch: 12/12 D_c:-9.9778 | D_w:10.8919 | G:-0.5090
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS=1, BATCH_SIZE=16 ------>
+0m 0s Epoch: 1/1
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS=1, BATCH_SIZE=16 ------>
+0m 0s Epoch: 1/1
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS=2, BATCH_SIZE=16 ------>
+0m 0s Epoch: 1/2
+Saving models...
+0m 43s Epoch: 2/2
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 2 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/2
+Saving models...
+0m 43s Epoch: 2/2
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 1 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/1
+0m 44s D_cost_train:-7.7074G_cost:-0.1383
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 2 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/2
+0m 42s Discriminator Loss :-7.5722 Generator Loss: -0.1173
+Saving models...
+0m 43s Epoch: 2/2
+1m 22s Discriminator Loss :-7.0190 Generator Loss: -0.1822
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 5 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/5
+0m 42s Discriminator Loss: -7.3732 Generator Loss: -0.2432
+Saving models...
+0m 43s Epoch: 2/5
+1m 22s Discriminator Loss: -7.4432 Generator Loss: -0.2947
+Saving models...
+1m 23s Epoch: 3/5
+2m 2s Discriminator Loss: -7.5249 Generator Loss: -0.3343
+Saving models...
+2m 3s Epoch: 4/5
+2m 42s Discriminator Loss: -8.0511 Generator Loss: -0.3083
+Saving models...
+2m 42s Epoch: 5/5
+3m 22s Discriminator Loss: -7.5555 Generator Loss: -0.2377
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 5 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/5
+0m 41s Discriminator Loss: -7.3412 Generator Loss: -0.1940
+Saving models...
+0m 42s Epoch: 2/5
+1m 21s Discriminator Loss: -7.7274 Generator Loss: -0.2225
+Saving models...
+1m 21s Epoch: 3/5
+2m 1s Discriminator Loss: -7.3608 Generator Loss: -0.1816
+Saving models...
+2m 1s Epoch: 4/5
+2m 41s Discriminator Loss: -7.3131 Generator Loss: -0.1715
+Saving models...
+2m 42s Epoch: 5/5
+3m 21s Discriminator Loss: -6.8901 Generator Loss: -0.1391
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 5 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/5
+0m 42s Discriminator Loss: -7.9439 Generator Loss: -0.0597
+Saving models...
+0m 43s Epoch: 2/5
+1m 24s Discriminator Loss: -7.6729 Generator Loss: -0.1519
+Saving models...
+1m 24s Epoch: 3/5
+2m 4s Discriminator Loss: -7.5267 Generator Loss: -0.2050
+Saving models...
+2m 5s Epoch: 4/5
+2m 45s Discriminator Loss: -7.3889 Generator Loss: -0.2733
+Saving models...
+2m 46s Epoch: 5/5
+3m 27s Discriminator Loss: -7.3305 Generator Loss: -0.3176
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 100 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/100
+0m 42s Discriminator Loss: -7.4589 Generator Loss: -0.2828
+Saving models...
+0m 43s Epoch: 2/100
+1m 24s Discriminator Loss: -7.1412 Generator Loss: -0.1236
+Saving models...
+1m 24s Epoch: 3/100
+2m 7s Discriminator Loss: -8.0245 Generator Loss: -0.1564
+Saving models...
+2m 7s Epoch: 4/100
+2m 51s Discriminator Loss: -7.4953 Generator Loss: 0.0644
+Saving models...
+2m 51s Epoch: 5/100
+3m 35s Discriminator Loss: -7.3584 Generator Loss: -0.1324
+Saving models...
+3m 36s Epoch: 6/100
+4m 20s Discriminator Loss: -7.3412 Generator Loss: -0.1445
+Saving models...
+4m 20s Epoch: 7/100
+5m 6s Discriminator Loss: -7.3737 Generator Loss: -0.2418
+Saving models...
+5m 7s Epoch: 8/100
+5m 53s Discriminator Loss: -7.4079 Generator Loss: -0.1628
+Saving models...
+5m 54s Epoch: 9/100
+6m 40s Discriminator Loss: -7.6739 Generator Loss: -0.2014
+Saving models...
+6m 40s Epoch: 10/100
+7m 25s Discriminator Loss: -7.5801 Generator Loss: -0.1958
+Saving models...
+7m 26s Epoch: 11/100
+8m 11s Discriminator Loss: -7.3868 Generator Loss: -0.1174
+Saving models...
+8m 12s Epoch: 12/100
+8m 57s Discriminator Loss: -7.2435 Generator Loss: -0.1970
+Saving models...
+8m 58s Epoch: 13/100
+9m 44s Discriminator Loss: -7.1529 Generator Loss: -0.2012
+Saving models...
+9m 44s Epoch: 14/100
+10m 29s Discriminator Loss: -7.4524 Generator Loss: -0.1917
+Saving models...
+10m 29s Epoch: 15/100
+11m 14s Discriminator Loss: -7.8410 Generator Loss: -0.2633
+Saving models...
+11m 14s Epoch: 16/100
+11m 58s Discriminator Loss: -7.6289 Generator Loss: -0.2504
+Saving models...
+11m 59s Epoch: 17/100
+12m 43s Discriminator Loss: -7.0482 Generator Loss: -0.3149
+Saving models...
+12m 44s Epoch: 18/100
+13m 29s Discriminator Loss: -7.2896 Generator Loss: -0.3173
+Saving models...
+13m 30s Epoch: 19/100
+14m 15s Discriminator Loss: -7.0943 Generator Loss: -0.4659
+Saving models...
+14m 15s Epoch: 20/100
+15m 0s Discriminator Loss: -7.0151 Generator Loss: -0.9097
+Saving models...
+15m 0s Epoch: 21/100
+15m 44s Discriminator Loss: -7.2042 Generator Loss: -0.9209
+Saving models...
+15m 45s Epoch: 22/100
+16m 29s Discriminator Loss: -7.2756 Generator Loss: -0.8021
+Saving models...
+16m 30s Epoch: 23/100
+17m 15s Discriminator Loss: -6.8411 Generator Loss: -0.8887
+Saving models...
+17m 16s Epoch: 24/100
+18m 1s Discriminator Loss: -7.5832 Generator Loss: -0.5854
+Saving models...
+18m 2s Epoch: 25/100
+18m 47s Discriminator Loss: -7.1278 Generator Loss: -0.4525
+Saving models...
+18m 48s Epoch: 26/100
+19m 32s Discriminator Loss: -7.0605 Generator Loss: -0.4703
+Saving models...
+19m 33s Epoch: 27/100
+20m 18s Discriminator Loss: -6.9612 Generator Loss: -0.4004
+Saving models...
+20m 18s Epoch: 28/100
+21m 3s Discriminator Loss: -7.8625 Generator Loss: -0.5432
+Saving models...
+21m 4s Epoch: 29/100
+21m 48s Discriminator Loss: -7.2321 Generator Loss: -0.4706
+Saving models...
+21m 49s Epoch: 30/100
+22m 33s Discriminator Loss: -6.8146 Generator Loss: -0.4580
+Saving models...
+22m 34s Epoch: 31/100
+23m 16s Discriminator Loss: -7.0562 Generator Loss: -0.5005
+Saving models...
+23m 16s Epoch: 32/100
+23m 57s Discriminator Loss: -6.9244 Generator Loss: -0.2891
+Saving models...
+23m 57s Epoch: 33/100
+24m 37s Discriminator Loss: -7.2829 Generator Loss: -0.4571
+Saving models...
+24m 38s Epoch: 34/100
+25m 18s Discriminator Loss: -6.9913 Generator Loss: -0.2904
+Saving models...
+25m 19s Epoch: 35/100
+25m 59s Discriminator Loss: -6.9381 Generator Loss: -0.5410
+Saving models...
+25m 59s Epoch: 36/100
+26m 40s Discriminator Loss: -6.8659 Generator Loss: -0.4871
+Saving models...
+26m 40s Epoch: 37/100
+27m 20s Discriminator Loss: -7.0963 Generator Loss: -0.4201
+Saving models...
+27m 21s Epoch: 38/100
+28m 1s Discriminator Loss: -6.1976 Generator Loss: -0.1327
+Saving models...
+28m 1s Epoch: 39/100
+28m 41s Discriminator Loss: -6.5866 Generator Loss: -0.4003
+Saving models...
+28m 41s Epoch: 40/100
+29m 21s Discriminator Loss: -7.2379 Generator Loss: -0.5848
+Saving models...
+29m 22s Epoch: 41/100
+30m 1s Discriminator Loss: -6.9306 Generator Loss: 0.0199
+Saving models...
+30m 2s Epoch: 42/100
+30m 41s Discriminator Loss: -6.9744 Generator Loss: -0.1211
+Saving models...
+30m 42s Epoch: 43/100
+31m 21s Discriminator Loss: -6.9777 Generator Loss: -0.4399
+Saving models...
+31m 22s Epoch: 44/100
+32m 2s Discriminator Loss: -6.8413 Generator Loss: -0.4204
+Saving models...
+32m 2s Epoch: 45/100
+32m 42s Discriminator Loss: -6.7456 Generator Loss: 0.2027
+Saving models...
+32m 42s Epoch: 46/100
+33m 22s Discriminator Loss: -7.0101 Generator Loss: -0.3460
+Saving models...
+33m 23s Epoch: 47/100
+34m 2s Discriminator Loss: -6.3267 Generator Loss: -0.1718
+Saving models...
+34m 3s Epoch: 48/100
+34m 42s Discriminator Loss: -6.6517 Generator Loss: 0.1693
+Saving models...
+34m 43s Epoch: 49/100
+35m 23s Discriminator Loss: -6.4948 Generator Loss: -0.2431
+Saving models...
+35m 24s Epoch: 50/100
+36m 3s Discriminator Loss: -6.6194 Generator Loss: -0.2079
+Saving models...
+36m 4s Epoch: 51/100
+36m 43s Discriminator Loss: -6.4652 Generator Loss: -0.2184
+Saving models...
+36m 44s Epoch: 52/100
+37m 23s Discriminator Loss: -6.9096 Generator Loss: 0.0430
+Saving models...
+37m 23s Epoch: 53/100
+38m 3s Discriminator Loss: -6.7214 Generator Loss: -0.1504
+Saving models...
+38m 3s Epoch: 54/100
+38m 43s Discriminator Loss: -6.7391 Generator Loss: -0.2456
+Saving models...
+38m 43s Epoch: 55/100
+39m 23s Discriminator Loss: -6.9117 Generator Loss: -0.0441
+Saving models...
+39m 24s Epoch: 56/100
+40m 4s Discriminator Loss: -7.0047 Generator Loss: -0.0295
+Saving models...
+40m 4s Epoch: 57/100
+40m 44s Discriminator Loss: -7.2673 Generator Loss: -0.1054
+Saving models...
+40m 44s Epoch: 58/100
+41m 24s Discriminator Loss: -6.9374 Generator Loss: 0.1922
+Saving models...
+41m 25s Epoch: 59/100
+42m 4s Discriminator Loss: -6.4682 Generator Loss: -0.2873
+Saving models...
+42m 5s Epoch: 60/100
+42m 45s Discriminator Loss: -6.4590 Generator Loss: -0.2746
+Saving models...
+42m 46s Epoch: 61/100
+43m 27s Discriminator Loss: -6.6820 Generator Loss: -0.3407
+Saving models...
+43m 27s Epoch: 62/100
+44m 9s Discriminator Loss: -6.7054 Generator Loss: 0.0555
+Saving models...
+44m 9s Epoch: 63/100
+44m 51s Discriminator Loss: -6.2878 Generator Loss: -0.0680
+Saving models...
+44m 52s Epoch: 64/100
+45m 35s Discriminator Loss: -6.8338 Generator Loss: -0.1814
+Saving models...
+45m 35s Epoch: 65/100
+46m 18s Discriminator Loss: -6.6004 Generator Loss: -0.1175
+Saving models...
+46m 19s Epoch: 66/100
+47m 2s Discriminator Loss: -6.7895 Generator Loss: -0.2466
+Saving models...
+47m 2s Epoch: 67/100
+47m 43s Discriminator Loss: -6.4694 Generator Loss: -0.3367
+Saving models...
+47m 44s Epoch: 68/100
+48m 23s Discriminator Loss: -6.4917 Generator Loss: -0.0557
+Saving models...
+48m 24s Epoch: 69/100
+49m 4s Discriminator Loss: -6.2795 Generator Loss: -0.2364
+Saving models...
+49m 4s Epoch: 70/100
+49m 45s Discriminator Loss: -6.3783 Generator Loss: -0.2207
+Saving models...
+49m 45s Epoch: 71/100
+50m 26s Discriminator Loss: -6.4002 Generator Loss: -0.4009
+Saving models...
+50m 26s Epoch: 72/100
+51m 6s Discriminator Loss: -6.8211 Generator Loss: -0.4582
+Saving models...
+51m 7s Epoch: 73/100
+51m 47s Discriminator Loss: -6.5313 Generator Loss: -0.2929
+Saving models...
+51m 48s Epoch: 74/100
+52m 28s Discriminator Loss: -6.3957 Generator Loss: -0.5318
+Saving models...
+52m 28s Epoch: 75/100
+53m 8s Discriminator Loss: -6.9792 Generator Loss: -0.5031
+Saving models...
+53m 8s Epoch: 76/100
+53m 48s Discriminator Loss: -6.6401 Generator Loss: -0.1553
+Saving models...
+53m 49s Epoch: 77/100
+54m 29s Discriminator Loss: -6.2671 Generator Loss: -0.1781
+Saving models...
+54m 30s Epoch: 78/100
+55m 10s Discriminator Loss: -6.5220 Generator Loss: -0.1306
+Saving models...
+55m 10s Epoch: 79/100
+55m 50s Discriminator Loss: -6.1601 Generator Loss: -0.3132
+Saving models...
+55m 50s Epoch: 80/100
+56m 30s Discriminator Loss: -6.2222 Generator Loss: -0.1359
+Saving models...
+56m 31s Epoch: 81/100
+57m 11s Discriminator Loss: -6.3824 Generator Loss: -0.2691
+Saving models...
+57m 12s Epoch: 82/100
+57m 53s Discriminator Loss: -6.4096 Generator Loss: -0.4591
+Saving models...
+57m 54s Epoch: 83/100
+58m 35s Discriminator Loss: -6.1364 Generator Loss: -0.2560
+Saving models...
+58m 36s Epoch: 84/100
+59m 17s Discriminator Loss: -6.4626 Generator Loss: -0.2529
+Saving models...
+59m 17s Epoch: 85/100
+59m 58s Discriminator Loss: -6.3622 Generator Loss: -0.2594
+Saving models...
+59m 58s Epoch: 86/100
+60m 40s Discriminator Loss: -6.0878 Generator Loss: -0.2152
+Saving models...
+60m 40s Epoch: 87/100
+61m 21s Discriminator Loss: -6.4158 Generator Loss: -0.3000
+Saving models...
+61m 22s Epoch: 88/100
+62m 2s Discriminator Loss: -6.3614 Generator Loss: -0.0126
+Saving models...
+62m 3s Epoch: 89/100
+62m 43s Discriminator Loss: -6.1263 Generator Loss: -0.3474
+Saving models...
+62m 44s Epoch: 90/100
+63m 24s Discriminator Loss: -5.7133 Generator Loss: -0.0365
+Saving models...
+63m 24s Epoch: 91/100
+64m 5s Discriminator Loss: -5.8937 Generator Loss: -0.4748
+Saving models...
+64m 6s Epoch: 92/100
+64m 46s Discriminator Loss: -5.8867 Generator Loss: -0.2291
+Saving models...
+64m 47s Epoch: 93/100
+65m 27s Discriminator Loss: -5.7498 Generator Loss: -0.2976
+Saving models...
+65m 27s Epoch: 94/100
+66m 7s Discriminator Loss: -6.3857 Generator Loss: -0.2542
+Saving models...
+66m 8s Epoch: 95/100
+66m 47s Discriminator Loss: -6.1202 Generator Loss: -0.5810
+Saving models...
+66m 48s Epoch: 96/100
+67m 27s Discriminator Loss: -6.2838 Generator Loss: -0.8075
+Saving models...
+67m 28s Epoch: 97/100
+68m 8s Discriminator Loss: -5.8801 Generator Loss: -0.6330
+Saving models...
+68m 8s Epoch: 98/100
+68m 48s Discriminator Loss: -6.1541 Generator Loss: -0.6776
+Saving models...
+68m 48s Epoch: 99/100
+69m 28s Discriminator Loss: -6.7565 Generator Loss: -0.5060
+Saving models...
+69m 28s Epoch: 100/100
+70m 8s Discriminator Loss: -6.1966 Generator Loss: -0.6207
+Saving models...
+<--------------- Training Completed --------------->
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 500 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/500
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 300 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/300
+0m 42s Discriminator Loss: -6.0175 Generator Loss: -0.2391
+Saving models...
+0m 43s Epoch: 2/300
+1m 22s Discriminator Loss: -5.5782 Generator Loss: -0.6786
+Saving models...
+1m 22s Epoch: 3/300
+2m 1s Discriminator Loss: -6.0429 Generator Loss: -0.3340
+Saving models...
+2m 2s Epoch: 4/300
+2m 41s Discriminator Loss: -5.4139 Generator Loss: -0.5142
+Saving models...
+2m 42s Epoch: 5/300
+3m 21s Discriminator Loss: -5.7323 Generator Loss: -0.5422
+Saving models...
+3m 22s Epoch: 6/300
+4m 1s Discriminator Loss: -5.7117 Generator Loss: -0.2262
+Saving models...
+4m 2s Epoch: 7/300
+4m 41s Discriminator Loss: -5.3457 Generator Loss: -0.3020
+Saving models...
+4m 42s Epoch: 8/300
+5m 21s Discriminator Loss: -5.9032 Generator Loss: -0.3161
+Saving models...
+5m 22s Epoch: 9/300
+6m 2s Discriminator Loss: -5.3690 Generator Loss: -0.1071
+Saving models...
+6m 2s Epoch: 10/300
+6m 42s Discriminator Loss: -5.3694 Generator Loss: -0.2510
+Saving models...
+6m 43s Epoch: 11/300
+7m 22s Discriminator Loss: -5.8711 Generator Loss: -0.3773
+Saving models...
+7m 23s Epoch: 12/300
+8m 3s Discriminator Loss: -5.3303 Generator Loss: -0.4916
+Saving models...
+8m 3s Epoch: 13/300
+8m 43s Discriminator Loss: -5.8543 Generator Loss: -0.3978
+Saving models...
+8m 44s Epoch: 14/300
+9m 24s Discriminator Loss: -5.8966 Generator Loss: -0.3598
+Saving models...
+9m 24s Epoch: 15/300
+10m 4s Discriminator Loss: -6.2704 Generator Loss: -0.4888
+Saving models...
+10m 5s Epoch: 16/300
+10m 45s Discriminator Loss: -5.9596 Generator Loss: -0.1625
+Saving models...
+10m 45s Epoch: 17/300
+11m 25s Discriminator Loss: -5.7661 Generator Loss: -0.3308
+Saving models...
+11m 26s Epoch: 18/300
+12m 6s Discriminator Loss: -5.6313 Generator Loss: -0.1328
+Saving models...
+12m 7s Epoch: 19/300
+12m 47s Discriminator Loss: -5.6078 Generator Loss: -0.4298
+Saving models...
+12m 47s Epoch: 20/300
+13m 27s Discriminator Loss: -5.7350 Generator Loss: -0.1294
+Saving models...
+13m 28s Epoch: 21/300
+14m 8s Discriminator Loss: -5.3241 Generator Loss: -0.1320
+Saving models...
+14m 8s Epoch: 22/300
+14m 48s Discriminator Loss: -5.7714 Generator Loss: -0.3932
+Saving models...
+14m 49s Epoch: 23/300
+15m 29s Discriminator Loss: -5.6665 Generator Loss: -0.2480
+Saving models...
+15m 29s Epoch: 24/300
+16m 9s Discriminator Loss: -5.5989 Generator Loss: -0.1708
+Saving models...
+16m 10s Epoch: 25/300
+16m 50s Discriminator Loss: -5.8105 Generator Loss: -0.2673
+Saving models...
+16m 50s Epoch: 26/300
+17m 30s Discriminator Loss: -6.3383 Generator Loss: -0.4140
+Saving models...
+17m 31s Epoch: 27/300
+18m 10s Discriminator Loss: -5.6964 Generator Loss: -0.2666
+Saving models...
+18m 11s Epoch: 28/300
+18m 51s Discriminator Loss: -5.5915 Generator Loss: -0.5192
+Saving models...
+18m 51s Epoch: 29/300
+19m 31s Discriminator Loss: -5.8614 Generator Loss: -0.3746
+Saving models...
+19m 32s Epoch: 30/300
+20m 12s Discriminator Loss: -5.6341 Generator Loss: -0.2078
+Saving models...
+20m 12s Epoch: 31/300
+20m 53s Discriminator Loss: -5.5411 Generator Loss: -0.0657
+Saving models...
+20m 53s Epoch: 32/300
+21m 33s Discriminator Loss: -5.7534 Generator Loss: -0.0104
+Saving models...
+21m 34s Epoch: 33/300
+22m 14s Discriminator Loss: -5.6481 Generator Loss: -0.2348
+Saving models...
+22m 14s Epoch: 34/300
+22m 55s Discriminator Loss: -5.8655 Generator Loss: -0.5209
+Saving models...
+22m 55s Epoch: 35/300
+23m 35s Discriminator Loss: -5.8827 Generator Loss: -0.2286
+Saving models...
+23m 36s Epoch: 36/300
+24m 16s Discriminator Loss: -6.0839 Generator Loss: -0.1802
+Saving models...
+24m 17s Epoch: 37/300
+24m 57s Discriminator Loss: -5.9634 Generator Loss: -0.4891
+Saving models...
+24m 57s Epoch: 38/300
+25m 37s Discriminator Loss: -6.0573 Generator Loss: -0.0251
+Saving models...
+25m 38s Epoch: 39/300
+26m 18s Discriminator Loss: -5.9213 Generator Loss: -0.0576
+Saving models...
+26m 19s Epoch: 40/300
+26m 59s Discriminator Loss: -5.8582 Generator Loss: -0.3168
+Saving models...
+27m 0s Epoch: 41/300
+27m 41s Discriminator Loss: -5.6980 Generator Loss: -0.2397
+Saving models...
+27m 41s Epoch: 42/300
+28m 21s Discriminator Loss: -5.6868 Generator Loss: -0.3350
+Saving models...
+28m 22s Epoch: 43/300
+29m 2s Discriminator Loss: -5.7423 Generator Loss: -0.0261
+Saving models...
+29m 3s Epoch: 44/300
+29m 43s Discriminator Loss: -5.6698 Generator Loss: -0.3055
+Saving models...
+29m 43s Epoch: 45/300
+30m 23s Discriminator Loss: -5.8412 Generator Loss: 0.0270
+Saving models...
+30m 24s Epoch: 46/300
+31m 4s Discriminator Loss: -5.5830 Generator Loss: -0.2415
+Saving models...
+31m 5s Epoch: 47/300
+31m 45s Discriminator Loss: -5.6264 Generator Loss: -0.1996
+Saving models...
+31m 45s Epoch: 48/300
+32m 25s Discriminator Loss: -5.9456 Generator Loss: -0.3854
+Saving models...
+32m 26s Epoch: 49/300
+33m 6s Discriminator Loss: -5.6787 Generator Loss: -0.2205
+Saving models...
+33m 7s Epoch: 50/300
+33m 47s Discriminator Loss: -6.1163 Generator Loss: -0.2022
+Saving models...
+33m 47s Epoch: 51/300
+34m 27s Discriminator Loss: -5.9786 Generator Loss: -0.2381
+Saving models...
+34m 28s Epoch: 52/300
+35m 8s Discriminator Loss: -5.6116 Generator Loss: -0.0810
+Saving models...
+35m 9s Epoch: 53/300
+35m 49s Discriminator Loss: -5.9560 Generator Loss: -0.1970
+Saving models...
+35m 49s Epoch: 54/300
+36m 29s Discriminator Loss: -5.3545 Generator Loss: -0.0137
+Saving models...
+36m 30s Epoch: 55/300
+37m 10s Discriminator Loss: -5.8931 Generator Loss: -0.2682
+Saving models...
+37m 10s Epoch: 56/300
+37m 50s Discriminator Loss: -5.5626 Generator Loss: -0.0647
+Saving models...
+37m 51s Epoch: 57/300
+38m 31s Discriminator Loss: -5.8282 Generator Loss: -0.1533
+Saving models...
+38m 32s Epoch: 58/300
+39m 12s Discriminator Loss: -5.7099 Generator Loss: -0.0669
+Saving models...
+39m 12s Epoch: 59/300
+39m 52s Discriminator Loss: -5.9684 Generator Loss: -0.3104
+Saving models...
+39m 53s Epoch: 60/300
+40m 33s Discriminator Loss: -5.6634 Generator Loss: -0.0722
+Saving models...
+40m 33s Epoch: 61/300
+41m 14s Discriminator Loss: -5.9547 Generator Loss: -0.1282
+Saving models...
+41m 14s Epoch: 62/300
+41m 54s Discriminator Loss: -5.7911 Generator Loss: -0.0263
+Saving models...
+41m 55s Epoch: 63/300
+42m 35s Discriminator Loss: -5.9472 Generator Loss: -0.3747
+Saving models...
+42m 35s Epoch: 64/300
+43m 15s Discriminator Loss: -5.9620 Generator Loss: -0.0800
+Saving models...
+43m 16s Epoch: 65/300
+43m 56s Discriminator Loss: -5.7665 Generator Loss: -0.0344
+Saving models...
+43m 57s Epoch: 66/300
+44m 37s Discriminator Loss: -5.8794 Generator Loss: -0.4545
+Saving models...
+44m 37s Epoch: 67/300
+45m 17s Discriminator Loss: -5.7158 Generator Loss: -0.1536
+Saving models...
+45m 18s Epoch: 68/300
+63m 46s Discriminator Loss: -5.5516 Generator Loss: -0.2210
+Saving models...
+63m 46s Epoch: 69/300
+64m 25s Discriminator Loss: -5.7096 Generator Loss: -0.4066
+Saving models...
+64m 26s Epoch: 70/300
+65m 5s Discriminator Loss: -5.5255 Generator Loss: -0.0919
+Saving models...
+65m 6s Epoch: 71/300
+65m 45s Discriminator Loss: -5.7485 Generator Loss: -0.1716
+Saving models...
+65m 46s Epoch: 72/300
+66m 26s Discriminator Loss: -5.7676 Generator Loss: -0.0973
+Saving models...
+66m 26s Epoch: 73/300
+67m 6s Discriminator Loss: -5.9245 Generator Loss: -0.2974
+Saving models...
+67m 6s Epoch: 74/300
+67m 46s Discriminator Loss: -5.4662 Generator Loss: 0.1140
+Saving models...
+67m 47s Epoch: 75/300
+68m 26s Discriminator Loss: -5.5884 Generator Loss: -0.0610
+Saving models...
+68m 27s Epoch: 76/300
+69m 7s Discriminator Loss: -5.9689 Generator Loss: -0.1594
+Saving models...
+69m 7s Epoch: 77/300
+69m 47s Discriminator Loss: -6.1124 Generator Loss: -0.1470
+Saving models...
+69m 48s Epoch: 78/300
+70m 28s Discriminator Loss: -5.7165 Generator Loss: -0.2828
+Saving models...
+70m 28s Epoch: 79/300
+71m 8s Discriminator Loss: -5.6035 Generator Loss: 0.0064
+Saving models...
+71m 9s Epoch: 80/300
+71m 49s Discriminator Loss: -5.7524 Generator Loss: -0.1641
+Saving models...
+71m 49s Epoch: 81/300
+72m 29s Discriminator Loss: -5.6651 Generator Loss: -0.2510
+Saving models...
+72m 30s Epoch: 82/300
+73m 10s Discriminator Loss: -5.9551 Generator Loss: -0.1531
+Saving models...
+73m 10s Epoch: 83/300
+73m 50s Discriminator Loss: -6.0675 Generator Loss: -0.1337
+Saving models...
+73m 51s Epoch: 84/300
+74m 31s Discriminator Loss: -5.4643 Generator Loss: -0.3236
+Saving models...
+74m 31s Epoch: 85/300
+75m 11s Discriminator Loss: -5.8674 Generator Loss: -0.2832
+Saving models...
+75m 12s Epoch: 86/300
+75m 52s Discriminator Loss: -5.9132 Generator Loss: -0.1635
+Saving models...
+75m 52s Epoch: 87/300
+76m 32s Discriminator Loss: -5.3029 Generator Loss: -0.1495
+Saving models...
+76m 33s Epoch: 88/300
+77m 13s Discriminator Loss: -5.9258 Generator Loss: -0.3508
+Saving models...
+77m 14s Epoch: 89/300
+77m 54s Discriminator Loss: -5.5723 Generator Loss: -0.1479
+Saving models...
+77m 54s Epoch: 90/300
+78m 34s Discriminator Loss: -5.4901 Generator Loss: -0.1719
+Saving models...
+78m 35s Epoch: 91/300
+79m 15s Discriminator Loss: -5.8778 Generator Loss: -0.1770
+Saving models...
+79m 15s Epoch: 92/300
+79m 55s Discriminator Loss: -5.7586 Generator Loss: -0.3269
+Saving models...
+79m 56s Epoch: 93/300
+80m 36s Discriminator Loss: -5.7018 Generator Loss: 0.0878
+Saving models...
+80m 36s Epoch: 94/300
+81m 16s Discriminator Loss: -6.2064 Generator Loss: -0.1941
+Saving models...
+81m 17s Epoch: 95/300
+81m 58s Discriminator Loss: -6.0148 Generator Loss: -0.5698
+Saving models...
+81m 59s Epoch: 96/300
+82m 39s Discriminator Loss: -5.5426 Generator Loss: -0.3054
+Saving models...
+82m 40s Epoch: 97/300
+83m 20s Discriminator Loss: -5.7387 Generator Loss: -0.2764
+Saving models...
+83m 21s Epoch: 98/300
+84m 1s Discriminator Loss: -5.7582 Generator Loss: -0.1462
+Saving models...
+84m 1s Epoch: 99/300
+84m 42s Discriminator Loss: -5.6337 Generator Loss: 0.1278
+Saving models...
+84m 42s Epoch: 100/300
+85m 22s Discriminator Loss: -5.6928 Generator Loss: -0.4194
+Saving models...
+85m 23s Epoch: 101/300
+86m 3s Discriminator Loss: -5.7229 Generator Loss: -0.0885
+Saving models...
+86m 4s Epoch: 102/300
+86m 44s Discriminator Loss: -5.6248 Generator Loss: -0.3850
+Saving models...
+86m 45s Epoch: 103/300
+87m 25s Discriminator Loss: -5.6752 Generator Loss: -0.2241
+Saving models...
+87m 26s Epoch: 104/300
+88m 6s Discriminator Loss: -5.8214 Generator Loss: -0.0322
+Saving models...
+88m 6s Epoch: 105/300
+88m 47s Discriminator Loss: -5.9278 Generator Loss: -0.3265
+Saving models...
+88m 47s Epoch: 106/300
+89m 28s Discriminator Loss: -5.2368 Generator Loss: -0.1680
+Saving models...
+89m 29s Epoch: 107/300
+90m 9s Discriminator Loss: -5.7397 Generator Loss: 0.0110
+Saving models...
+90m 9s Epoch: 108/300
+90m 50s Discriminator Loss: -5.8258 Generator Loss: -0.1301
+Saving models...
+90m 51s Epoch: 109/300
+91m 31s Discriminator Loss: -5.5389 Generator Loss: -0.5249
+Saving models...
+91m 31s Epoch: 110/300
+92m 12s Discriminator Loss: -6.0303 Generator Loss: -0.4504
+Saving models...
+92m 12s Epoch: 111/300
+92m 52s Discriminator Loss: -5.5644 Generator Loss: 0.0869
+Saving models...
+92m 53s Epoch: 112/300
+93m 33s Discriminator Loss: -5.7174 Generator Loss: -0.2441
+Saving models...
+93m 34s Epoch: 113/300
+94m 14s Discriminator Loss: -5.6183 Generator Loss: 0.2698
+Saving models...
+94m 15s Epoch: 114/300
+94m 55s Discriminator Loss: -5.6585 Generator Loss: -0.4192
+Saving models...
+94m 56s Epoch: 115/300
+95m 37s Discriminator Loss: -5.4836 Generator Loss: 0.0440
+Saving models...
+95m 37s Epoch: 116/300
+96m 18s Discriminator Loss: -5.8516 Generator Loss: -0.1088
+Saving models...
+96m 18s Epoch: 117/300
+96m 59s Discriminator Loss: -5.9493 Generator Loss: -0.1690
+Saving models...
+97m 0s Epoch: 118/300
+97m 39s Discriminator Loss: -5.9037 Generator Loss: -0.3356
+Saving models...
+97m 40s Epoch: 119/300
+<--------------- Loading Model --------------->
+<--------------- Loading Data --------------->
+<------ Training started with EPOCHS = 50 and BATCH_SIZE = 16 ------>
+0m 0s Epoch: 1/50
+1m 5s Discriminator Loss: -5.958693 || Generator Loss: -0.445601
+Saving models...
+1m 6s Epoch: 2/50
+2m 16s Discriminator Loss: -5.649130 || Generator Loss: 0.269061
+Saving models...
+2m 17s Epoch: 3/50
+3m 3s Discriminator Loss: -5.724531 || Generator Loss: -0.084239
+Saving models...
+3m 4s Epoch: 4/50
+3m 44s Discriminator Loss: -5.628047 || Generator Loss: -0.154122
+Saving models...
+3m 45s Epoch: 5/50
+4m 25s Discriminator Loss: -5.552602 || Generator Loss: -0.060378
+Saving models...
+4m 26s Epoch: 6/50
+5m 7s Discriminator Loss: -5.611838 || Generator Loss: 0.000570
+Saving models...
+5m 7s Epoch: 7/50
+5m 48s Discriminator Loss: -5.744343 || Generator Loss: 0.180324
+Saving models...
+5m 49s Epoch: 8/50
+6m 29s Discriminator Loss: -5.592454 || Generator Loss: -0.167380
+Saving models...
+6m 30s Epoch: 9/50
+7m 10s Discriminator Loss: -5.976597 || Generator Loss: -0.246384
+Saving models...
+7m 11s Epoch: 10/50
+7m 51s Discriminator Loss: -5.972424 || Generator Loss: -0.324771
+Saving models...
+7m 52s Epoch: 11/50
+8m 33s Discriminator Loss: -5.884013 || Generator Loss: -0.264992
+Saving models...
+8m 33s Epoch: 12/50
+9m 13s Discriminator Loss: -5.424284 || Generator Loss: -0.012401
+Saving models...
+9m 14s Epoch: 13/50
+9m 54s Discriminator Loss: -6.108369 || Generator Loss: 0.019747
+Saving models...
+9m 55s Epoch: 14/50
+10m 36s Discriminator Loss: -6.012499 || Generator Loss: -0.132995
+Saving models...
+10m 36s Epoch: 15/50
+11m 17s Discriminator Loss: -5.953098 || Generator Loss: -0.089748
+Saving models...
+11m 18s Epoch: 16/50
+11m 58s Discriminator Loss: -5.461142 || Generator Loss: -0.155149
+Saving models...
+11m 59s Epoch: 17/50
+12m 39s Discriminator Loss: -5.667650 || Generator Loss: -0.135375
+Saving models...
+12m 40s Epoch: 18/50
+13m 21s Discriminator Loss: -5.913679 || Generator Loss: -0.217098
+Saving models...
+13m 21s Epoch: 19/50
+14m 2s Discriminator Loss: -5.722604 || Generator Loss: -0.160761
+Saving models...
+14m 2s Epoch: 20/50
+14m 42s Discriminator Loss: -5.845941 || Generator Loss: -0.289742
+Saving models...
+14m 43s Epoch: 21/50
+15m 23s Discriminator Loss: -6.077893 || Generator Loss: -0.215141
+Saving models...
+15m 24s Epoch: 22/50
+16m 5s Discriminator Loss: -5.928839 || Generator Loss: -0.198415
+Saving models...
+16m 5s Epoch: 23/50
+16m 46s Discriminator Loss: -5.665669 || Generator Loss: -0.196038
+Saving models...
+16m 46s Epoch: 24/50
+17m 27s Discriminator Loss: -5.836724 || Generator Loss: -0.058696
+Saving models...
+17m 28s Epoch: 25/50
+18m 8s Discriminator Loss: -5.557956 || Generator Loss: -0.095131
+Saving models...
+18m 9s Epoch: 26/50
+18m 50s Discriminator Loss: -5.980611 || Generator Loss: -0.149735
+Saving models...
+18m 50s Epoch: 27/50
+19m 31s Discriminator Loss: -5.679827 || Generator Loss: -0.037979
+Saving models...
+19m 32s Epoch: 28/50
+20m 12s Discriminator Loss: -6.169699 || Generator Loss: -0.385461
+Saving models...
+20m 13s Epoch: 29/50
+20m 53s Discriminator Loss: -5.475164 || Generator Loss: 0.112061
+Saving models...
+20m 54s Epoch: 30/50
+21m 34s Discriminator Loss: -5.944050 || Generator Loss: -0.285538
+Saving models...
+21m 35s Epoch: 31/50
+22m 16s Discriminator Loss: -5.408733 || Generator Loss: 0.071186
+Saving models...
+22m 16s Epoch: 32/50
+22m 57s Discriminator Loss: -5.768879 || Generator Loss: -0.091979
+Saving models...
+22m 57s Epoch: 33/50
+23m 37s Discriminator Loss: -5.735281 || Generator Loss: -0.295627
+Saving models...
+23m 38s Epoch: 34/50
